@@ -8,18 +8,19 @@ data = {}
 
 def get_shows(show):
     
-    rank = shows[1].find(class_='rank ac').text.strip() #Anime rank
+    rank = show.find(class_='rank ac').text.strip() #Anime rank
 
-    name = shows[1].find(class_='title al va-t word-break').find('img')['alt'] #Anime name
+    name = show.find(class_='title al va-t word-break').find('img')['alt'] #Anime name
 
     try:
-        rating = shows[1].find(class_='text on score-label score-8').text #Anime rating
+        rating = show.find(class_='text on score-label score-8').text #Anime rating
     except:
         rating = "unknown"
 
-    info = shows[1].find(class_='information di-ib mt4').text
+    info = show.find(class_='information di-ib mt4').text
 
     return rank, name, rating, info
+
 
 def get_show_info(info):
 
@@ -29,19 +30,23 @@ def get_show_info(info):
 
     return show_type, air_time
 
-for i in range(50, 1050, 50):
+
+for i in range(0, 1050, 50):
 
     html_doc = requests.get(f'https://myanimelist.net/topanime.php?limit={i}').text
 
     soup = BeautifulSoup(html_doc, features="html.parser")
     shows = soup.find_all(class_="ranking-list")
 
-    rank, name, rating, info = get_shows(shows)
+    for show in shows:
+        rank, name, rating, info = get_shows(show)
 
-    show_type, air_time = get_show_info(info)
+        show_type, air_time = get_show_info(info)
 
-    data[f"id: {rank}"] = {"name" : name, "type": show_type, "rating" : rating, "air time" : air_time}
+        data[f"id: {rank}"] = {"name" : name, "type": show_type, "rating" : rating, "air time" : air_time}
 
 
 with open('data.json','w') as jsonFile:
     json.dump(data, jsonFile)
+
+
