@@ -9,7 +9,7 @@ def get_shows(show):
     
     rank = show.find(class_='rank ac').text.strip() #Anime rank
 
-    name = show.find(class_='title al va-t word-break').find('img')['alt'] #Anime name
+    name = show.find(class_='title al va-t word-break').find('img')['alt'].split('Anime:')[-1].strip() #Anime name
 
     try:
         rating = show.find(class_='text on score-label score-8').text #Anime rating

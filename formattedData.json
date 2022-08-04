@@ -1,0 +1,6302 @@
+{
+   "id: 1": {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "type": "TV (64 eps)",
+      "rating": "9.13",
+      "air time": "Apr 2009 - Jul 2010"
+   },
+   "id: 2": {
+      "name": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+      "type": "TV (13 eps)",
+      "rating": "9.13",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 3": {
+      "name": "Gintama°",
+      "type": "TV (51 eps)",
+      "rating": "9.08",
+      "air time": "Apr 2015 - Mar 2016"
+   },
+   "id: 4": {
+      "name": "Steins;Gate",
+      "type": "TV (24 eps)",
+      "rating": "9.08",
+      "air time": "Apr 2011 - Sep 2011"
+   },
+   "id: 5": {
+      "name": "Shingeki no Kyojin Season 3 Part 2",
+      "type": "TV (10 eps)",
+      "rating": "9.07",
+      "air time": "Apr 2019 - Jul 2019"
+   },
+   "id: 6": {
+      "name": "Gintama&#039;",
+      "type": "TV (51 eps)",
+      "rating": "9.05",
+      "air time": "Apr 2011 - Mar 2012"
+   },
+   "id: 7": {
+      "name": "Gintama: The Final",
+      "type": "Movie (1 eps)",
+      "rating": "9.05",
+      "air time": "Jan 2021 - Jan 2021"
+   },
+   "id: 8": {
+      "name": "Gintama&#039;: Enchousen",
+      "type": "TV (13 eps)",
+      "rating": "9.04",
+      "air time": "Oct 2012 - Mar 2013"
+   },
+   "id: 9": {
+      "name": "Hunter x Hunter (2011)",
+      "type": "TV (148 eps)",
+      "rating": "9.04",
+      "air time": "Oct 2011 - Sep 2014"
+   },
+   "id: 10": {
+      "name": "Fruits Basket: The Final",
+      "type": "TV (13 eps)",
+      "rating": "9.03",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 11": {
+      "name": "Ginga Eiyuu Densetsu",
+      "type": "OVA (110 eps)",
+      "rating": "9.03",
+      "air time": "Jan 1988 - Mar 1997"
+   },
+   "id: 12": {
+      "name": "Gintama.",
+      "type": "TV (12 eps)",
+      "rating": "8.99",
+      "air time": "Jan 2017 - Mar 2017"
+   },
+   "id: 13": {
+      "name": "3-gatsu no Lion 2nd Season",
+      "type": "TV (22 eps)",
+      "rating": "8.95",
+      "air time": "Oct 2017 - Mar 2018"
+   },
+   "id: 14": {
+      "name": "Gintama",
+      "type": "TV (201 eps)",
+      "rating": "8.95",
+      "air time": "Apr 2006 - Mar 2010"
+   },
+   "id: 15": {
+      "name": "Koe no Katachi",
+      "type": "Movie (1 eps)",
+      "rating": "8.95",
+      "air time": "Sep 2016 - Sep 2016"
+   },
+   "id: 16": {
+      "name": "Clannad: After Story",
+      "type": "TV (24 eps)",
+      "rating": "8.94",
+      "air time": "Oct 2008 - Mar 2009"
+   },
+   "id: 17": {
+      "name": "Violet Evergarden Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.94",
+      "air time": "Sep 2020 - Sep 2020"
+   },
+   "id: 18": {
+      "name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+      "type": "Movie (1 eps)",
+      "rating": "8.93",
+      "air time": "Jul 2013 - Jul 2013"
+   },
+   "id: 19": {
+      "name": "Code Geass: Hangyaku no Lelouch R2",
+      "type": "TV (25 eps)",
+      "rating": "8.91",
+      "air time": "Apr 2008 - Sep 2008"
+   },
+   "id: 20": {
+      "name": "Owarimonogatari 2nd Season",
+      "type": "TV (7 eps)",
+      "rating": "8.90",
+      "air time": "Aug 2017 - Aug 2017"
+   },
+   "id: 21": {
+      "name": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
+      "type": "TV (14 eps)",
+      "rating": "8.88",
+      "air time": "Jul 2018 - Oct 2018"
+   },
+   "id: 22": {
+      "name": "Kimetsu no Yaiba: Yuukaku-hen",
+      "type": "TV (11 eps)",
+      "rating": "8.86",
+      "air time": "Dec 2021 - Feb 2022"
+   },
+   "id: 23": {
+      "name": "Kimi no Na wa.",
+      "type": "Movie (1 eps)",
+      "rating": "8.86",
+      "air time": "Aug 2016 - Aug 2016"
+   },
+   "id: 24": {
+      "name": "Monster",
+      "type": "TV (74 eps)",
+      "rating": "8.84",
+      "air time": "Apr 2004 - Sep 2005"
+   },
+   "id: 25": {
+      "name": "Shingeki no Kyojin: The Final Season",
+      "type": "TV (16 eps)",
+      "rating": "8.83",
+      "air time": "Dec 2020 - Mar 2021"
+   },
+   "id: 26": {
+      "name": "Shingeki no Kyojin: The Final Season Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.82",
+      "air time": "Jan 2022 - Apr 2022"
+   },
+   "id: 27": {
+      "name": "Mob Psycho 100 II",
+      "type": "TV (13 eps)",
+      "rating": "8.81",
+      "air time": "Jan 2019 - Apr 2019"
+   },
+   "id: 28": {
+      "name": "Gintama.: Shirogane no Tamashii-hen",
+      "type": "TV (12 eps)",
+      "rating": "8.81",
+      "air time": "Jan 2018 - Mar 2018"
+   },
+   "id: 29": {
+      "name": "Kingdom 3rd Season",
+      "type": "TV (26 eps)",
+      "rating": "8.81",
+      "air time": "Apr 2020 - Oct 2021"
+   },
+   "id: 30": {
+      "name": "Kizumonogatari III: Reiketsu-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.80",
+      "air time": "Jan 2017 - Jan 2017"
+   },
+   "id: 31": {
+      "name": "Spy x Family",
+      "type": "TV (12 eps)",
+      "rating": "8.80",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 32": {
+      "name": "Shiguang Dailiren",
+      "type": "ONA (11 eps)",
+      "rating": "8.79",
+      "air time": "Apr 2021 - Jul 2021"
+   },
+   "id: 33": {
+      "name": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+      "type": "TV (10 eps)",
+      "rating": "8.79",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 34": {
+      "name": "Kingdom 4th Season",
+      "type": "TV (26 eps)",
+      "rating": "8.79",
+      "air time": "Apr 2022 -"
+   },
+   "id: 35": {
+      "name": "Sen to Chihiro no Kamikakushi",
+      "type": "Movie (1 eps)",
+      "rating": "8.78",
+      "air time": "Jul 2001 - Jul 2001"
+   },
+   "id: 36": {
+      "name": "Monogatari Series: Second Season",
+      "type": "TV (26 eps)",
+      "rating": "8.77",
+      "air time": "Jul 2013 - Dec 2013"
+   },
+   "id: 37": {
+      "name": "Made in Abyss: Retsujitsu no Ougonkyou",
+      "type": "TV (12 eps)",
+      "rating": "8.75",
+      "air time": "Jul 2022 -"
+   },
+   "id: 38": {
+      "name": "Cowboy Bebop",
+      "type": "TV (26 eps)",
+      "rating": "8.75",
+      "air time": "Apr 1998 - Apr 1999"
+   },
+   "id: 39": {
+      "name": "Hajime no Ippo",
+      "type": "TV (75 eps)",
+      "rating": "8.75",
+      "air time": "Oct 2000 - Mar 2002"
+   },
+   "id: 40": {
+      "name": "Mushishi Zoku Shou 2nd Season",
+      "type": "TV (10 eps)",
+      "rating": "8.74",
+      "air time": "Oct 2014 - Dec 2014"
+   },
+   "id: 41": {
+      "name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+      "type": "TV (12 eps)",
+      "rating": "8.74",
+      "air time": "Jan 2017 - Mar 2017"
+   },
+   "id: 42": {
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.73",
+      "air time": "Oct 2021 - Dec 2021"
+   },
+   "id: 43": {
+      "name": "Odd Taxi",
+      "type": "TV (13 eps)",
+      "rating": "8.73",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 44": {
+      "name": "Vinland Saga",
+      "type": "TV (24 eps)",
+      "rating": "8.73",
+      "air time": "Jul 2019 - Dec 2019"
+   },
+   "id: 45": {
+      "name": "86 Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.72",
+      "air time": "Oct 2021 - Mar 2022"
+   },
+   "id: 46": {
+      "name": "Ashita no Joe 2",
+      "type": "TV (47 eps)",
+      "rating": "8.71",
+      "air time": "Oct 1980 - Aug 1981"
+   },
+   "id: 47": {
+      "name": "Fate/stay night Movie: Heaven&#039;s Feel - III. Spring Song",
+      "type": "Movie (1 eps)",
+      "rating": "8.71",
+      "air time": "Aug 2020 - Aug 2020"
+   },
+   "id: 48": {
+      "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+      "type": "OVA (4 eps)",
+      "rating": "8.71",
+      "air time": "Feb 1999 - Sep 1999"
+   },
+   "id: 49": {
+      "name": "Mushishi Zoku Shou",
+      "type": "TV (10 eps)",
+      "rating": "8.70",
+      "air time": "Apr 2014 - Jun 2014"
+   },
+   "id: 50": {
+      "name": "Code Geass: Hangyaku no Lelouch",
+      "type": "TV (25 eps)",
+      "rating": "8.70",
+      "air time": "Oct 2006 - Jul 2007"
+   },
+   "id: 51": {
+      "name": "Great Teacher Onizuka",
+      "type": "TV (43 eps)",
+      "rating": "8.69",
+      "air time": "Jun 1999 - Sep 2000"
+   },
+   "id: 52": {
+      "name": "Jujutsu Kaisen (TV)",
+      "type": "TV (24 eps)",
+      "rating": "8.68",
+      "air time": "Oct 2020 - Mar 2021"
+   },
+   "id: 53": {
+      "name": "Made in Abyss",
+      "type": "TV (13 eps)",
+      "rating": "8.67",
+      "air time": "Jul 2017 - Sep 2017"
+   },
+   "id: 54": {
+      "name": "Mo Dao Zu Shi: Wanjie Pian",
+      "type": "ONA (12 eps)",
+      "rating": "8.67",
+      "air time": "Aug 2021 - Oct 2021"
+   },
+   "id: 55": {
+      "name": "Mononoke Hime",
+      "type": "Movie (1 eps)",
+      "rating": "8.67",
+      "air time": "Jul 1997 - Jul 1997"
+   },
+   "id: 56": {
+      "name": "Mushishi",
+      "type": "TV (26 eps)",
+      "rating": "8.67",
+      "air time": "Oct 2005 - Jun 2006"
+   },
+   "id: 57": {
+      "name": "Violet Evergarden",
+      "type": "TV (13 eps)",
+      "rating": "8.67",
+      "air time": "Jan 2018 - Apr 2018"
+   },
+   "id: 58": {
+      "name": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+      "type": "Movie (1 eps)",
+      "rating": "8.66",
+      "air time": "Jan 2020 - Jan 2020"
+   },
+   "id: 59": {
+      "name": "One Piece",
+      "type": "TV (? eps)",
+      "rating": "8.66",
+      "air time": "Oct 1999 -"
+   },
+   "id: 60": {
+      "name": "Shigatsu wa Kimi no Uso",
+      "type": "TV (22 eps)",
+      "rating": "8.66",
+      "air time": "Oct 2014 - Mar 2015"
+   },
+   "id: 61": {
+      "name": "Hajime no Ippo: New Challenger",
+      "type": "TV (26 eps)",
+      "rating": "8.66",
+      "air time": "Jan 2009 - Jul 2009"
+   },
+   "id: 62": {
+      "name": "Howl no Ugoku Shiro",
+      "type": "Movie (1 eps)",
+      "rating": "8.66",
+      "air time": "Nov 2004 - Nov 2004"
+   },
+   "id: 63": {
+      "name": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+      "type": "TV (12 eps)",
+      "rating": "8.65",
+      "air time": "Apr 2020 - Jun 2020"
+   },
+   "id: 64": {
+      "name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.65",
+      "air time": "Oct 2020 - Oct 2020"
+   },
+   "id: 65": {
+      "name": "Natsume Yuujinchou Shi",
+      "type": "TV (13 eps)",
+      "rating": "8.65",
+      "air time": "Jan 2012 - Mar 2012"
+   },
+   "id: 66": {
+      "name": "Haikyuu!! Second Season",
+      "type": "TV (25 eps)",
+      "rating": "8.64",
+      "air time": "Oct 2015 - Mar 2016"
+   },
+   "id: 67": {
+      "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "type": "Movie (1 eps)",
+      "rating": "8.63",
+      "air time": "Mar 2021 - Mar 2021"
+   },
+   "id: 68": {
+      "name": "Natsume Yuujinchou Roku",
+      "type": "TV (11 eps)",
+      "rating": "8.63",
+      "air time": "Apr 2017 - Jun 2017"
+   },
+   "id: 69": {
+      "name": "Tengen Toppa Gurren Lagann",
+      "type": "TV (27 eps)",
+      "rating": "8.63",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 70": {
+      "name": "Ping Pong the Animation",
+      "type": "TV (11 eps)",
+      "rating": "8.62",
+      "air time": "Apr 2014 - Jun 2014"
+   },
+   "id: 71": {
+      "name": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+      "type": "Movie (1 eps)",
+      "rating": "8.62",
+      "air time": "Jun 2019 - Jun 2019"
+   },
+   "id: 72": {
+      "name": "Shingeki no Kyojin Season 3",
+      "type": "TV (12 eps)",
+      "rating": "8.62",
+      "air time": "Jul 2018 - Oct 2018"
+   },
+   "id: 73": {
+      "name": "Suzumiya Haruhi no Shoushitsu",
+      "type": "Movie (1 eps)",
+      "rating": "8.62",
+      "air time": "Feb 2010 - Feb 2010"
+   },
+   "id: 74": {
+      "name": "Death Note",
+      "type": "TV (37 eps)",
+      "rating": "8.62",
+      "air time": "Oct 2006 - Jun 2007"
+   },
+   "id: 75": {
+      "name": "Ousama Ranking",
+      "type": "TV (23 eps)",
+      "rating": "8.61",
+      "air time": "Oct 2021 - Mar 2022"
+   },
+   "id: 76": {
+      "name": "Mushishi Zoku Shou: Suzu no Shizuku",
+      "type": "Movie (1 eps)",
+      "rating": "8.60",
+      "air time": "May 2015 - May 2015"
+   },
+   "id: 77": {
+      "name": "Ookami Kodomo no Ame to Yuki",
+      "type": "Movie (1 eps)",
+      "rating": "8.59",
+      "air time": "Jul 2012 - Jul 2012"
+   },
+   "id: 78": {
+      "name": "Hajime no Ippo: Rising",
+      "type": "TV (25 eps)",
+      "rating": "8.59",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 79": {
+      "name": "Kizumonogatari II: Nekketsu-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.59",
+      "air time": "Aug 2016 - Aug 2016"
+   },
+   "id: 80": {
+      "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+      "type": "TV (39 eps)",
+      "rating": "8.58",
+      "air time": "Oct 2018 - Jul 2019"
+   },
+   "id: 81": {
+      "name": "Natsume Yuujinchou Go",
+      "type": "TV (11 eps)",
+      "rating": "8.58",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 82": {
+      "name": "Natsume Yuujinchou San",
+      "type": "TV (13 eps)",
+      "rating": "8.58",
+      "air time": "Jul 2011 - Sep 2011"
+   },
+   "id: 83": {
+      "name": "Shouwa Genroku Rakugo Shinjuu",
+      "type": "TV (13 eps)",
+      "rating": "8.58",
+      "air time": "Jan 2016 - Apr 2016"
+   },
+   "id: 84": {
+      "name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.57",
+      "air time": "Apr 2009 - Apr 2009"
+   },
+   "id: 85": {
+      "name": "Yojouhan Shinwa Taikei",
+      "type": "TV (11 eps)",
+      "rating": "8.57",
+      "air time": "Apr 2010 - Jul 2010"
+   },
+   "id: 86": {
+      "name": "Fate/Zero 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.56",
+      "air time": "Apr 2012 - Jun 2012"
+   },
+   "id: 87": {
+      "name": "Fruits Basket 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.56",
+      "air time": "Apr 2020 - Sep 2020"
+   },
+   "id: 88": {
+      "name": "Kimi no Suizou wo Tabetai",
+      "type": "Movie (1 eps)",
+      "rating": "8.56",
+      "air time": "Sep 2018 - Sep 2018"
+   },
+   "id: 89": {
+      "name": "Neon Genesis Evangelion: The End of Evangelion",
+      "type": "Movie (1 eps)",
+      "rating": "8.55",
+      "air time": "Jul 1997 - Jul 1997"
+   },
+   "id: 90": {
+      "name": "Shoujo☆Kageki Revue Starlight Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.55",
+      "air time": "Jun 2021 - Jun 2021"
+   },
+   "id: 91": {
+      "name": "Zoku Natsume Yuujinchou",
+      "type": "TV (13 eps)",
+      "rating": "8.55",
+      "air time": "Jan 2009 - Mar 2009"
+   },
+   "id: 92": {
+      "name": "Mushishi: Hihamukage",
+      "type": "Special (1 eps)",
+      "rating": "8.54",
+      "air time": "Jan 2014 - Jan 2014"
+   },
+   "id: 93": {
+      "name": "Slam Dunk",
+      "type": "TV (101 eps)",
+      "rating": "8.54",
+      "air time": "Oct 1993 - Mar 1996"
+   },
+   "id: 94": {
+      "name": "Yakusoku no Neverland",
+      "type": "TV (12 eps)",
+      "rating": "8.54",
+      "air time": "Jan 2019 - Mar 2019"
+   },
+   "id: 95": {
+      "name": "Bakuman. 3rd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.54",
+      "air time": "Oct 2012 - Mar 2013"
+   },
+   "id: 96": {
+      "name": "Haikyuu!! To the Top Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.54",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 97": {
+      "name": "Kara no Kyoukai Movie 5: Mujun Rasen",
+      "type": "Movie (1 eps)",
+      "rating": "8.54",
+      "air time": "Aug 2008 - Aug 2008"
+   },
+   "id: 98": {
+      "name": "Kenpuu Denki Berserk",
+      "type": "TV (25 eps)",
+      "rating": "8.54",
+      "air time": "Oct 1997 - Apr 1998"
+   },
+   "id: 99": {
+      "name": "Kimetsu no Yaiba",
+      "type": "TV (26 eps)",
+      "rating": "8.54",
+      "air time": "Apr 2019 - Sep 2019"
+   },
+   "id: 100": {
+      "name": "Fruits Basket: Prelude",
+      "type": "Movie (1 eps)",
+      "rating": "8.53",
+      "air time": "Feb 2022 - Feb 2022"
+   },
+   "id: 101": {
+      "name": "Gintama.: Porori-hen",
+      "type": "TV (13 eps)",
+      "rating": "8.53",
+      "air time": "Oct 2017 - Dec 2017"
+   },
+   "id: 102": {
+      "name": "Perfect Blue",
+      "type": "Movie (1 eps)",
+      "rating": "8.53",
+      "air time": "Feb 1998 - Feb 1998"
+   },
+   "id: 103": {
+      "name": "Shingeki no Kyojin",
+      "type": "TV (25 eps)",
+      "rating": "8.53",
+      "air time": "Apr 2013 - Sep 2013"
+   },
+   "id: 104": {
+      "name": "Sora yori mo Tooi Basho",
+      "type": "TV (13 eps)",
+      "rating": "8.53",
+      "air time": "Jan 2018 - Mar 2018"
+   },
+   "id: 105": {
+      "name": "Yuru Camp△ Season 2",
+      "type": "TV (13 eps)",
+      "rating": "8.53",
+      "air time": "Jan 2021 - Apr 2021"
+   },
+   "id: 106": {
+      "name": "Nana",
+      "type": "TV (47 eps)",
+      "rating": "8.52",
+      "air time": "Apr 2006 - Mar 2007"
+   },
+   "id: 107": {
+      "name": "Steins;Gate 0",
+      "type": "TV (23 eps)",
+      "rating": "8.52",
+      "air time": "Apr 2018 - Sep 2018"
+   },
+   "id: 108": {
+      "name": "Fate/stay night Movie: Heaven&#039;s Feel - II. Lost Butterfly",
+      "type": "Movie (1 eps)",
+      "rating": "8.52",
+      "air time": "Jan 2019 - Jan 2019"
+   },
+   "id: 109": {
+      "name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.52",
+      "air time": "Apr 2010 - Apr 2010"
+   },
+   "id: 110": {
+      "name": "Jujutsu Kaisen 0 Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.52",
+      "air time": "Dec 2021 - Dec 2021"
+   },
+   "id: 111": {
+      "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+      "type": "TV (26 eps)",
+      "rating": "8.52",
+      "air time": "Jan 2004 - Jan 2005"
+   },
+   "id: 112": {
+      "name": "One Punch Man",
+      "type": "TV (12 eps)",
+      "rating": "8.51",
+      "air time": "Oct 2015 - Dec 2015"
+   },
+   "id: 113": {
+      "name": "Samurai Champloo",
+      "type": "TV (26 eps)",
+      "rating": "8.50",
+      "air time": "May 2004 - Mar 2005"
+   },
+   "id: 114": {
+      "name": "Shingeki no Kyojin Season 2",
+      "type": "TV (12 eps)",
+      "rating": "8.50",
+      "air time": "Apr 2017 - Jun 2017"
+   },
+   "id: 115": {
+      "name": "Uchuu Kyoudai",
+      "type": "TV (99 eps)",
+      "rating": "8.50",
+      "air time": "Apr 2012 - Mar 2014"
+   },
+   "id: 116": {
+      "name": "Ansatsu Kyoushitsu 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.50",
+      "air time": "Jan 2016 - Jul 2016"
+   },
+   "id: 117": {
+      "name": "Banana Fish",
+      "type": "TV (24 eps)",
+      "rating": "8.50",
+      "air time": "Jul 2018 - Dec 2018"
+   },
+   "id: 118": {
+      "name": "Hotaru no Haka",
+      "type": "Movie (1 eps)",
+      "rating": "8.50",
+      "air time": "Apr 1988 - Apr 1988"
+   },
+   "id: 119": {
+      "name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+      "type": "TV (39 eps)",
+      "rating": "8.50",
+      "air time": "Apr 2016 - Dec 2016"
+   },
+   "id: 120": {
+      "name": "Aria the Origination",
+      "type": "TV (13 eps)",
+      "rating": "8.49",
+      "air time": "Jan 2008 - Apr 2008"
+   },
+   "id: 121": {
+      "name": "Rainbow: Nisha Rokubou no Shichinin",
+      "type": "TV (26 eps)",
+      "rating": "8.49",
+      "air time": "Apr 2010 - Sep 2010"
+   },
+   "id: 122": {
+      "name": "Tian Guan Ci Fu Special",
+      "type": "ONA (1 eps)",
+      "rating": "8.49",
+      "air time": "Feb 2021 - Feb 2021"
+   },
+   "id: 123": {
+      "name": "Mob Psycho 100",
+      "type": "TV (12 eps)",
+      "rating": "8.48",
+      "air time": "Jul 2016 - Sep 2016"
+   },
+   "id: 124": {
+      "name": "Karakai Jouzu no Takagi-san 3",
+      "type": "TV (12 eps)",
+      "rating": "8.48",
+      "air time": "Jan 2022 - Mar 2022"
+   },
+   "id: 125": {
+      "name": "Chihayafuru 3",
+      "type": "TV (24 eps)",
+      "rating": "8.47",
+      "air time": "Oct 2019 - Mar 2020"
+   },
+   "id: 126": {
+      "name": "Gintama: The Semi-Final",
+      "type": "Special (2 eps)",
+      "rating": "8.47",
+      "air time": "Jan 2021 - Jan 2021"
+   },
+   "id: 127": {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+      "type": "Movie (1 eps)",
+      "rating": "8.47",
+      "air time": "Aug 2019 - Aug 2019"
+   },
+   "id: 128": {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.47",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 129": {
+      "name": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+      "type": "Movie (1 eps)",
+      "rating": "8.46",
+      "air time": "Oct 2013 - Oct 2013"
+   },
+   "id: 130": {
+      "name": "Mo Dao Zu Shi",
+      "type": "ONA (15 eps)",
+      "rating": "8.46",
+      "air time": "Jul 2018 - Oct 2018"
+   },
+   "id: 131": {
+      "name": "Nichijou",
+      "type": "TV (26 eps)",
+      "rating": "8.46",
+      "air time": "Apr 2011 - Sep 2011"
+   },
+   "id: 132": {
+      "name": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+      "type": "Movie (1 eps)",
+      "rating": "8.46",
+      "air time": "Apr 2013 - Apr 2013"
+   },
+   "id: 133": {
+      "name": "Zoku Owarimonogatari",
+      "type": "Movie (6 eps)",
+      "rating": "8.46",
+      "air time": "Nov 2018 - Nov 2018"
+   },
+   "id: 134": {
+      "name": "Mo Dao Zu Shi: Xian Yun Pian",
+      "type": "ONA (8 eps)",
+      "rating": "8.45",
+      "air time": "Aug 2019 - Sep 2019"
+   },
+   "id: 135": {
+      "name": "Owarimonogatari",
+      "type": "TV (12 eps)",
+      "rating": "8.45",
+      "air time": "Oct 2015 - Dec 2015"
+   },
+   "id: 136": {
+      "name": "Saenai Heroine no Sodatekata Fine",
+      "type": "Movie (1 eps)",
+      "rating": "8.45",
+      "air time": "Oct 2019 - Oct 2019"
+   },
+   "id: 137": {
+      "name": "Summertime Render",
+      "type": "TV (25 eps)",
+      "rating": "8.45",
+      "air time": "Apr 2022 -"
+   },
+   "id: 138": {
+      "name": "Wu Liuqi Zhi Xuanwu Guo Pian",
+      "type": "ONA (10 eps)",
+      "rating": "8.45",
+      "air time": "Jan 2021 - May 2021"
+   },
+   "id: 139": {
+      "name": "Yuu☆Yuu☆Hakusho",
+      "type": "TV (112 eps)",
+      "rating": "8.45",
+      "air time": "Oct 1992 - Jan 1995"
+   },
+   "id: 140": {
+      "name": "Golden Kamuy 3rd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.45",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 141": {
+      "name": "Haikyuu!!",
+      "type": "TV (25 eps)",
+      "rating": "8.45",
+      "air time": "Apr 2014 - Sep 2014"
+   },
+   "id: 142": {
+      "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+      "type": "TV (24 eps)",
+      "rating": "8.44",
+      "air time": "Jan 2015 - Jun 2015"
+   },
+   "id: 143": {
+      "name": "Josee to Tora to Sakana-tachi",
+      "type": "Movie (1 eps)",
+      "rating": "8.44",
+      "air time": "Dec 2020 - Dec 2020"
+   },
+   "id: 144": {
+      "name": "Mushishi Zoku Shou: Odoro no Michi",
+      "type": "Special (1 eps)",
+      "rating": "8.44",
+      "air time": "Aug 2014 - Aug 2014"
+   },
+   "id: 145": {
+      "name": "Vivy: Fluorite Eye&#039;s Song",
+      "type": "TV (13 eps)",
+      "rating": "8.44",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 146": {
+      "name": "Mononoke",
+      "type": "TV (12 eps)",
+      "rating": "8.43",
+      "air time": "Jul 2007 - Sep 2007"
+   },
+   "id: 147": {
+      "name": "Saiki Kusuo no Ψ-nan",
+      "type": "TV (120 eps)",
+      "rating": "8.43",
+      "air time": "Jul 2016 - Dec 2016"
+   },
+   "id: 148": {
+      "name": "Saiki Kusuo no Ψ-nan 2",
+      "type": "TV (24 eps)",
+      "rating": "8.43",
+      "air time": "Jan 2018 - Jun 2018"
+   },
+   "id: 149": {
+      "name": "Gintama: Yorinuki Gintama-san on Theater 2D",
+      "type": "Movie (2 eps)",
+      "rating": "8.43",
+      "air time": "Aug 2012 - Aug 2012"
+   },
+   "id: 150": {
+      "name": "Grand Blue",
+      "type": "TV (12 eps)",
+      "rating": "8.43",
+      "air time": "Jul 2018 - Sep 2018"
+   },
+   "id: 151": {
+      "name": "Kono Oto Tomare! Part 2",
+      "type": "TV (13 eps)",
+      "rating": "8.43",
+      "air time": "Oct 2019 - Dec 2019"
+   },
+   "id: 152": {
+      "name": "Koukaku Kidoutai: Stand Alone Complex",
+      "type": "TV (26 eps)",
+      "rating": "8.43",
+      "air time": "Oct 2002 - Oct 2003"
+   },
+   "id: 153": {
+      "name": "Dr. Stone: Ryuusui",
+      "type": "Special (1 eps)",
+      "rating": "8.41",
+      "air time": "Jul 2022 - Jul 2022"
+   },
+   "id: 154": {
+      "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+      "type": "TV (12 eps)",
+      "rating": "8.41",
+      "air time": "Jan 2019 - Mar 2019"
+   },
+   "id: 155": {
+      "name": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
+      "type": "Movie (1 eps)",
+      "rating": "8.41",
+      "air time": "Aug 2009 - Aug 2009"
+   },
+   "id: 156": {
+      "name": "Major S5",
+      "type": "TV (25 eps)",
+      "rating": "8.41",
+      "air time": "Jan 2009 - Jun 2009"
+   },
+   "id: 157": {
+      "name": "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+      "type": "Movie (1 eps)",
+      "rating": "8.41",
+      "air time": "Sep 2018 - Sep 2018"
+   },
+   "id: 158": {
+      "name": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+      "type": "Movie (1 eps)",
+      "rating": "8.41",
+      "air time": "Feb 2018 - Feb 2018"
+   },
+   "id: 159": {
+      "name": "Shingeki no Kyojin: Kuinaki Sentaku",
+      "type": "OVA (2 eps)",
+      "rating": "8.41",
+      "air time": "Dec 2014 - Apr 2015"
+   },
+   "id: 160": {
+      "name": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+      "type": "Movie (1 eps)",
+      "rating": "8.41",
+      "air time": "Sep 2019 - Sep 2019"
+   },
+   "id: 161": {
+      "name": "Yoru ni Kakeru",
+      "type": "Music (1 eps)",
+      "rating": "8.41",
+      "air time": "Nov 2019 - Nov 2019"
+   },
+   "id: 162": {
+      "name": "Natsume Yuujinchou Roku Specials",
+      "type": "Special (2 eps)",
+      "rating": "8.40",
+      "air time": "Sep 2017 - Oct 2017"
+   },
+   "id: 163": {
+      "name": "Non Non Biyori Nonstop",
+      "type": "TV (12 eps)",
+      "rating": "8.40",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 164": {
+      "name": "Tensei shitara Slime Datta Ken 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.40",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 165": {
+      "name": "Cross Game",
+      "type": "TV (50 eps)",
+      "rating": "8.40",
+      "air time": "Apr 2009 - Mar 2010"
+   },
+   "id: 166": {
+      "name": "Gintama°: Aizome Kaori-hen",
+      "type": "OVA (2 eps)",
+      "rating": "8.40",
+      "air time": "Aug 2016 - Nov 2016"
+   },
+   "id: 167": {
+      "name": "Houseki no Kuni (TV)",
+      "type": "TV (12 eps)",
+      "rating": "8.40",
+      "air time": "Oct 2017 - Dec 2017"
+   },
+   "id: 168": {
+      "name": "Hunter x Hunter",
+      "type": "TV (62 eps)",
+      "rating": "8.40",
+      "air time": "Oct 1999 - Mar 2001"
+   },
+   "id: 169": {
+      "name": "Kaze ga Tsuyoku Fuiteiru",
+      "type": "TV (23 eps)",
+      "rating": "8.40",
+      "air time": "Oct 2018 - Mar 2019"
+   },
+   "id: 170": {
+      "name": "3-gatsu no Lion",
+      "type": "TV (22 eps)",
+      "rating": "8.39",
+      "air time": "Oct 2016 - Mar 2017"
+   },
+   "id: 171": {
+      "name": "Barakamon",
+      "type": "TV (12 eps)",
+      "rating": "8.39",
+      "air time": "Jul 2014 - Sep 2014"
+   },
+   "id: 172": {
+      "name": "Chihayafuru 2",
+      "type": "TV (25 eps)",
+      "rating": "8.39",
+      "air time": "Jan 2013 - Jun 2013"
+   },
+   "id: 173": {
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "type": "TV (7 eps)",
+      "rating": "8.39",
+      "air time": "Oct 2021 - Nov 2021"
+   },
+   "id: 174": {
+      "name": "Tian Guan Ci Fu",
+      "type": "ONA (11 eps)",
+      "rating": "8.39",
+      "air time": "Oct 2020 - Jan 2021"
+   },
+   "id: 175": {
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "type": "TV (11 eps)",
+      "rating": "8.38",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 176": {
+      "name": "Usagi Drop",
+      "type": "TV (11 eps)",
+      "rating": "8.38",
+      "air time": "Jul 2011 - Sep 2011"
+   },
+   "id: 177": {
+      "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "type": "TV (12 eps)",
+      "rating": "8.38",
+      "air time": "Jul 2020 - Sep 2020"
+   },
+   "id: 178": {
+      "name": "Baccano!",
+      "type": "TV (13 eps)",
+      "rating": "8.38",
+      "air time": "Jul 2007 - Nov 2007"
+   },
+   "id: 179": {
+      "name": "Cowboy Bebop: Tengoku no Tobira",
+      "type": "Movie (1 eps)",
+      "rating": "8.38",
+      "air time": "Sep 2001 - Sep 2001"
+   },
+   "id: 180": {
+      "name": "Fumetsu no Anata e",
+      "type": "TV (20 eps)",
+      "rating": "8.38",
+      "air time": "Apr 2021 - Aug 2021"
+   },
+   "id: 181": {
+      "name": "Kamisama Hajimemashita: Kako-hen",
+      "type": "OVA (4 eps)",
+      "rating": "8.38",
+      "air time": "Aug 2015 - Aug 2016"
+   },
+   "id: 182": {
+      "name": "Kizumonogatari I: Tekketsu-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.38",
+      "air time": "Jan 2016 - Jan 2016"
+   },
+   "id: 183": {
+      "name": "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
+      "type": "Movie (1 eps)",
+      "rating": "8.37",
+      "air time": "Oct 2012 - Oct 2012"
+   },
+   "id: 184": {
+      "name": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+      "type": "Movie (1 eps)",
+      "rating": "8.36",
+      "air time": "Jan 2019 - Jan 2019"
+   },
+   "id: 185": {
+      "name": "Mahou Shoujo Madoka★Magica",
+      "type": "TV (12 eps)",
+      "rating": "8.36",
+      "air time": "Jan 2011 - Apr 2011"
+   },
+   "id: 186": {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "8.36",
+      "air time": "Jul 2020 - Sep 2020"
+   },
+   "id: 187": {
+      "name": "Bakuman. 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.36",
+      "air time": "Oct 2011 - Mar 2012"
+   },
+   "id: 188": {
+      "name": "Haikyuu!! To the Top",
+      "type": "TV (13 eps)",
+      "rating": "8.36",
+      "air time": "Jan 2020 - Apr 2020"
+   },
+   "id: 189": {
+      "name": "Hellsing Ultimate",
+      "type": "OVA (10 eps)",
+      "rating": "8.36",
+      "air time": "Feb 2006 - Dec 2012"
+   },
+   "id: 190": {
+      "name": "Kaze no Tani no Nausicaä",
+      "type": "Movie (1 eps)",
+      "rating": "8.36",
+      "air time": "Mar 1984 - Mar 1984"
+   },
+   "id: 191": {
+      "name": "Kobayashi-san Chi no Maid Dragon S",
+      "type": "TV (12 eps)",
+      "rating": "8.36",
+      "air time": "Jul 2021 - Sep 2021"
+   },
+   "id: 192": {
+      "name": "Gintama: Shiroyasha Koutan",
+      "type": "Special (1 eps)",
+      "rating": "8.35",
+      "air time": "Sep 2008 - Sep 2008"
+   },
+   "id: 193": {
+      "name": "K-On! Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.35",
+      "air time": "Dec 2011 - Dec 2011"
+   },
+   "id: 194": {
+      "name": "Kingdom 2nd Season",
+      "type": "TV (39 eps)",
+      "rating": "8.35",
+      "air time": "Jun 2013 - Mar 2014"
+   },
+   "id: 195": {
+      "name": "Kiseijuu: Sei no Kakuritsu",
+      "type": "TV (24 eps)",
+      "rating": "8.35",
+      "air time": "Oct 2014 - Mar 2015"
+   },
+   "id: 196": {
+      "name": "Psycho-Pass",
+      "type": "TV (22 eps)",
+      "rating": "8.35",
+      "air time": "Oct 2012 - Mar 2013"
+   },
+   "id: 197": {
+      "name": "Major S6",
+      "type": "TV (25 eps)",
+      "rating": "8.34",
+      "air time": "Apr 2010 - Sep 2010"
+   },
+   "id: 198": {
+      "name": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+      "type": "OVA (1 eps)",
+      "rating": "8.34",
+      "air time": "Feb 2014 - Feb 2014"
+   },
+   "id: 199": {
+      "name": "Neon Genesis Evangelion",
+      "type": "TV (26 eps)",
+      "rating": "8.34",
+      "air time": "Oct 1995 - Mar 1996"
+   },
+   "id: 200": {
+      "name": "One Outs",
+      "type": "TV (25 eps)",
+      "rating": "8.34",
+      "air time": "Oct 2008 - Apr 2009"
+   },
+   "id: 201": {
+      "name": "Overlord IV",
+      "type": "TV (? eps)",
+      "rating": "8.34",
+      "air time": "Jul 2022 -"
+   },
+   "id: 202": {
+      "name": "Uchuu Senkan Yamato 2199",
+      "type": "OVA (26 eps)",
+      "rating": "8.34",
+      "air time": "May 2012 - Oct 2013"
+   },
+   "id: 203": {
+      "name": "Bakemonogatari",
+      "type": "TV (15 eps)",
+      "rating": "8.34",
+      "air time": "Jul 2009 - Jun 2010"
+   },
+   "id: 204": {
+      "name": "Given",
+      "type": "TV (11 eps)",
+      "rating": "8.34",
+      "air time": "Jul 2019 - Sep 2019"
+   },
+   "id: 205": {
+      "name": "Gotcha!",
+      "type": "Music (1 eps)",
+      "rating": "8.34",
+      "air time": "Sep 2020 - Sep 2020"
+   },
+   "id: 206": {
+      "name": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+      "type": "ONA (12 eps)",
+      "rating": "8.34",
+      "air time": "Dec 2021 - Dec 2021"
+   },
+   "id: 207": {
+      "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "type": "TV (11 eps)",
+      "rating": "8.33",
+      "air time": "Apr 2011 - Jun 2011"
+   },
+   "id: 208": {
+      "name": "Holo no Graffiti",
+      "type": "ONA (? eps)",
+      "rating": "8.34",
+      "air time": "May 2019 -"
+   },
+   "id: 209": {
+      "name": "Kemono no Souja Erin",
+      "type": "TV (50 eps)",
+      "rating": "8.33",
+      "air time": "Jan 2009 - Dec 2009"
+   },
+   "id: 210": {
+      "name": "Mobile Suit Gundam: The Origin",
+      "type": "OVA (6 eps)",
+      "rating": "8.33",
+      "air time": "Feb 2015 - May 2018"
+   },
+   "id: 211": {
+      "name": "Ookami to Koushinryou II",
+      "type": "TV (12 eps)",
+      "rating": "8.33",
+      "air time": "Jul 2009 - Sep 2009"
+   },
+   "id: 212": {
+      "name": "Romeo no Aoi Sora",
+      "type": "TV (33 eps)",
+      "rating": "8.33",
+      "air time": "Jan 1995 - Dec 1995"
+   },
+   "id: 213": {
+      "name": "Sono Bisque Doll wa Koi wo Suru",
+      "type": "TV (12 eps)",
+      "rating": "8.33",
+      "air time": "Jan 2022 - Mar 2022"
+   },
+   "id: 214": {
+      "name": "Versailles no Bara",
+      "type": "TV (40 eps)",
+      "rating": "8.33",
+      "air time": "Oct 1979 - Sep 1980"
+   },
+   "id: 215": {
+      "name": "Natsume Yuujinchou",
+      "type": "TV (13 eps)",
+      "rating": "8.32",
+      "air time": "Jul 2008 - Sep 2008"
+   },
+   "id: 216": {
+      "name": "Natsume Yuujinchou Go Specials",
+      "type": "Special (2 eps)",
+      "rating": "8.32",
+      "air time": "Mar 2017 - Apr 2017"
+   },
+   "id: 217": {
+      "name": "NHK ni Youkoso!",
+      "type": "TV (24 eps)",
+      "rating": "8.32",
+      "air time": "Jul 2006 - Dec 2006"
+   },
+   "id: 218": {
+      "name": "Sakamichi no Apollon",
+      "type": "TV (12 eps)",
+      "rating": "8.32",
+      "air time": "Apr 2012 - Jun 2012"
+   },
+   "id: 219": {
+      "name": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.32",
+      "air time": "Jul 2021 - Sep 2021"
+   },
+   "id: 220": {
+      "name": "Violet Evergarden: Kitto &quot;Ai&quot; wo Shiru Hi ga Kuru no Darou",
+      "type": "Special (1 eps)",
+      "rating": "8.32",
+      "air time": "Jul 2018 - Jul 2018"
+   },
+   "id: 221": {
+      "name": "Doupo Cangqiong: San Nian Zhi Yue",
+      "type": "ONA (13 eps)",
+      "rating": "8.32",
+      "air time": "Oct 2021 - Jan 2022"
+   },
+   "id: 222": {
+      "name": "Evangelion: 2.0 You Can (Not) Advance",
+      "type": "Movie (1 eps)",
+      "rating": "8.32",
+      "air time": "Jul 2009 - Jul 2009"
+   },
+   "id: 223": {
+      "name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "8.32",
+      "air time": "Apr 2015 - Jun 2015"
+   },
+   "id: 224": {
+      "name": "Katanagatari",
+      "type": "TV (12 eps)",
+      "rating": "8.32",
+      "air time": "Jan 2010 - Dec 2010"
+   },
+   "id: 225": {
+      "name": "Kawaki wo Ameku",
+      "type": "Music (1 eps)",
+      "rating": "8.32",
+      "air time": "Jan 2019 - Jan 2019"
+   },
+   "id: 226": {
+      "name": "Boku dake ga Inai Machi",
+      "type": "TV (12 eps)",
+      "rating": "8.31",
+      "air time": "Jan 2016 - Mar 2016"
+   },
+   "id: 227": {
+      "name": "Hunter x Hunter: Original Video Animation",
+      "type": "OVA (8 eps)",
+      "rating": "8.31",
+      "air time": "Jan 2002 - Apr 2002"
+   },
+   "id: 228": {
+      "name": "Initial D First Stage",
+      "type": "TV (26 eps)",
+      "rating": "8.31",
+      "air time": "Apr 1998 - Dec 1998"
+   },
+   "id: 229": {
+      "name": "Kotarou wa Hitorigurashi",
+      "type": "ONA (10 eps)",
+      "rating": "8.31",
+      "air time": "Mar 2022 - Mar 2022"
+   },
+   "id: 230": {
+      "name": "Kuroko no Basket 3rd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.31",
+      "air time": "Jan 2015 - Jun 2015"
+   },
+   "id: 231": {
+      "name": "Shelter (Music)",
+      "type": "Music (1 eps)",
+      "rating": "8.31",
+      "air time": "Oct 2016 - Oct 2016"
+   },
+   "id: 232": {
+      "name": "Tenki no Ko",
+      "type": "Movie (1 eps)",
+      "rating": "8.31",
+      "air time": "Jul 2019 - Jul 2019"
+   },
+   "id: 233": {
+      "name": "World Trigger 3rd Season",
+      "type": "TV (14 eps)",
+      "rating": "8.31",
+      "air time": "Oct 2021 - Jan 2022"
+   },
+   "id: 234": {
+      "name": "Major: World Series",
+      "type": "OVA (2 eps)",
+      "rating": "8.30",
+      "air time": "Dec 2011 - Jan 2012"
+   },
+   "id: 235": {
+      "name": "Shinsekai yori",
+      "type": "TV (25 eps)",
+      "rating": "8.30",
+      "air time": "Sep 2012 - Mar 2013"
+   },
+   "id: 236": {
+      "name": "Shirobako",
+      "type": "TV (24 eps)",
+      "rating": "8.30",
+      "air time": "Oct 2014 - Mar 2015"
+   },
+   "id: 237": {
+      "name": "Steins;Gate: Oukoubakko no Poriomania",
+      "type": "Special (1 eps)",
+      "rating": "8.30",
+      "air time": "Feb 2012 - Feb 2012"
+   },
+   "id: 238": {
+      "name": "Detective Conan Movie 06: The Phantom of Baker Street",
+      "type": "Movie (1 eps)",
+      "rating": "8.30",
+      "air time": "Apr 2002 - Apr 2002"
+   },
+   "id: 239": {
+      "name": "Diamond no Ace: Second Season",
+      "type": "TV (51 eps)",
+      "rating": "8.30",
+      "air time": "Apr 2015 - Mar 2016"
+   },
+   "id: 240": {
+      "name": "Doukyuusei (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "8.30",
+      "air time": "Feb 2016 - Feb 2016"
+   },
+   "id: 241": {
+      "name": "Hibike! Euphonium 2",
+      "type": "TV (13 eps)",
+      "rating": "8.30",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 242": {
+      "name": "Hotarubi no Mori e",
+      "type": "Movie (1 eps)",
+      "rating": "8.30",
+      "air time": "Sep 2011 - Sep 2011"
+   },
+   "id: 243": {
+      "name": "Ashita no Joe",
+      "type": "TV (79 eps)",
+      "rating": "8.29",
+      "air time": "Apr 1970 - Sep 1971"
+   },
+   "id: 244": {
+      "name": "Beck",
+      "type": "TV (26 eps)",
+      "rating": "8.29",
+      "air time": "Oct 2004 - Mar 2005"
+   },
+   "id: 245": {
+      "name": "Dr. Stone",
+      "type": "TV (24 eps)",
+      "rating": "8.29",
+      "air time": "Jul 2019 - Dec 2019"
+   },
+   "id: 246": {
+      "name": "Fate/Zero",
+      "type": "TV (13 eps)",
+      "rating": "8.29",
+      "air time": "Oct 2011 - Dec 2011"
+   },
+   "id: 247": {
+      "name": "Gintama: Shinyaku Benizakura-hen",
+      "type": "Special (1 eps)",
+      "rating": "8.29",
+      "air time": "Dec 2010 - Dec 2010"
+   },
+   "id: 248": {
+      "name": "Kino no Tabi: The Beautiful World",
+      "type": "TV (13 eps)",
+      "rating": "8.29",
+      "air time": "Apr 2003 - Jul 2003"
+   },
+   "id: 249": {
+      "name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+      "type": "TV (94 eps)",
+      "rating": "8.29",
+      "air time": "Jan 1996 - Sep 1998"
+   },
+   "id: 250": {
+      "name": "Tsubasa: Tokyo Revelations",
+      "type": "OVA (3 eps)",
+      "rating": "8.29",
+      "air time": "Nov 2007 - Mar 2008"
+   },
+   "id: 251": {
+      "name": "Nodame Cantabile",
+      "type": "TV (23 eps)",
+      "rating": "8.28",
+      "air time": "Jan 2007 - Jun 2007"
+   },
+   "id: 252": {
+      "name": "Redline",
+      "type": "Movie (1 eps)",
+      "rating": "8.28",
+      "air time": "Aug 2009 - Aug 2009"
+   },
+   "id: 253": {
+      "name": "Stranger: Mukou Hadan",
+      "type": "Movie (1 eps)",
+      "rating": "8.28",
+      "air time": "Sep 2007 - Sep 2007"
+   },
+   "id: 254": {
+      "name": "Tokyo Godfathers",
+      "type": "Movie (1 eps)",
+      "rating": "8.28",
+      "air time": "Nov 2003 - Nov 2003"
+   },
+   "id: 255": {
+      "name": "Gin no Saji 2nd Season",
+      "type": "TV (11 eps)",
+      "rating": "8.28",
+      "air time": "Jan 2014 - Mar 2014"
+   },
+   "id: 256": {
+      "name": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+      "type": "TV (26 eps)",
+      "rating": "8.28",
+      "air time": "Oct 2007 - Apr 2008"
+   },
+   "id: 257": {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+      "type": "TV (10 eps)",
+      "rating": "8.28",
+      "air time": "Jan 2017 - Mar 2017"
+   },
+   "id: 258": {
+      "name": "Koukaku Kidoutai",
+      "type": "Movie (1 eps)",
+      "rating": "8.28",
+      "air time": "Nov 1995 - Nov 1995"
+   },
+   "id: 259": {
+      "name": "Bakemono no Ko",
+      "type": "Movie (1 eps)",
+      "rating": "8.27",
+      "air time": "Jul 2015 - Jul 2015"
+   },
+   "id: 260": {
+      "name": "Hajime no Ippo: Champion Road",
+      "type": "Special (1 eps)",
+      "rating": "8.27",
+      "air time": "Apr 2003 - Apr 2003"
+   },
+   "id: 261": {
+      "name": "Paripi Koumei",
+      "type": "TV (12 eps)",
+      "rating": "8.27",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 262": {
+      "name": "Planetes",
+      "type": "TV (26 eps)",
+      "rating": "8.27",
+      "air time": "Oct 2003 - Apr 2004"
+   },
+   "id: 263": {
+      "name": "Yuru Camp△",
+      "type": "TV (12 eps)",
+      "rating": "8.27",
+      "air time": "Jan 2018 - Mar 2018"
+   },
+   "id: 264": {
+      "name": "Non Non Biyori Movie: Vacation",
+      "type": "Movie (1 eps)",
+      "rating": "8.26",
+      "air time": "Aug 2018 - Aug 2018"
+   },
+   "id: 265": {
+      "name": "Sasaki to Miyano",
+      "type": "TV (12 eps)",
+      "rating": "8.26",
+      "air time": "Jan 2022 - Mar 2022"
+   },
+   "id: 266": {
+      "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "type": "TV (13 eps)",
+      "rating": "8.26",
+      "air time": "Oct 2018 - Dec 2018"
+   },
+   "id: 267": {
+      "name": "Space☆Dandy 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "8.26",
+      "air time": "Jul 2014 - Sep 2014"
+   },
+   "id: 268": {
+      "name": "Tenkuu no Shiro Laputa",
+      "type": "Movie (1 eps)",
+      "rating": "8.27",
+      "air time": "Aug 1986 - Aug 1986"
+   },
+   "id: 269": {
+      "name": "Tonari no Totoro",
+      "type": "Movie (1 eps)",
+      "rating": "8.26",
+      "air time": "Apr 1988 - Apr 1988"
+   },
+   "id: 270": {
+      "name": "Diamond no Ace: Act II",
+      "type": "TV (52 eps)",
+      "rating": "8.26",
+      "air time": "Apr 2019 - Mar 2020"
+   },
+   "id: 271": {
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+      "type": "Movie (12 eps)",
+      "rating": "8.26",
+      "air time": "Mar 2022 - May 2022"
+   },
+   "id: 272": {
+      "name": "Great Pretender",
+      "type": "TV (23 eps)",
+      "rating": "8.26",
+      "air time": "Jul 2020 - Dec 2020"
+   },
+   "id: 273": {
+      "name": "Hunter x Hunter: Greed Island Final",
+      "type": "OVA (14 eps)",
+      "rating": "8.26",
+      "air time": "Mar 2004 - Aug 2004"
+   },
+   "id: 274": {
+      "name": "Initial D Final Stage",
+      "type": "TV (4 eps)",
+      "rating": "8.26",
+      "air time": "May 2014 - Jun 2014"
+   },
+   "id: 275": {
+      "name": "86",
+      "type": "TV (11 eps)",
+      "rating": "8.25",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 276": {
+      "name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+      "type": "TV (26 eps)",
+      "rating": "8.25",
+      "air time": "Apr 2011 - Sep 2011"
+   },
+   "id: 277": {
+      "name": "Kuroshitsuji Movie: Book of the Atlantic",
+      "type": "Movie (1 eps)",
+      "rating": "8.25",
+      "air time": "Jan 2017 - Jan 2017"
+   },
+   "id: 278": {
+      "name": "Sennen Joyuu",
+      "type": "Movie (1 eps)",
+      "rating": "8.25",
+      "air time": "Sep 2002 - Sep 2002"
+   },
+   "id: 279": {
+      "name": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+      "type": "Special (1 eps)",
+      "rating": "8.25",
+      "air time": "Dec 2015 - Dec 2015"
+   },
+   "id: 280": {
+      "name": "Wu Liuqi Zhi Zui Qiang Fa Xing Shi",
+      "type": "ONA (10 eps)",
+      "rating": "8.25",
+      "air time": "Oct 2019 - Jan 2020"
+   },
+   "id: 281": {
+      "name": "Major S3",
+      "type": "TV (26 eps)",
+      "rating": "8.24",
+      "air time": "Jan 2007 - Jun 2007"
+   },
+   "id: 282": {
+      "name": "Naruto: Shippuuden",
+      "type": "TV (500 eps)",
+      "rating": "8.24",
+      "air time": "Feb 2007 - Mar 2017"
+   },
+   "id: 283": {
+      "name": "Nodame Cantabile: Finale",
+      "type": "TV (11 eps)",
+      "rating": "8.24",
+      "air time": "Jan 2010 - Mar 2010"
+   },
+   "id: 284": {
+      "name": "One Piece Movie 14: Stampede",
+      "type": "Movie (1 eps)",
+      "rating": "8.24",
+      "air time": "Aug 2019 - Aug 2019"
+   },
+   "id: 285": {
+      "name": "Quanzhi Gaoshou Specials",
+      "type": "ONA (3 eps)",
+      "rating": "8.24",
+      "air time": "Apr 2018 - May 2018"
+   },
+   "id: 286": {
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "type": "TV (25 eps)",
+      "rating": "8.24",
+      "air time": "Apr 2016 - Sep 2016"
+   },
+   "id: 287": {
+      "name": "Youjo Senki Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.24",
+      "air time": "Feb 2019 - Feb 2019"
+   },
+   "id: 288": {
+      "name": "Yuukoku no Moriarty Part 2",
+      "type": "TV (13 eps)",
+      "rating": "8.24",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 289": {
+      "name": "Danshi Koukousei no Nichijou",
+      "type": "TV (12 eps)",
+      "rating": "8.24",
+      "air time": "Jan 2012 - Mar 2012"
+   },
+   "id: 290": {
+      "name": "Detective Conan: Episode One - The Great Detective Turned Small",
+      "type": "Special (1 eps)",
+      "rating": "8.24",
+      "air time": "Dec 2016 - Dec 2016"
+   },
+   "id: 291": {
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 3",
+      "type": "Movie (4 eps)",
+      "rating": "8.24",
+      "air time": "Nov 2019 - Nov 2019"
+   },
+   "id: 292": {
+      "name": "Luo Xiao Hei Zhan Ji (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "8.24",
+      "air time": "Sep 2019 - Sep 2019"
+   },
+   "id: 293": {
+      "name": "Dororo",
+      "type": "TV (24 eps)",
+      "rating": "8.23",
+      "air time": "Jan 2019 - Jun 2019"
+   },
+   "id: 294": {
+      "name": "Golden Kamuy 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.23",
+      "air time": "Oct 2018 - Dec 2018"
+   },
+   "id: 295": {
+      "name": "Hajime no Ippo: Mashiba vs. Kimura",
+      "type": "OVA (1 eps)",
+      "rating": "8.23",
+      "air time": "Sep 2003 - Sep 2003"
+   },
+   "id: 296": {
+      "name": "Kuroko no Basket 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.23",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 297": {
+      "name": "Magi: The Kingdom of Magic",
+      "type": "TV (25 eps)",
+      "rating": "8.23",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 298": {
+      "name": "Major S1",
+      "type": "TV (26 eps)",
+      "rating": "8.23",
+      "air time": "Nov 2004 - May 2005"
+   },
+   "id: 299": {
+      "name": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.23",
+      "air time": "Oct 2016 - Apr 2017"
+   },
+   "id: 300": {
+      "name": "Ookami to Koushinryou",
+      "type": "TV (13 eps)",
+      "rating": "8.23",
+      "air time": "Jan 2008 - Mar 2008"
+   },
+   "id: 301": {
+      "name": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
+      "type": "Movie (1 eps)",
+      "rating": "8.22",
+      "air time": "Oct 2012 - Oct 2012"
+   },
+   "id: 302": {
+      "name": "Mimi wo Sumaseba",
+      "type": "Movie (1 eps)",
+      "rating": "8.22",
+      "air time": "Jul 1995 - Jul 1995"
+   },
+   "id: 303": {
+      "name": "No Game No Life: Zero",
+      "type": "Movie (1 eps)",
+      "rating": "8.22",
+      "air time": "Jul 2017 - Jul 2017"
+   },
+   "id: 304": {
+      "name": "SKET Dance",
+      "type": "TV (77 eps)",
+      "rating": "8.22",
+      "air time": "Apr 2011 - Sep 2012"
+   },
+   "id: 305": {
+      "name": "Trigun",
+      "type": "TV (26 eps)",
+      "rating": "8.22",
+      "air time": "Apr 1998 - Sep 1998"
+   },
+   "id: 306": {
+      "name": "xxxHOLiC: Kei",
+      "type": "TV (13 eps)",
+      "rating": "8.22",
+      "air time": "Apr 2008 - Jun 2008"
+   },
+   "id: 307": {
+      "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+      "type": "TV (13 eps)",
+      "rating": "8.22",
+      "air time": "Apr 2015 - Jun 2015"
+   },
+   "id: 308": {
+      "name": "Detective Conan Movie 13: The Raven Chaser",
+      "type": "Movie (1 eps)",
+      "rating": "8.22",
+      "air time": "Apr 2009 - Apr 2009"
+   },
+   "id: 309": {
+      "name": "Fruits Basket 1st Season",
+      "type": "TV (25 eps)",
+      "rating": "8.22",
+      "air time": "Apr 2019 - Sep 2019"
+   },
+   "id: 310": {
+      "name": "Hachimitsu to Clover II",
+      "type": "TV (12 eps)",
+      "rating": "8.22",
+      "air time": "Jun 2006 - Sep 2006"
+   },
+   "id: 311": {
+      "name": "Kono Sekai no Katasumi ni",
+      "type": "Movie (1 eps)",
+      "rating": "8.22",
+      "air time": "Nov 2016 - Nov 2016"
+   },
+   "id: 312": {
+      "name": "Bungou Stray Dogs 3rd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.21",
+      "air time": "Apr 2019 - Jun 2019"
+   },
+   "id: 313": {
+      "name": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+      "type": "Movie (1 eps)",
+      "rating": "8.21",
+      "air time": "Jul 2000 - Jul 2000"
+   },
+   "id: 314": {
+      "name": "Horimiya",
+      "type": "TV (13 eps)",
+      "rating": "8.21",
+      "air time": "Jan 2021 - Apr 2021"
+   },
+   "id: 315": {
+      "name": "IDOLiSH7: Third Beat!",
+      "type": "TV (13 eps)",
+      "rating": "8.21",
+      "air time": "Jul 2021 - Sep 2021"
+   },
+   "id: 316": {
+      "name": "Kaguya-hime no Monogatari",
+      "type": "Movie (1 eps)",
+      "rating": "8.21",
+      "air time": "Nov 2013 - Nov 2013"
+   },
+   "id: 317": {
+      "name": "Lycoris Recoil",
+      "type": "TV (13 eps)",
+      "rating": "8.21",
+      "air time": "Jul 2022 -"
+   },
+   "id: 318": {
+      "name": "Majo no Takkyuubin",
+      "type": "Movie (1 eps)",
+      "rating": "8.21",
+      "air time": "Jul 1989 - Jul 1989"
+   },
+   "id: 319": {
+      "name": "Major S2",
+      "type": "TV (26 eps)",
+      "rating": "8.21",
+      "air time": "Dec 2005 - Jun 2006"
+   },
+   "id: 320": {
+      "name": "Nomad: Megalo Box 2",
+      "type": "TV (13 eps)",
+      "rating": "8.21",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 321": {
+      "name": "ReLIFE: Kanketsu-hen",
+      "type": "Special (4 eps)",
+      "rating": "8.21",
+      "air time": "Mar 2018 - Mar 2018"
+   },
+   "id: 322": {
+      "name": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+      "type": "Special (1 eps)",
+      "rating": "8.21",
+      "air time": "Dec 2018 - Dec 2018"
+   },
+   "id: 323": {
+      "name": "Stand By Me Doraemon 2",
+      "type": "Movie (1 eps)",
+      "rating": "8.21",
+      "air time": "Nov 2020 - Nov 2020"
+   },
+   "id: 324": {
+      "name": "Vanitas no Karte Part 2",
+      "type": "TV (12 eps)",
+      "rating": "8.21",
+      "air time": "Jan 2022 - Apr 2022"
+   },
+   "id: 325": {
+      "name": "Maison Ikkoku",
+      "type": "TV (96 eps)",
+      "rating": "8.20",
+      "air time": "Mar 1986 - Mar 1988"
+   },
+   "id: 326": {
+      "name": "Major S4",
+      "type": "TV (26 eps)",
+      "rating": "8.20",
+      "air time": "Jan 2008 - Jun 2008"
+   },
+   "id: 327": {
+      "name": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+      "type": "Special (1 eps)",
+      "rating": "8.20",
+      "air time": "Aug 2013 - Aug 2013"
+   },
+   "id: 328": {
+      "name": "Shoujo Shuumatsu Ryokou",
+      "type": "TV (12 eps)",
+      "rating": "8.20",
+      "air time": "Oct 2017 - Dec 2017"
+   },
+   "id: 329": {
+      "name": "Tanoshii Muumin Ikka",
+      "type": "TV (78 eps)",
+      "rating": "8.20",
+      "air time": "Apr 1990 - Oct 1991"
+   },
+   "id: 330": {
+      "name": "xxxHOLiC: Rou",
+      "type": "OVA (2 eps)",
+      "rating": "8.20",
+      "air time": "Apr 2010 - Mar 2011"
+   },
+   "id: 331": {
+      "name": "Berserk: Ougon Jidai-hen III - Kourin",
+      "type": "Movie (1 eps)",
+      "rating": "8.20",
+      "air time": "Feb 2013 - Feb 2013"
+   },
+   "id: 332": {
+      "name": "Bungou Stray Dogs 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.20",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 333": {
+      "name": "Douluo Dalu: Xiaowu Juebie",
+      "type": "ONA (13 eps)",
+      "rating": "8.20",
+      "air time": "May 2020 - Aug 2020"
+   },
+   "id: 334": {
+      "name": "InuYasha: Kanketsu-hen",
+      "type": "TV (26 eps)",
+      "rating": "8.20",
+      "air time": "Oct 2009 - Mar 2010"
+   },
+   "id: 335": {
+      "name": "Little Busters!: Refrain",
+      "type": "TV (13 eps)",
+      "rating": "8.20",
+      "air time": "Oct 2013 - Dec 2013"
+   },
+   "id: 336": {
+      "name": "Asobi Asobase",
+      "type": "TV (12 eps)",
+      "rating": "8.19",
+      "air time": "Jul 2018 - Sep 2018"
+   },
+   "id: 337": {
+      "name": "Bakuman.",
+      "type": "TV (25 eps)",
+      "rating": "8.19",
+      "air time": "Oct 2010 - Apr 2011"
+   },
+   "id: 338": {
+      "name": "Ballroom e Youkoso",
+      "type": "TV (24 eps)",
+      "rating": "8.19",
+      "air time": "Jul 2017 - Dec 2017"
+   },
+   "id: 339": {
+      "name": "Chihayafuru",
+      "type": "TV (25 eps)",
+      "rating": "8.19",
+      "air time": "Oct 2011 - Mar 2012"
+   },
+   "id: 340": {
+      "name": "Fate/stay night Movie: Heaven&#039;s Feel - I. Presage Flower",
+      "type": "Movie (1 eps)",
+      "rating": "8.19",
+      "air time": "Oct 2017 - Oct 2017"
+   },
+   "id: 341": {
+      "name": "Fate/stay night: Unlimited Blade Works",
+      "type": "TV (12 eps)",
+      "rating": "8.19",
+      "air time": "Oct 2014 - Dec 2014"
+   },
+   "id: 342": {
+      "name": "Girls &amp; Panzer Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.19",
+      "air time": "Nov 2015 - Nov 2015"
+   },
+   "id: 343": {
+      "name": "Higurashi no Naku Koro ni Kai",
+      "type": "TV (24 eps)",
+      "rating": "8.19",
+      "air time": "Jul 2007 - Dec 2007"
+   },
+   "id: 344": {
+      "name": "Hunter x Hunter: Greed Island",
+      "type": "OVA (8 eps)",
+      "rating": "8.19",
+      "air time": "Feb 2003 - Apr 2003"
+   },
+   "id: 345": {
+      "name": "Kamisama Hajimemashita◎",
+      "type": "TV (12 eps)",
+      "rating": "8.19",
+      "air time": "Jan 2015 - Mar 2015"
+   },
+   "id: 346": {
+      "name": "Liz to Aoi Tori",
+      "type": "Movie (1 eps)",
+      "rating": "8.19",
+      "air time": "Apr 2018 - Apr 2018"
+   },
+   "id: 347": {
+      "name": "Non Non Biyori Repeat",
+      "type": "TV (12 eps)",
+      "rating": "8.19",
+      "air time": "Jul 2015 - Sep 2015"
+   },
+   "id: 348": {
+      "name": "Ramayana: The Legend of Prince Rama",
+      "type": "Movie (1 eps)",
+      "rating": "8.19",
+      "air time": "Jan 1993 - Jan 1993"
+   },
+   "id: 349": {
+      "name": "Senki Zesshou Symphogear XV",
+      "type": "TV (13 eps)",
+      "rating": "8.19",
+      "air time": "Jul 2019 - Sep 2019"
+   },
+   "id: 350": {
+      "name": "Shoujo Kakumei Utena",
+      "type": "TV (39 eps)",
+      "rating": "8.19",
+      "air time": "Apr 1997 - Dec 1997"
+   },
+   "id: 351": {
+      "name": "Toaru Kagaku no Railgun T",
+      "type": "TV (25 eps)",
+      "rating": "8.19",
+      "air time": "Jan 2020 - Sep 2020"
+   },
+   "id: 352": {
+      "name": "Yoru wa Mijikashi Arukeyo Otome",
+      "type": "Movie (1 eps)",
+      "rating": "8.19",
+      "air time": "Apr 2017 - Apr 2017"
+   },
+   "id: 353": {
+      "name": "Shokugeki no Souma",
+      "type": "TV (24 eps)",
+      "rating": "8.18",
+      "air time": "Apr 2015 - Sep 2015"
+   },
+   "id: 354": {
+      "name": "Aria the Natural",
+      "type": "TV (26 eps)",
+      "rating": "8.18",
+      "air time": "Apr 2006 - Sep 2006"
+   },
+   "id: 355": {
+      "name": "Black Lagoon: The Second Barrage",
+      "type": "TV (12 eps)",
+      "rating": "8.18",
+      "air time": "Oct 2006 - Dec 2006"
+   },
+   "id: 356": {
+      "name": "Dr. Stone: Stone Wars",
+      "type": "TV (11 eps)",
+      "rating": "8.18",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 357": {
+      "name": "Eiga Daisuki Pompo-san (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "8.18",
+      "air time": "Jun 2021 - Jun 2021"
+   },
+   "id: 358": {
+      "name": "Girls &amp; Panzer: Saishuushou Part 3",
+      "type": "Movie (1 eps)",
+      "rating": "8.18",
+      "air time": "Mar 2021 - Mar 2021"
+   },
+   "id: 359": {
+      "name": "Detective Conan Movie 20: The Darkest Nightmare",
+      "type": "Movie (1 eps)",
+      "rating": "8.17",
+      "air time": "Apr 2016 - Apr 2016"
+   },
+   "id: 360": {
+      "name": "Digimon Adventure: Last Evolution Kizuna",
+      "type": "Movie (1 eps)",
+      "rating": "8.17",
+      "air time": "Feb 2020 - Feb 2020"
+   },
+   "id: 361": {
+      "name": "Haikyuu!! Movie 4: Concept no Tatakai",
+      "type": "Movie (1 eps)",
+      "rating": "8.17",
+      "air time": "Sep 2017 - Sep 2017"
+   },
+   "id: 362": {
+      "name": "K-On!!",
+      "type": "TV (26 eps)",
+      "rating": "8.17",
+      "air time": "Apr 2010 - Sep 2010"
+   },
+   "id: 363": {
+      "name": "Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai",
+      "type": "ONA (1 eps)",
+      "rating": "8.17",
+      "air time": "Oct 2021 - Oct 2021"
+   },
+   "id: 364": {
+      "name": "Love Live! Superstar!! 2nd Season",
+      "type": "TV (? eps)",
+      "rating": "8.17",
+      "air time": "Jul 2022 -"
+   },
+   "id: 365": {
+      "name": "Major: Message",
+      "type": "OVA (1 eps)",
+      "rating": "8.17",
+      "air time": "Dec 2010 - Dec 2010"
+   },
+   "id: 366": {
+      "name": "Noragami Aragoto",
+      "type": "TV (13 eps)",
+      "rating": "8.17",
+      "air time": "Oct 2015 - Dec 2015"
+   },
+   "id: 367": {
+      "name": "Ouran Koukou Host Club",
+      "type": "TV (26 eps)",
+      "rating": "8.16",
+      "air time": "Apr 2006 - Sep 2006"
+   },
+   "id: 368": {
+      "name": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.16",
+      "air time": "Sep 2008 - Sep 2008"
+   },
+   "id: 369": {
+      "name": "Working!!!: Lord of the Takanashi",
+      "type": "Special (1 eps)",
+      "rating": "8.16",
+      "air time": "Mar 2016 - Mar 2016"
+   },
+   "id: 370": {
+      "name": "Akira",
+      "type": "Movie (1 eps)",
+      "rating": "8.16",
+      "air time": "Jul 1988 - Jul 1988"
+   },
+   "id: 371": {
+      "name": "Death Parade",
+      "type": "TV (12 eps)",
+      "rating": "8.16",
+      "air time": "Jan 2015 - Mar 2015"
+   },
+   "id: 372": {
+      "name": "Detective Conan",
+      "type": "TV (? eps)",
+      "rating": "8.16",
+      "air time": "Jan 1996 -"
+   },
+   "id: 373": {
+      "name": "Hinamatsuri (TV)",
+      "type": "TV (12 eps)",
+      "rating": "8.16",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 374": {
+      "name": "Komi-san wa, Comyushou desu. 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.16",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 375": {
+      "name": "Kyoukai no Kanata Movie 2: I&#039;ll Be Here - Mirai-hen",
+      "type": "Movie (1 eps)",
+      "rating": "8.16",
+      "air time": "Apr 2015 - Apr 2015"
+   },
+   "id: 376": {
+      "name": "Boku no Hero Academia 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.15",
+      "air time": "Apr 2017 - Sep 2017"
+   },
+   "id: 377": {
+      "name": "Cardcaptor Sakura",
+      "type": "TV (70 eps)",
+      "rating": "8.15",
+      "air time": "Apr 1998 - Mar 2000"
+   },
+   "id: 378": {
+      "name": "Dragon Ball Z",
+      "type": "TV (291 eps)",
+      "rating": "8.15",
+      "air time": "Apr 1989 - Jan 1996"
+   },
+   "id: 379": {
+      "name": "Gankutsuou",
+      "type": "TV (24 eps)",
+      "rating": "8.15",
+      "air time": "Oct 2004 - Mar 2005"
+   },
+   "id: 380": {
+      "name": "Given Movie",
+      "type": "Movie (1 eps)",
+      "rating": "8.15",
+      "air time": "Aug 2020 - Aug 2020"
+   },
+   "id: 381": {
+      "name": "Given: Uragawa no Sonzai",
+      "type": "OVA (1 eps)",
+      "rating": "8.15",
+      "air time": "Dec 2021 - Dec 2021"
+   },
+   "id: 382": {
+      "name": "Initial D Fourth Stage",
+      "type": "TV (24 eps)",
+      "rating": "8.15",
+      "air time": "Apr 2004 - Feb 2006"
+   },
+   "id: 383": {
+      "name": "Kaiba",
+      "type": "TV (12 eps)",
+      "rating": "8.15",
+      "air time": "Apr 2008 - Jul 2008"
+   },
+   "id: 384": {
+      "name": "Lupin III: Cagliostro no Shiro",
+      "type": "Movie (1 eps)",
+      "rating": "8.15",
+      "air time": "Dec 1979 - Dec 1979"
+   },
+   "id: 385": {
+      "name": "Lupin III: Part 5",
+      "type": "TV (24 eps)",
+      "rating": "8.15",
+      "air time": "Apr 2018 - Sep 2018"
+   },
+   "id: 386": {
+      "name": "Nisemonogatari",
+      "type": "TV (11 eps)",
+      "rating": "8.15",
+      "air time": "Jan 2012 - Mar 2012"
+   },
+   "id: 387": {
+      "name": "Nodame Cantabile: Paris-hen",
+      "type": "TV (11 eps)",
+      "rating": "8.15",
+      "air time": "Oct 2008 - Dec 2008"
+   },
+   "id: 388": {
+      "name": "Non Non Biyori Nonstop: Bukatsu wo Ganbatta",
+      "type": "OVA (1 eps)",
+      "rating": "8.15",
+      "air time": "Mar 2022 - Mar 2022"
+   },
+   "id: 389": {
+      "name": "One Piece Film: Z",
+      "type": "Movie (1 eps)",
+      "rating": "8.15",
+      "air time": "Dec 2012 - Dec 2012"
+   },
+   "id: 390": {
+      "name": "Yuukoku no Moriarty",
+      "type": "TV (11 eps)",
+      "rating": "8.15",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 391": {
+      "name": "Made in Abyss Movie 1: Tabidachi no Yoake",
+      "type": "Movie (1 eps)",
+      "rating": "8.14",
+      "air time": "Jan 2019 - Jan 2019"
+   },
+   "id: 392": {
+      "name": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+      "type": "Movie (1 eps)",
+      "rating": "8.14",
+      "air time": "Jan 2021 - Jan 2021"
+   },
+   "id: 393": {
+      "name": "Seirei no Moribito",
+      "type": "TV (26 eps)",
+      "rating": "8.14",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 394": {
+      "name": "Dragon Ball Super: Broly",
+      "type": "Movie (1 eps)",
+      "rating": "8.14",
+      "air time": "Dec 2018 - Dec 2018"
+   },
+   "id: 395": {
+      "name": "Eizouken ni wa Te wo Dasu na!",
+      "type": "TV (12 eps)",
+      "rating": "8.14",
+      "air time": "Jan 2020 - Mar 2020"
+   },
+   "id: 396": {
+      "name": "IDOLiSH7: Second Beat!",
+      "type": "TV (15 eps)",
+      "rating": "8.14",
+      "air time": "Apr 2020 - Dec 2020"
+   },
+   "id: 397": {
+      "name": "Initial D Second Stage",
+      "type": "TV (13 eps)",
+      "rating": "8.14",
+      "air time": "Oct 1999 - Jan 2000"
+   },
+   "id: 398": {
+      "name": "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",
+      "type": "OVA (1 eps)",
+      "rating": "8.14",
+      "air time": "Dec 2016 - Dec 2016"
+   },
+   "id: 399": {
+      "name": "Katekyo Hitman Reborn!",
+      "type": "TV (203 eps)",
+      "rating": "8.14",
+      "air time": "Oct 2006 - Sep 2010"
+   },
+   "id: 400": {
+      "name": "Ginga Eiyuu Densetsu Gaiden",
+      "type": "OVA (24 eps)",
+      "rating": "8.13",
+      "air time": "Feb 1998 - Sep 1998"
+   },
+   "id: 401": {
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2",
+      "type": "Movie (4 eps)",
+      "rating": "8.13",
+      "air time": "Oct 2019 - Oct 2019"
+   },
+   "id: 402": {
+      "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.13",
+      "air time": "Apr 2020 - Jun 2020"
+   },
+   "id: 403": {
+      "name": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+      "type": "Music (1 eps)",
+      "rating": "8.13",
+      "air time": "Dec 2003 - Dec 2003"
+   },
+   "id: 404": {
+      "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s",
+      "type": "Movie (1 eps)",
+      "rating": "8.13",
+      "air time": "Jul 2012 - Jul 2012"
+   },
+   "id: 405": {
+      "name": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+      "type": "Special (1 eps)",
+      "rating": "8.13",
+      "air time": "Aug 2012 - Aug 2012"
+   },
+   "id: 406": {
+      "name": "Princess Tutu",
+      "type": "TV (38 eps)",
+      "rating": "8.13",
+      "air time": "Aug 2002 - May 2003"
+   },
+   "id: 407": {
+      "name": "Tensei shitara Slime Datta Ken",
+      "type": "TV (24 eps)",
+      "rating": "8.13",
+      "air time": "Oct 2018 - Mar 2019"
+   },
+   "id: 408": {
+      "name": "Toki wo Kakeru Shoujo",
+      "type": "Movie (1 eps)",
+      "rating": "8.13",
+      "air time": "Jul 2006 - Jul 2006"
+   },
+   "id: 409": {
+      "name": "Tonikaku Kawaii: SNS",
+      "type": "OVA (1 eps)",
+      "rating": "8.13",
+      "air time": "Aug 2021 - Aug 2021"
+   },
+   "id: 410": {
+      "name": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+      "type": "OVA (3 eps)",
+      "rating": "8.12",
+      "air time": "Sep 2016 - Sep 2017"
+   },
+   "id: 411": {
+      "name": "Mo Dao Zu Shi Q",
+      "type": "ONA (30 eps)",
+      "rating": "8.12",
+      "air time": "Jul 2020 - Jan 2021"
+   },
+   "id: 412": {
+      "name": "Mobile Suit Gundam 00",
+      "type": "TV (25 eps)",
+      "rating": "8.12",
+      "air time": "Oct 2007 - Mar 2008"
+   },
+   "id: 413": {
+      "name": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+      "type": "TV (13 eps)",
+      "rating": "8.12",
+      "air time": "Apr 2019 - Aug 2019"
+   },
+   "id: 414": {
+      "name": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+      "type": "Movie (1 eps)",
+      "rating": "8.12",
+      "air time": "Apr 2016 - Apr 2016"
+   },
+   "id: 415": {
+      "name": "Black Clover",
+      "type": "TV (170 eps)",
+      "rating": "8.12",
+      "air time": "Oct 2017 - Mar 2021"
+   },
+   "id: 416": {
+      "name": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+      "type": "Movie (1 eps)",
+      "rating": "8.12",
+      "air time": "Jan 2018 - Jan 2018"
+   },
+   "id: 417": {
+      "name": "Detective Conan Movie 05: Countdown to Heaven",
+      "type": "Movie (1 eps)",
+      "rating": "8.12",
+      "air time": "Apr 2001 - Apr 2001"
+   },
+   "id: 418": {
+      "name": "Detective Conan Movie 14: The Lost Ship in the Sky",
+      "type": "Movie (1 eps)",
+      "rating": "8.12",
+      "air time": "Apr 2010 - Apr 2010"
+   },
+   "id: 419": {
+      "name": "Detroit Metal City",
+      "type": "OVA (12 eps)",
+      "rating": "8.12",
+      "air time": "Aug 2008 - Oct 2008"
+   },
+   "id: 420": {
+      "name": "Douluo Dalu: Xingdou Xian Ji Pian",
+      "type": "ONA (13 eps)",
+      "rating": "8.12",
+      "air time": "Aug 2020 - Nov 2020"
+   },
+   "id: 421": {
+      "name": "Durarara!!",
+      "type": "TV (24 eps)",
+      "rating": "8.12",
+      "air time": "Jan 2010 - Jun 2010"
+   },
+   "id: 422": {
+      "name": "Fullmetal Alchemist",
+      "type": "TV (51 eps)",
+      "rating": "8.12",
+      "air time": "Oct 2003 - Oct 2004"
+   },
+   "id: 423": {
+      "name": "Gintama&#039;: Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+      "type": "Special (1 eps)",
+      "rating": "8.12",
+      "air time": "Apr 2015 - Apr 2015"
+   },
+   "id: 424": {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "type": "TV (10 eps)",
+      "rating": "8.12",
+      "air time": "Jan 2016 - Mar 2016"
+   },
+   "id: 425": {
+      "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+      "type": "Special (1 eps)",
+      "rating": "8.12",
+      "air time": "Sep 2006 - Sep 2006"
+   },
+   "id: 426": {
+      "name": "Kuragehime",
+      "type": "TV (11 eps)",
+      "rating": "8.12",
+      "air time": "Oct 2010 - Dec 2010"
+   },
+   "id: 427": {
+      "name": "5-toubun no Hanayome ∬",
+      "type": "TV (12 eps)",
+      "rating": "8.11",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 428": {
+      "name": "Baccano! Specials",
+      "type": "Special (3 eps)",
+      "rating": "8.11",
+      "air time": "Feb 2008 - May 2008"
+   },
+   "id: 429": {
+      "name": "Diamond no Ace",
+      "type": "TV (75 eps)",
+      "rating": "8.11",
+      "air time": "Oct 2013 - Mar 2015"
+   },
+   "id: 430": {
+      "name": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+      "type": "Special (1 eps)",
+      "rating": "8.11",
+      "air time": "Nov 2015 - Nov 2015"
+   },
+   "id: 431": {
+      "name": "Haikyuu!! Movie 3: Sainou to Sense",
+      "type": "Movie (1 eps)",
+      "rating": "8.11",
+      "air time": "Sep 2017 - Sep 2017"
+   },
+   "id: 432": {
+      "name": "Mobile Suit Gundam Unicorn",
+      "type": "OVA (7 eps)",
+      "rating": "8.11",
+      "air time": "Mar 2010 - Jun 2014"
+   },
+   "id: 433": {
+      "name": "One Piece Film: Strong World",
+      "type": "Movie (1 eps)",
+      "rating": "8.11",
+      "air time": "Dec 2009 - Dec 2009"
+   },
+   "id: 434": {
+      "name": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+      "type": "ONA (6 eps)",
+      "rating": "8.11",
+      "air time": "Dec 2019 - Dec 2019"
+   },
+   "id: 435": {
+      "name": "Sakura-sou no Pet na Kanojo",
+      "type": "TV (24 eps)",
+      "rating": "8.11",
+      "air time": "Oct 2012 - Mar 2013"
+   },
+   "id: 436": {
+      "name": "Shokugeki no Souma: Ni no Sara",
+      "type": "TV (13 eps)",
+      "rating": "8.11",
+      "air time": "Jul 2016 - Sep 2016"
+   },
+   "id: 437": {
+      "name": "Tsubasa: Shunraiki",
+      "type": "OVA (2 eps)",
+      "rating": "8.11",
+      "air time": "Mar 2009 - May 2009"
+   },
+   "id: 438": {
+      "name": "Uchouten Kazoku 2",
+      "type": "TV (12 eps)",
+      "rating": "8.11",
+      "air time": "Apr 2017 - Jun 2017"
+   },
+   "id: 439": {
+      "name": "No Game No Life",
+      "type": "TV (12 eps)",
+      "rating": "8.10",
+      "air time": "Apr 2014 - Jun 2014"
+   },
+   "id: 440": {
+      "name": "Quanzhi Gaoshou: Dianfeng Rongyao",
+      "type": "Movie (1 eps)",
+      "rating": "8.10",
+      "air time": "Aug 2019 - Aug 2019"
+   },
+   "id: 441": {
+      "name": "Tokyo Revengers",
+      "type": "TV (24 eps)",
+      "rating": "8.10",
+      "air time": "Apr 2021 - Sep 2021"
+   },
+   "id: 442": {
+      "name": "Toradora!",
+      "type": "TV (25 eps)",
+      "rating": "8.10",
+      "air time": "Oct 2008 - Mar 2009"
+   },
+   "id: 443": {
+      "name": "Tsukimonogatari",
+      "type": "TV (4 eps)",
+      "rating": "8.10",
+      "air time": "Dec 2014 - Dec 2014"
+   },
+   "id: 444": {
+      "name": "Zankyou no Terror",
+      "type": "TV (11 eps)",
+      "rating": "8.10",
+      "air time": "Jul 2014 - Sep 2014"
+   },
+   "id: 445": {
+      "name": "Akatsuki no Yona OVA",
+      "type": "OVA (3 eps)",
+      "rating": "8.10",
+      "air time": "Sep 2015 - Dec 2016"
+   },
+   "id: 446": {
+      "name": "Ansatsu Kyoushitsu",
+      "type": "TV (22 eps)",
+      "rating": "8.10",
+      "air time": "Jan 2015 - Jun 2015"
+   },
+   "id: 447": {
+      "name": "Ao Ashi",
+      "type": "TV (24 eps)",
+      "rating": "8.10",
+      "air time": "Apr 2022 -"
+   },
+   "id: 448": {
+      "name": "Douluo Dalu: Hanhai Qian Kun",
+      "type": "ONA (13 eps)",
+      "rating": "8.10",
+      "air time": "Nov 2020 - Feb 2021"
+   },
+   "id: 449": {
+      "name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+      "type": "TV (24 eps)",
+      "rating": "8.10",
+      "air time": "Apr 2014 - Sep 2014"
+   },
+   "id: 450": {
+      "name": "Kanata no Astra",
+      "type": "TV (12 eps)",
+      "rating": "8.10",
+      "air time": "Jul 2019 - Sep 2019"
+   },
+   "id: 451": {
+      "name": "Kaze Tachinu",
+      "type": "Movie (1 eps)",
+      "rating": "8.10",
+      "air time": "Jul 2013 - Jul 2013"
+   },
+   "id: 452": {
+      "name": "Kuroko no Basket: Saikou no Present Desu",
+      "type": "Special (1 eps)",
+      "rating": "8.10",
+      "air time": "Dec 2015 - Dec 2015"
+   },
+   "id: 453": {
+      "name": "Douluo Dalu: Qian Hua Xi Jin",
+      "type": "ONA (13 eps)",
+      "rating": "8.09",
+      "air time": "Feb 2020 - May 2020"
+   },
+   "id: 454": {
+      "name": "Gin no Saji",
+      "type": "TV (11 eps)",
+      "rating": "8.09",
+      "air time": "Jul 2013 - Sep 2013"
+   },
+   "id: 455": {
+      "name": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+      "type": "Movie (1 eps)",
+      "rating": "8.09",
+      "air time": "Dec 1993 - Dec 1993"
+   },
+   "id: 456": {
+      "name": "Hajime no Ippo: Boxer no Kobushi",
+      "type": "Special (1 eps)",
+      "rating": "8.09",
+      "air time": "Mar 2003 - Mar 2003"
+   },
+   "id: 457": {
+      "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
+      "type": "TV (10 eps)",
+      "rating": "8.09",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 458": {
+      "name": "Hyouka",
+      "type": "TV (22 eps)",
+      "rating": "8.09",
+      "air time": "Apr 2012 - Sep 2012"
+   },
+   "id: 459": {
+      "name": "Mirai Shounen Conan",
+      "type": "TV (26 eps)",
+      "rating": "8.09",
+      "air time": "Apr 1978 - Oct 1978"
+   },
+   "id: 460": {
+      "name": "Mobile Suit Gundam 00 Second Season",
+      "type": "TV (25 eps)",
+      "rating": "8.09",
+      "air time": "Oct 2008 - Mar 2009"
+   },
+   "id: 461": {
+      "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
+      "type": "OVA (13 eps)",
+      "rating": "8.09",
+      "air time": "Feb 2011 - Jul 2011"
+   },
+   "id: 462": {
+      "name": "Skip Beat!",
+      "type": "TV (25 eps)",
+      "rating": "8.09",
+      "air time": "Oct 2008 - Mar 2009"
+   },
+   "id: 463": {
+      "name": "Mairimashita! Iruma-kun 2nd Season",
+      "type": "TV (21 eps)",
+      "rating": "8.08",
+      "air time": "Apr 2021 - Sep 2021"
+   },
+   "id: 464": {
+      "name": "Stand By Me Doraemon",
+      "type": "Movie (1 eps)",
+      "rating": "8.08",
+      "air time": "Aug 2014 - Aug 2014"
+   },
+   "id: 465": {
+      "name": "Tsuki ga Kirei",
+      "type": "TV (12 eps)",
+      "rating": "8.08",
+      "air time": "Apr 2017 - Jun 2017"
+   },
+   "id: 466": {
+      "name": "World Trigger 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "8.08",
+      "air time": "Jan 2021 - Apr 2021"
+   },
+   "id: 467": {
+      "name": "Yowamushi Pedal: Grande Road",
+      "type": "TV (24 eps)",
+      "rating": "8.08",
+      "air time": "Oct 2014 - Mar 2015"
+   },
+   "id: 468": {
+      "name": "Yuusha-Ou GaoGaiGar Final",
+      "type": "OVA (8 eps)",
+      "rating": "8.08",
+      "air time": "Jan 2000 - Mar 2003"
+   },
+   "id: 469": {
+      "name": "Boku no Hero Academia 3rd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.08",
+      "air time": "Apr 2018 - Sep 2018"
+   },
+   "id: 470": {
+      "name": "Detective Conan Movie 18: The Sniper from Another Dimension",
+      "type": "Movie (1 eps)",
+      "rating": "8.08",
+      "air time": "Apr 2014 - Apr 2014"
+   },
+   "id: 471": {
+      "name": "Douluo Dalu: Jingying Sai",
+      "type": "ONA (52 eps)",
+      "rating": "8.08",
+      "air time": "Dec 2018 - Nov 2019"
+   },
+   "id: 472": {
+      "name": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+      "type": "Special (1 eps)",
+      "rating": "8.08",
+      "air time": "Sep 2005 - Sep 2005"
+   },
+   "id: 473": {
+      "name": "Hikaru no Go",
+      "type": "TV (75 eps)",
+      "rating": "8.08",
+      "air time": "Oct 2001 - Mar 2003"
+   },
+   "id: 474": {
+      "name": "Initial D Fifth Stage",
+      "type": "TV (14 eps)",
+      "rating": "8.08",
+      "air time": "Nov 2012 - May 2013"
+   },
+   "id: 475": {
+      "name": "Kamisama Hajimemashita",
+      "type": "TV (13 eps)",
+      "rating": "8.08",
+      "air time": "Oct 2012 - Dec 2012"
+   },
+   "id: 476": {
+      "name": "Karakai Jouzu no Takagi-san 2",
+      "type": "TV (12 eps)",
+      "rating": "8.08",
+      "air time": "Jul 2019 - Sep 2019"
+   },
+   "id: 477": {
+      "name": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+      "type": "Special (1 eps)",
+      "rating": "8.08",
+      "air time": "Sep 2005 - Sep 2005"
+   },
+   "id: 478": {
+      "name": "Kuroko no Basket Movie 4: Last Game",
+      "type": "Movie (1 eps)",
+      "rating": "8.08",
+      "air time": "Mar 2017 - Mar 2017"
+   },
+   "id: 479": {
+      "name": "Kuroshitsuji: Book of Circus",
+      "type": "TV (10 eps)",
+      "rating": "8.08",
+      "air time": "Jul 2014 - Sep 2014"
+   },
+   "id: 480": {
+      "name": "Angel Beats!",
+      "type": "TV (13 eps)",
+      "rating": "8.07",
+      "air time": "Apr 2010 - Jun 2010"
+   },
+   "id: 481": {
+      "name": "Darker than Black: Kuro no Keiyakusha",
+      "type": "TV (25 eps)",
+      "rating": "8.07",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 482": {
+      "name": "Detective Conan Movie 08: Magician of the Silver Sky",
+      "type": "Movie (1 eps)",
+      "rating": "8.07",
+      "air time": "Apr 2004 - Apr 2004"
+   },
+   "id: 483": {
+      "name": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+      "type": "Movie (1 eps)",
+      "rating": "8.07",
+      "air time": "Mar 2011 - Mar 2011"
+   },
+   "id: 484": {
+      "name": "Dorohedoro",
+      "type": "TV (12 eps)",
+      "rating": "8.07",
+      "air time": "Jan 2020 - Mar 2020"
+   },
+   "id: 485": {
+      "name": "Douluo Dalu: Haishen Zhi Guang",
+      "type": "ONA (13 eps)",
+      "rating": "8.07",
+      "air time": "Feb 2021 - May 2021"
+   },
+   "id: 486": {
+      "name": "Durarara!!x2 Ketsu",
+      "type": "TV (12 eps)",
+      "rating": "8.07",
+      "air time": "Jan 2016 - Mar 2016"
+   },
+   "id: 487": {
+      "name": "Gintama: Dai Hanseikai",
+      "type": "Special (1 eps)",
+      "rating": "8.07",
+      "air time": "Mar 2010 - Mar 2010"
+   },
+   "id: 488": {
+      "name": "Girls &amp; Panzer: Saishuushou Part 2",
+      "type": "Movie (1 eps)",
+      "rating": "8.07",
+      "air time": "Jun 2019 - Jun 2019"
+   },
+   "id: 489": {
+      "name": "Glass no Kamen (2005)",
+      "type": "TV (51 eps)",
+      "rating": "8.07",
+      "air time": "Apr 2005 - Mar 2006"
+   },
+   "id: 490": {
+      "name": "Hidamari Sketch: Sae Hiro Sotsugyou-hen",
+      "type": "OVA (2 eps)",
+      "rating": "8.07",
+      "air time": "Nov 2013 - Nov 2013"
+   },
+   "id: 491": {
+      "name": "Hololive Alternative",
+      "type": "ONA (2 eps)",
+      "rating": "8.07",
+      "air time": "May 2021 - Jun 2022"
+   },
+   "id: 492": {
+      "name": "Kuroko no Basket",
+      "type": "TV (25 eps)",
+      "rating": "8.07",
+      "air time": "Apr 2012 - Sep 2012"
+   },
+   "id: 493": {
+      "name": "Kuroshitsuji: Book of Murder",
+      "type": "OVA (2 eps)",
+      "rating": "8.07",
+      "air time": "Jan 2015 - Feb 2015"
+   },
+   "id: 494": {
+      "name": "Mahoutsukai no Yome",
+      "type": "TV (24 eps)",
+      "rating": "8.07",
+      "air time": "Oct 2017 - Mar 2018"
+   },
+   "id: 495": {
+      "name": "Serial Experiments Lain",
+      "type": "TV (13 eps)",
+      "rating": "8.07",
+      "air time": "Jul 1998 - Sep 1998"
+   },
+   "id: 496": {
+      "name": "Shijou Saikyou no Deshi Kenichi",
+      "type": "TV (50 eps)",
+      "rating": "8.07",
+      "air time": "Oct 2006 - Sep 2007"
+   },
+   "id: 497": {
+      "name": "Omoide no Marnie",
+      "type": "Movie (1 eps)",
+      "rating": "8.06",
+      "air time": "Jul 2014 - Jul 2014"
+   },
+   "id: 498": {
+      "name": "City Hunter 2",
+      "type": "TV (63 eps)",
+      "rating": "8.06",
+      "air time": "Apr 1988 - Jul 1989"
+   },
+   "id: 499": {
+      "name": "Dennou Coil",
+      "type": "TV (26 eps)",
+      "rating": "8.06",
+      "air time": "May 2007 - Dec 2007"
+   },
+   "id: 500": {
+      "name": "Ginga Eiyuu Densetsu Gaiden (1999)",
+      "type": "OVA (28 eps)",
+      "rating": "8.06",
+      "air time": "Dec 1999 - Jul 2000"
+   },
+   "id: 501": {
+      "name": "Gosick",
+      "type": "TV (24 eps)",
+      "rating": "8.06",
+      "air time": "Jan 2011 - Jul 2011"
+   },
+   "id: 502": {
+      "name": "Kodomo no Omocha (TV)",
+      "type": "TV (102 eps)",
+      "rating": "8.06",
+      "air time": "Apr 1996 - Mar 1998"
+   },
+   "id: 503": {
+      "name": "Koukyoushihen Eureka Seven",
+      "type": "TV (50 eps)",
+      "rating": "8.06",
+      "air time": "Apr 2005 - Apr 2006"
+   },
+   "id: 504": {
+      "name": "Kyou kara Ore wa!!",
+      "type": "OVA (10 eps)",
+      "rating": "8.06",
+      "air time": "Apr 1993 - Dec 1997"
+   },
+   "id: 505": {
+      "name": "Fate/stay night: Unlimited Blade Works Prologue",
+      "type": "Special (1 eps)",
+      "rating": "8.05",
+      "air time": "Oct 2014 - Oct 2014"
+   },
+   "id: 506": {
+      "name": "xxxHOLiC: Shunmuki",
+      "type": "OVA (2 eps)",
+      "rating": "8.05",
+      "air time": "Feb 2009 - Jun 2009"
+   },
+   "id: 507": {
+      "name": "Yofukashi no Uta",
+      "type": "TV (13 eps)",
+      "rating": "8.05",
+      "air time": "Jul 2022 -"
+   },
+   "id: 508": {
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "8.05",
+      "air time": "Jul 2022 -"
+   },
+   "id: 509": {
+      "name": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "type": "TV (25 eps)",
+      "rating": "8.04",
+      "air time": "Oct 2015 - Mar 2016"
+   },
+   "id: 510": {
+      "name": "Paprika",
+      "type": "Movie (1 eps)",
+      "rating": "8.04",
+      "air time": "Nov 2006 - Nov 2006"
+   },
+   "id: 511": {
+      "name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+      "type": "OVA (13 eps)",
+      "rating": "8.04",
+      "air time": "Nov 2002 - Jul 2003"
+   },
+   "id: 512": {
+      "name": "Summer Wars",
+      "type": "Movie (1 eps)",
+      "rating": "8.04",
+      "air time": "Aug 2009 - Aug 2009"
+   },
+   "id: 513": {
+      "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+      "type": "OVA (1 eps)",
+      "rating": "8.04",
+      "air time": "Oct 2016 - Oct 2016"
+   },
+   "id: 514": {
+      "name": "BanG Dream! 3rd Season",
+      "type": "TV (13 eps)",
+      "rating": "8.04",
+      "air time": "Jan 2020 - Apr 2020"
+   },
+   "id: 515": {
+      "name": "Detective Conan Movie 10: Requiem of the Detectives",
+      "type": "Movie (1 eps)",
+      "rating": "8.04",
+      "air time": "Apr 2006 - Apr 2006"
+   },
+   "id: 516": {
+      "name": "Full Metal Panic? Fumoffu",
+      "type": "TV (12 eps)",
+      "rating": "8.04",
+      "air time": "Aug 2003 - Nov 2003"
+   },
+   "id: 517": {
+      "name": "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu",
+      "type": "Movie (1 eps)",
+      "rating": "8.04",
+      "air time": "Feb 2008 - Feb 2008"
+   },
+   "id: 518": {
+      "name": "Kill la Kill",
+      "type": "TV (24 eps)",
+      "rating": "8.04",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 519": {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+      "type": "OVA (1 eps)",
+      "rating": "8.04",
+      "air time": "Jul 2017 - Jul 2017"
+   },
+   "id: 520": {
+      "name": "Akatsuki no Yona",
+      "type": "TV (24 eps)",
+      "rating": "8.03",
+      "air time": "Oct 2014 - Mar 2015"
+   },
+   "id: 521": {
+      "name": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+      "type": "Movie (1 eps)",
+      "rating": "8.03",
+      "air time": "Jun 2021 - Jun 2021"
+   },
+   "id: 522": {
+      "name": "Black Lagoon",
+      "type": "TV (12 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2006 - Jun 2006"
+   },
+   "id: 523": {
+      "name": "Black Lagoon: Roberta&#039;s Blood Trail",
+      "type": "OVA (5 eps)",
+      "rating": "8.03",
+      "air time": "Jun 2010 - Jun 2011"
+   },
+   "id: 524": {
+      "name": "Detective Conan Movie 03: The Last Wizard of the Century",
+      "type": "Movie (1 eps)",
+      "rating": "8.03",
+      "air time": "Apr 1999 - Apr 1999"
+   },
+   "id: 525": {
+      "name": "Detective Conan Movie 04: Captured in Her Eyes",
+      "type": "Movie (1 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2000 - Apr 2000"
+   },
+   "id: 526": {
+      "name": "Douluo Dalu: Hao Tian Yang Wei",
+      "type": "ONA (13 eps)",
+      "rating": "8.03",
+      "air time": "Nov 2019 - Feb 2020"
+   },
+   "id: 527": {
+      "name": "Eve no Jikan",
+      "type": "ONA (6 eps)",
+      "rating": "8.03",
+      "air time": "Aug 2008 - Sep 2009"
+   },
+   "id: 528": {
+      "name": "FLCL",
+      "type": "OVA (6 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2000 - Mar 2001"
+   },
+   "id: 529": {
+      "name": "Ginga Nagareboshi Gin",
+      "type": "TV (21 eps)",
+      "rating": "8.03",
+      "air time": "Apr 1986 - Aug 1986"
+   },
+   "id: 530": {
+      "name": "Juuni Kokuki",
+      "type": "TV (45 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2002 - Aug 2003"
+   },
+   "id: 531": {
+      "name": "Kamisama Hajimemashita OVA",
+      "type": "OVA (2 eps)",
+      "rating": "8.03",
+      "air time": "Aug 2013 - Aug 2013"
+   },
+   "id: 532": {
+      "name": "Lovely★Complex",
+      "type": "TV (24 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 533": {
+      "name": "Saiunkoku Monogatari 2nd Season",
+      "type": "TV (39 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2007 - Mar 2008"
+   },
+   "id: 534": {
+      "name": "Shokugeki no Souma: San no Sara",
+      "type": "TV (12 eps)",
+      "rating": "8.03",
+      "air time": "Oct 2017 - Dec 2017"
+   },
+   "id: 535": {
+      "name": "SK∞",
+      "type": "TV (12 eps)",
+      "rating": "8.03",
+      "air time": "Jan 2021 - Apr 2021"
+   },
+   "id: 536": {
+      "name": "Toaru Kagaku no Railgun S",
+      "type": "TV (24 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2013 - Sep 2013"
+   },
+   "id: 537": {
+      "name": "Tsumiki no Ie",
+      "type": "Movie (1 eps)",
+      "rating": "8.03",
+      "air time": "Jun 2008 - Jun 2008"
+   },
+   "id: 538": {
+      "name": "Zombieland Saga: Revenge",
+      "type": "TV (12 eps)",
+      "rating": "8.03",
+      "air time": "Apr 2021 - Jun 2021"
+   },
+   "id: 539": {
+      "name": "Magi: The Labyrinth of Magic",
+      "type": "TV (25 eps)",
+      "rating": "8.02",
+      "air time": "Oct 2012 - Mar 2013"
+   },
+   "id: 540": {
+      "name": "Omae Umasou da na",
+      "type": "Movie (1 eps)",
+      "rating": "8.02",
+      "air time": "Oct 2010 - Oct 2010"
+   },
+   "id: 541": {
+      "name": "Persona 3 the Movie 4: Winter of Rebirth",
+      "type": "Movie (1 eps)",
+      "rating": "8.02",
+      "air time": "Jan 2016 - Jan 2016"
+   },
+   "id: 542": {
+      "name": "Slayers Next",
+      "type": "TV (26 eps)",
+      "rating": "8.02",
+      "air time": "Apr 1996 - Sep 1996"
+   },
+   "id: 543": {
+      "name": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
+      "type": "Movie (1 eps)",
+      "rating": "8.02",
+      "air time": "Oct 2021 - Oct 2021"
+   },
+   "id: 544": {
+      "name": "Tokyo Magnitude 8.0",
+      "type": "TV (11 eps)",
+      "rating": "8.02",
+      "air time": "Jul 2009 - Sep 2009"
+   },
+   "id: 545": {
+      "name": "Uma Musume: Pretty Derby (TV) Season 2",
+      "type": "TV (13 eps)",
+      "rating": "8.02",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 546": {
+      "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+      "type": "TV (13 eps)",
+      "rating": "8.02",
+      "air time": "Apr 2013 - Jun 2013"
+   },
+   "id: 547": {
+      "name": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku",
+      "type": "Movie (1 eps)",
+      "rating": "8.02",
+      "air time": "Jul 2017 - Jul 2017"
+   },
+   "id: 548": {
+      "name": "Baby Steps 2nd Season",
+      "type": "TV (25 eps)",
+      "rating": "8.02",
+      "air time": "Apr 2015 - Sep 2015"
+   },
+   "id: 549": {
+      "name": "D.Gray-man",
+      "type": "TV (103 eps)",
+      "rating": "8.02",
+      "air time": "Oct 2006 - Sep 2008"
+   },
+   "id: 550": {
+      "name": "Detective Conan Movie 15: Quarter of Silence",
+      "type": "Movie (1 eps)",
+      "rating": "8.02",
+      "air time": "Apr 2011 - Apr 2011"
+   },
+   "id: 551": {
+      "name": "Golden Boy",
+      "type": "OVA (6 eps)",
+      "rating": "8.02",
+      "air time": "Oct 1995 - Jun 1996"
+   },
+   "id: 552": {
+      "name": "Hachimitsu to Clover",
+      "type": "TV (24 eps)",
+      "rating": "8.02",
+      "air time": "Apr 2005 - Sep 2005"
+   },
+   "id: 553": {
+      "name": "Kami nomi zo Shiru Sekai: Megami-hen",
+      "type": "TV (12 eps)",
+      "rating": "8.02",
+      "air time": "Jul 2013 - Sep 2013"
+   },
+   "id: 554": {
+      "name": "Kara no Kyoukai Movie: Mirai Fukuin",
+      "type": "Movie (1 eps)",
+      "rating": "8.02",
+      "air time": "Sep 2013 - Sep 2013"
+   },
+   "id: 555": {
+      "name": "Aria the OVA: Arietta",
+      "type": "OVA (1 eps)",
+      "rating": "8.01",
+      "air time": "Sep 2007 - Sep 2007"
+   },
+   "id: 556": {
+      "name": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+      "type": "Movie (1 eps)",
+      "rating": "8.01",
+      "air time": "Dec 2019 - Dec 2019"
+   },
+   "id: 557": {
+      "name": "Clannad",
+      "type": "TV (23 eps)",
+      "rating": "8.01",
+      "air time": "Oct 2007 - Mar 2008"
+   },
+   "id: 558": {
+      "name": "ef: A Tale of Melodies.",
+      "type": "TV (12 eps)",
+      "rating": "8.01",
+      "air time": "Oct 2008 - Dec 2008"
+   },
+   "id: 559": {
+      "name": "Evangelion: 1.0 You Are (Not) Alone",
+      "type": "Movie (1 eps)",
+      "rating": "8.01",
+      "air time": "Sep 2007 - Sep 2007"
+   },
+   "id: 560": {
+      "name": "Fullmetal Alchemist: Brotherhood Specials",
+      "type": "Special (4 eps)",
+      "rating": "8.01",
+      "air time": "Aug 2009 - Aug 2010"
+   },
+   "id: 561": {
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1",
+      "type": "Movie (4 eps)",
+      "rating": "8.01",
+      "air time": "Sep 2019 - Sep 2019"
+   },
+   "id: 562": {
+      "name": "Haikyuu!! Movie 2: Shousha to Haisha",
+      "type": "Movie (1 eps)",
+      "rating": "8.01",
+      "air time": "Sep 2015 - Sep 2015"
+   },
+   "id: 563": {
+      "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+      "type": "TV (14 eps)",
+      "rating": "8.01",
+      "air time": "Oct 2019 - Dec 2019"
+   },
+   "id: 564": {
+      "name": "Kaichou wa Maid-sama!",
+      "type": "TV (26 eps)",
+      "rating": "8.01",
+      "air time": "Apr 2010 - Sep 2010"
+   },
+   "id: 565": {
+      "name": "Komi-san wa, Comyushou desu.",
+      "type": "TV (12 eps)",
+      "rating": "8.01",
+      "air time": "Oct 2021 - Dec 2021"
+   },
+   "id: 566": {
+      "name": "Mobile Suit Gundam: The 08th MS Team",
+      "type": "OVA (12 eps)",
+      "rating": "8.01",
+      "air time": "Jan 1996 - Jul 1999"
+   },
+   "id: 567": {
+      "name": "Pui Pui Molcar",
+      "type": "TV (12 eps)",
+      "rating": "8.01",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 568": {
+      "name": "Tate no Yuusha no Nariagari",
+      "type": "TV (25 eps)",
+      "rating": "8.01",
+      "air time": "Jan 2019 - Jun 2019"
+   },
+   "id: 569": {
+      "name": "Maoujou de Oyasumi",
+      "type": "TV (12 eps)",
+      "rating": "8.00",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 570": {
+      "name": "Nagi no Asu kara",
+      "type": "TV (26 eps)",
+      "rating": "8.00",
+      "air time": "Oct 2013 - Apr 2014"
+   },
+   "id: 571": {
+      "name": "Touch",
+      "type": "TV (101 eps)",
+      "rating": "8.00",
+      "air time": "Mar 1985 - Mar 1987"
+   },
+   "id: 572": {
+      "name": "Wolf&#039;s Rain OVA",
+      "type": "OVA (4 eps)",
+      "rating": "8.00",
+      "air time": "Jan 2004 - Feb 2004"
+   },
+   "id: 573": {
+      "name": "Eve no Jikan (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "8.00",
+      "air time": "Mar 2010 - Mar 2010"
+   },
+   "id: 574": {
+      "name": "Hanada Shounen-shi",
+      "type": "TV (25 eps)",
+      "rating": "8.00",
+      "air time": "Oct 2002 - Mar 2003"
+   },
+   "id: 575": {
+      "name": "Hibike! Euphonium",
+      "type": "TV (13 eps)",
+      "rating": "8.00",
+      "air time": "Apr 2015 - Jul 2015"
+   },
+   "id: 576": {
+      "name": "Isekai Ojisan",
+      "type": "TV (? eps)",
+      "rating": "8.00",
+      "air time": "Jul 2022 -"
+   },
+   "id: 577": {
+      "name": "Kakushigoto (TV)",
+      "type": "TV (12 eps)",
+      "rating": "8.00",
+      "air time": "Apr 2020 - Jun 2020"
+   },
+   "id: 578": {
+      "name": "Kimi ni Todoke",
+      "type": "TV (25 eps)",
+      "rating": "8.00",
+      "air time": "Oct 2009 - Mar 2010"
+   },
+   "id: 579": {
+      "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven",
+      "type": "Special (1 eps)",
+      "rating": "8.00",
+      "air time": "Jan 2006 - Jan 2006"
+   },
+   "id: 580": {
+      "name": "Love Live! Superstar!!",
+      "type": "TV (12 eps)",
+      "rating": "8.00",
+      "air time": "Jul 2021 - Oct 2021"
+   },
+   "id: 581": {
+      "name": "Code Geass: Hangyaku no Lelouch III - Oudou",
+      "type": "Movie (1 eps)",
+      "rating": "7.99",
+      "air time": "May 2018 - May 2018"
+   },
+   "id: 582": {
+      "name": "Doupo Cangqiong 4th Season",
+      "type": "ONA (24 eps)",
+      "rating": "7.99",
+      "air time": "Mar 2021 - Aug 2021"
+   },
+   "id: 583": {
+      "name": "Durarara!!x2 Shou",
+      "type": "TV (12 eps)",
+      "rating": "7.99",
+      "air time": "Jan 2015 - Mar 2015"
+   },
+   "id: 584": {
+      "name": "High Score Girl II",
+      "type": "TV (9 eps)",
+      "rating": "7.99",
+      "air time": "Oct 2019 - Dec 2019"
+   },
+   "id: 585": {
+      "name": "High Score Girl: Extra Stage",
+      "type": "OVA (3 eps)",
+      "rating": "7.99",
+      "air time": "Mar 2019 - Mar 2019"
+   },
+   "id: 586": {
+      "name": "Kimi ni Todoke 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "7.99",
+      "air time": "Jan 2011 - Mar 2011"
+   },
+   "id: 587": {
+      "name": "Kobayashi-san Chi no Maid Dragon",
+      "type": "TV (13 eps)",
+      "rating": "7.99",
+      "air time": "Jan 2017 - Apr 2017"
+   },
+   "id: 588": {
+      "name": "Koukaku Kidoutai 2.0",
+      "type": "Movie (1 eps)",
+      "rating": "7.99",
+      "air time": "Jul 2008 - Jul 2008"
+   },
+   "id: 589": {
+      "name": "Ookiku Furikabutte: Natsu no Taikai-hen",
+      "type": "TV (13 eps)",
+      "rating": "7.99",
+      "air time": "Apr 2010 - Jun 2010"
+   },
+   "id: 590": {
+      "name": "ReLIFE",
+      "type": "TV (13 eps)",
+      "rating": "7.99",
+      "air time": "Jul 2016 - Sep 2016"
+   },
+   "id: 591": {
+      "name": "School Rumble Ni Gakki",
+      "type": "TV (26 eps)",
+      "rating": "7.99",
+      "air time": "Apr 2006 - Sep 2006"
+   },
+   "id: 592": {
+      "name": "xxxHOLiC",
+      "type": "TV (24 eps)",
+      "rating": "7.99",
+      "air time": "Apr 2006 - Sep 2006"
+   },
+   "id: 593": {
+      "name": "Major Movie: Yuujou no Winning Shot",
+      "type": "Movie (1 eps)",
+      "rating": "7.98",
+      "air time": "Dec 2008 - Dec 2008"
+   },
+   "id: 594": {
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Special",
+      "type": "Special (1 eps)",
+      "rating": "7.98",
+      "air time": "Mar 2022 - Mar 2022"
+   },
+   "id: 595": {
+      "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+      "type": "OVA (2 eps)",
+      "rating": "7.98",
+      "air time": "Dec 2001 - Mar 2002"
+   },
+   "id: 596": {
+      "name": "Sakasama no Patema",
+      "type": "Movie (1 eps)",
+      "rating": "7.98",
+      "air time": "Nov 2013 - Nov 2013"
+   },
+   "id: 597": {
+      "name": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+      "type": "TV (12 eps)",
+      "rating": "7.98",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 598": {
+      "name": "Wan Sheng Jie 2",
+      "type": "ONA (12 eps)",
+      "rating": "7.98",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 599": {
+      "name": "Working!!!",
+      "type": "TV (13 eps)",
+      "rating": "7.98",
+      "air time": "Jul 2015 - Sep 2015"
+   },
+   "id: 600": {
+      "name": "Akagami no Shirayuki-hime 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "7.98",
+      "air time": "Jan 2016 - Mar 2016"
+   },
+   "id: 601": {
+      "name": "Aria the Origination: Sono Choppiri Himitsu no Basho ni...",
+      "type": "Special (1 eps)",
+      "rating": "7.98",
+      "air time": "Jun 2008 - Jun 2008"
+   },
+   "id: 602": {
+      "name": "Durarara!!x2 Ten",
+      "type": "TV (12 eps)",
+      "rating": "7.98",
+      "air time": "Jul 2015 - Sep 2015"
+   },
+   "id: 603": {
+      "name": "Azumanga Daioh",
+      "type": "TV (26 eps)",
+      "rating": "7.97",
+      "air time": "Apr 2002 - Oct 2002"
+   },
+   "id: 604": {
+      "name": "Detective Conan Movie 25: Halloween no Hanayome",
+      "type": "Movie (1 eps)",
+      "rating": "7.97",
+      "air time": "Apr 2022 - Apr 2022"
+   },
+   "id: 605": {
+      "name": "Douluo Dalu: Shan Yu Yu Lai",
+      "type": "ONA (13 eps)",
+      "rating": "7.97",
+      "air time": "May 2021 - Aug 2021"
+   },
+   "id: 606": {
+      "name": "Haibane Renmei",
+      "type": "TV (13 eps)",
+      "rating": "7.97",
+      "air time": "Oct 2002 - Dec 2002"
+   },
+   "id: 607": {
+      "name": "Haikyuu!! Movie 1: Owari to Hajimari",
+      "type": "Movie (1 eps)",
+      "rating": "7.97",
+      "air time": "Jul 2015 - Jul 2015"
+   },
+   "id: 608": {
+      "name": "IDOLiSH7 Vibrato",
+      "type": "ONA (8 eps)",
+      "rating": "7.97",
+      "air time": "Feb 2018 - Mar 2019"
+   },
+   "id: 609": {
+      "name": "Mahou Shoujo Lyrical Nanoha A&#039;s",
+      "type": "TV (13 eps)",
+      "rating": "7.97",
+      "air time": "Oct 2005 - Dec 2005"
+   },
+   "id: 610": {
+      "name": "Naruto",
+      "type": "TV (220 eps)",
+      "rating": "7.97",
+      "air time": "Oct 2002 - Feb 2007"
+   },
+   "id: 611": {
+      "name": "Promare",
+      "type": "Movie (1 eps)",
+      "rating": "7.97",
+      "air time": "May 2019 - May 2019"
+   },
+   "id: 612": {
+      "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+      "type": "OVA (13 eps)",
+      "rating": "7.97",
+      "air time": "Jun 2009 - Apr 2010"
+   },
+   "id: 613": {
+      "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+      "type": "OVA (7 eps)",
+      "rating": "7.97",
+      "air time": "Apr 2008 - Jan 2009"
+   },
+   "id: 614": {
+      "name": "Wan Sheng Jie",
+      "type": "ONA (12 eps)",
+      "rating": "7.97",
+      "air time": "Apr 2020 - May 2020"
+   },
+   "id: 615": {
+      "name": "Youjo Senki",
+      "type": "TV (12 eps)",
+      "rating": "7.97",
+      "air time": "Jan 2017 - Mar 2017"
+   },
+   "id: 616": {
+      "name": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness",
+      "type": "Special (1 eps)",
+      "rating": "7.97",
+      "air time": "May 2017 - May 2017"
+   },
+   "id: 617": {
+      "name": "Macross: Do You Remember Love?",
+      "type": "Movie (1 eps)",
+      "rating": "7.96",
+      "air time": "Jul 1984 - Jul 1984"
+   },
+   "id: 618": {
+      "name": "Mawaru Penguindrum",
+      "type": "TV (24 eps)",
+      "rating": "7.96",
+      "air time": "Jul 2011 - Dec 2011"
+   },
+   "id: 619": {
+      "name": "Noragami",
+      "type": "TV (12 eps)",
+      "rating": "7.96",
+      "air time": "Jan 2014 - Mar 2014"
+   },
+   "id: 620": {
+      "name": "One Piece Film: Strong World Episode 0",
+      "type": "OVA (1 eps)",
+      "rating": "7.96",
+      "air time": "Apr 2010 - Apr 2010"
+   },
+   "id: 621": {
+      "name": "Osomatsu-san",
+      "type": "TV (25 eps)",
+      "rating": "7.96",
+      "air time": "Oct 2015 - Mar 2016"
+   },
+   "id: 622": {
+      "name": "Phantom: Requiem for the Phantom",
+      "type": "TV (26 eps)",
+      "rating": "7.96",
+      "air time": "Apr 2009 - Sep 2009"
+   },
+   "id: 623": {
+      "name": "Quanzhi Gaoshou 2",
+      "type": "ONA (12 eps)",
+      "rating": "7.96",
+      "air time": "Sep 2020 - Dec 2020"
+   },
+   "id: 624": {
+      "name": "Tekkon Kinkreet",
+      "type": "Movie (1 eps)",
+      "rating": "7.96",
+      "air time": "Dec 2006 - Dec 2006"
+   },
+   "id: 625": {
+      "name": "Dragon Ball",
+      "type": "TV (153 eps)",
+      "rating": "7.96",
+      "air time": "Feb 1986 - Apr 1989"
+   },
+   "id: 626": {
+      "name": "Hokuto no Ken",
+      "type": "TV (109 eps)",
+      "rating": "7.96",
+      "air time": "Oct 1984 - Mar 1987"
+   },
+   "id: 627": {
+      "name": "Hyouge Mono",
+      "type": "TV (39 eps)",
+      "rating": "7.96",
+      "air time": "Apr 2011 - Jan 2012"
+   },
+   "id: 628": {
+      "name": "Kanon (2006)",
+      "type": "TV (24 eps)",
+      "rating": "7.96",
+      "air time": "Oct 2006 - Mar 2007"
+   },
+   "id: 629": {
+      "name": "Kingdom",
+      "type": "TV (38 eps)",
+      "rating": "7.96",
+      "air time": "Jun 2012 - Feb 2013"
+   },
+   "id: 630": {
+      "name": "Kobato.",
+      "type": "TV (24 eps)",
+      "rating": "7.96",
+      "air time": "Oct 2009 - Mar 2010"
+   },
+   "id: 631": {
+      "name": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+      "type": "Movie (1 eps)",
+      "rating": "7.95",
+      "air time": "Aug 2017 - Aug 2017"
+   },
+   "id: 632": {
+      "name": "Girls &amp; Panzer: Saishuushou Part 1",
+      "type": "Movie (1 eps)",
+      "rating": "7.95",
+      "air time": "Dec 2017 - Dec 2017"
+   },
+   "id: 633": {
+      "name": "Hikaru no Go: Hokuto Hai e no Michi",
+      "type": "Special (1 eps)",
+      "rating": "7.95",
+      "air time": "Jan 2004 - Jan 2004"
+   },
+   "id: 634": {
+      "name": "Kindaichi Shounen no Jikenbo",
+      "type": "TV (148 eps)",
+      "rating": "7.95",
+      "air time": "Apr 1997 - Sep 2000"
+   },
+   "id: 635": {
+      "name": "Kokoro Connect: Michi Random",
+      "type": "Special (4 eps)",
+      "rating": "7.95",
+      "air time": "Nov 2012 - Dec 2012"
+   },
+   "id: 636": {
+      "name": "Kurenai no Buta",
+      "type": "Movie (1 eps)",
+      "rating": "7.95",
+      "air time": "Jul 1992 - Jul 1992"
+   },
+   "id: 637": {
+      "name": "Macross F Movie 2: Sayonara no Tsubasa",
+      "type": "Movie (1 eps)",
+      "rating": "7.95",
+      "air time": "Feb 2011 - Feb 2011"
+   },
+   "id: 638": {
+      "name": "Nurarihyon no Mago: Sennen Makyou",
+      "type": "TV (24 eps)",
+      "rating": "7.95",
+      "air time": "Jul 2011 - Dec 2011"
+   },
+   "id: 639": {
+      "name": "Takarajima",
+      "type": "TV (26 eps)",
+      "rating": "7.95",
+      "air time": "Oct 1978 - Apr 1979"
+   },
+   "id: 640": {
+      "name": "Usagi Drop Specials",
+      "type": "Special (4 eps)",
+      "rating": "7.95",
+      "air time": "Oct 2011 - Jan 2012"
+   },
+   "id: 641": {
+      "name": "Wotaku ni Koi wa Muzukashii",
+      "type": "TV (11 eps)",
+      "rating": "7.95",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 642": {
+      "name": "Yowamushi Pedal",
+      "type": "TV (38 eps)",
+      "rating": "7.95",
+      "air time": "Oct 2013 - Jul 2014"
+   },
+   "id: 643": {
+      "name": "Mobile Suit Gundam 0080: War in the Pocket",
+      "type": "OVA (6 eps)",
+      "rating": "7.94",
+      "air time": "Mar 1989 - Aug 1989"
+   },
+   "id: 644": {
+      "name": "Mobile Suit Gundam Thunderbolt",
+      "type": "ONA (4 eps)",
+      "rating": "7.94",
+      "air time": "Dec 2015 - Apr 2016"
+   },
+   "id: 645": {
+      "name": "Mobile Suit Gundam Thunderbolt: December Sky",
+      "type": "Movie (1 eps)",
+      "rating": "7.94",
+      "air time": "Jun 2016 - Jun 2016"
+   },
+   "id: 646": {
+      "name": "Nekomonogatari: Kuro",
+      "type": "TV (4 eps)",
+      "rating": "7.94",
+      "air time": "Dec 2012 - Dec 2012"
+   },
+   "id: 647": {
+      "name": "Non Non Biyori",
+      "type": "TV (12 eps)",
+      "rating": "7.94",
+      "air time": "Oct 2013 - Dec 2013"
+   },
+   "id: 648": {
+      "name": "Trigun: Badlands Rumble",
+      "type": "Movie (1 eps)",
+      "rating": "7.94",
+      "air time": "Apr 2010 - Apr 2010"
+   },
+   "id: 649": {
+      "name": "Wotaku ni Koi wa Muzukashii OVA",
+      "type": "OVA (3 eps)",
+      "rating": "7.94",
+      "air time": "Mar 2019 - Oct 2021"
+   },
+   "id: 650": {
+      "name": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
+      "type": "Movie (1 eps)",
+      "rating": "7.94",
+      "air time": "Aug 2005 - Aug 2005"
+   },
+   "id: 651": {
+      "name": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+      "type": "TV (34 eps)",
+      "rating": "7.94",
+      "air time": "Mar 1996 - Feb 1997"
+   },
+   "id: 652": {
+      "name": "Boku no Hero Academia 4th Season",
+      "type": "TV (25 eps)",
+      "rating": "7.94",
+      "air time": "Oct 2019 - Apr 2020"
+   },
+   "id: 653": {
+      "name": "Bungou Stray Dogs Wan!",
+      "type": "TV (12 eps)",
+      "rating": "7.94",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 654": {
+      "name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+      "type": "Special (1 eps)",
+      "rating": "7.94",
+      "air time": "Jul 2008 - Jul 2008"
+   },
+   "id: 655": {
+      "name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+      "type": "TV (21 eps)",
+      "rating": "7.94",
+      "air time": "Oct 2019 - Mar 2020"
+   },
+   "id: 656": {
+      "name": "Full Moon wo Sagashite",
+      "type": "TV (52 eps)",
+      "rating": "7.94",
+      "air time": "Apr 2002 - Mar 2003"
+   },
+   "id: 657": {
+      "name": "Gochuumon wa Usagi Desu ka? Bloom",
+      "type": "TV (12 eps)",
+      "rating": "7.94",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 658": {
+      "name": "Hanamonogatari",
+      "type": "TV (5 eps)",
+      "rating": "7.94",
+      "air time": "Aug 2014 - Aug 2014"
+   },
+   "id: 659": {
+      "name": "Kidou Keisatsu Patlabor 2 the Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.94",
+      "air time": "Aug 1993 - Aug 1993"
+   },
+   "id: 660": {
+      "name": "Kimi to Boku. 2",
+      "type": "TV (13 eps)",
+      "rating": "7.94",
+      "air time": "Apr 2012 - Jun 2012"
+   },
+   "id: 661": {
+      "name": "Log Horizon",
+      "type": "TV (25 eps)",
+      "rating": "7.94",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 662": {
+      "name": "Boku no Hero Academia",
+      "type": "TV (13 eps)",
+      "rating": "7.93",
+      "air time": "Apr 2016 - Jun 2016"
+   },
+   "id: 663": {
+      "name": "Dance Dance Danseur",
+      "type": "TV (11 eps)",
+      "rating": "7.93",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 664": {
+      "name": "Darker than Black: Kuro no Keiyakusha Gaiden",
+      "type": "Special (4 eps)",
+      "rating": "7.93",
+      "air time": "Jan 2010 - Jul 2010"
+   },
+   "id: 665": {
+      "name": "Full Metal Panic! The Second Raid",
+      "type": "TV (13 eps)",
+      "rating": "7.93",
+      "air time": "Jul 2005 - Oct 2005"
+   },
+   "id: 666": {
+      "name": "Hidamari Sketch x Honeycomb",
+      "type": "TV (12 eps)",
+      "rating": "7.93",
+      "air time": "Oct 2012 - Dec 2012"
+   },
+   "id: 667": {
+      "name": "Kuuchuu Buranko",
+      "type": "TV (11 eps)",
+      "rating": "7.93",
+      "air time": "Oct 2009 - Dec 2009"
+   },
+   "id: 668": {
+      "name": "Love Live! The School Idol Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.93",
+      "air time": "Jun 2015 - Jun 2015"
+   },
+   "id: 669": {
+      "name": "Overlord III",
+      "type": "TV (13 eps)",
+      "rating": "7.93",
+      "air time": "Jul 2018 - Oct 2018"
+   },
+   "id: 670": {
+      "name": "SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+      "type": "OVA (1 eps)",
+      "rating": "7.93",
+      "air time": "Feb 2013 - Feb 2013"
+   },
+   "id: 671": {
+      "name": "Tamako Love Story",
+      "type": "Movie (1 eps)",
+      "rating": "7.93",
+      "air time": "Apr 2014 - Apr 2014"
+   },
+   "id: 672": {
+      "name": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+      "type": "TV (26 eps)",
+      "rating": "7.93",
+      "air time": "Oct 2005 - Mar 2006"
+   },
+   "id: 673": {
+      "name": "Zetsuen no Tempest",
+      "type": "TV (24 eps)",
+      "rating": "7.93",
+      "air time": "Oct 2012 - Mar 2013"
+   },
+   "id: 674": {
+      "name": "Overlord",
+      "type": "TV (13 eps)",
+      "rating": "7.92",
+      "air time": "Jul 2015 - Sep 2015"
+   },
+   "id: 675": {
+      "name": "Plastic Memories",
+      "type": "TV (13 eps)",
+      "rating": "7.92",
+      "air time": "Apr 2015 - Jun 2015"
+   },
+   "id: 676": {
+      "name": "Shadows House 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "7.92",
+      "air time": "Jul 2022 -"
+   },
+   "id: 677": {
+      "name": "Umibe no Étranger",
+      "type": "Movie (1 eps)",
+      "rating": "7.92",
+      "air time": "Sep 2020 - Sep 2020"
+   },
+   "id: 678": {
+      "name": "Yakitate!! Japan",
+      "type": "TV (69 eps)",
+      "rating": "7.92",
+      "air time": "Oct 2004 - Mar 2006"
+   },
+   "id: 679": {
+      "name": "Yuru Yuri San☆Hai!",
+      "type": "TV (12 eps)",
+      "rating": "7.92",
+      "air time": "Oct 2015 - Dec 2015"
+   },
+   "id: 680": {
+      "name": "Cike Wu Liuqi",
+      "type": "ONA (10 eps)",
+      "rating": "7.92",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 681": {
+      "name": "City Hunter",
+      "type": "TV (51 eps)",
+      "rating": "7.92",
+      "air time": "Apr 1987 - Mar 1988"
+   },
+   "id: 682": {
+      "name": "Code Geass: Fukkatsu no Lelouch",
+      "type": "Movie (1 eps)",
+      "rating": "7.92",
+      "air time": "Feb 2019 - Feb 2019"
+   },
+   "id: 683": {
+      "name": "Detective Conan OVA 09: The Stranger in 10 Years...",
+      "type": "OVA (1 eps)",
+      "rating": "7.92",
+      "air time": "Jun 2009 - Jun 2009"
+   },
+   "id: 684": {
+      "name": "Douluo Dalu: Chongfan Haotian",
+      "type": "ONA (13 eps)",
+      "rating": "7.92",
+      "air time": "Aug 2021 - Nov 2021"
+   },
+   "id: 685": {
+      "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
+      "type": "TV (? eps)",
+      "rating": "7.92",
+      "air time": "Jul 2022 -"
+   },
+   "id: 686": {
+      "name": "Eyeshield 21",
+      "type": "TV (145 eps)",
+      "rating": "7.92",
+      "air time": "Apr 2005 - Mar 2008"
+   },
+   "id: 687": {
+      "name": "Final Fantasy VII: Advent Children Complete",
+      "type": "OVA (1 eps)",
+      "rating": "7.92",
+      "air time": "Apr 2009 - Apr 2009"
+   },
+   "id: 688": {
+      "name": "Hanasaku Iroha",
+      "type": "TV (26 eps)",
+      "rating": "7.92",
+      "air time": "Apr 2011 - Sep 2011"
+   },
+   "id: 689": {
+      "name": "Macross",
+      "type": "TV (36 eps)",
+      "rating": "7.92",
+      "air time": "Oct 1982 - Jun 1983"
+   },
+   "id: 690": {
+      "name": "Bungou Stray Dogs: Dead Apple",
+      "type": "Movie (1 eps)",
+      "rating": "7.91",
+      "air time": "Mar 2018 - Mar 2018"
+   },
+   "id: 691": {
+      "name": "Date A Live II: Kurumi Star Festival",
+      "type": "OVA (1 eps)",
+      "rating": "7.91",
+      "air time": "Dec 2014 - Dec 2014"
+   },
+   "id: 692": {
+      "name": "Ergo Proxy",
+      "type": "TV (23 eps)",
+      "rating": "7.91",
+      "air time": "Feb 2006 - Aug 2006"
+   },
+   "id: 693": {
+      "name": "Gake no Ue no Ponyo",
+      "type": "Movie (1 eps)",
+      "rating": "7.91",
+      "air time": "Jul 2008 - Jul 2008"
+   },
+   "id: 694": {
+      "name": "Ie Naki Ko Remy",
+      "type": "TV (23 eps)",
+      "rating": "7.91",
+      "air time": "Sep 1996 - Mar 1997"
+   },
+   "id: 695": {
+      "name": "JoJo no Kimyou na Bouken (TV)",
+      "type": "TV (26 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2012 - Apr 2013"
+   },
+   "id: 696": {
+      "name": "Jormungand: Perfect Order",
+      "type": "TV (12 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2012 - Dec 2012"
+   },
+   "id: 697": {
+      "name": "Kaleido Star",
+      "type": "TV (51 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2003 - Mar 2004"
+   },
+   "id: 698": {
+      "name": "Kono Oto Tomare!",
+      "type": "TV (13 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2019 - Jun 2019"
+   },
+   "id: 699": {
+      "name": "Kotonoha no Niwa",
+      "type": "Movie (1 eps)",
+      "rating": "7.91",
+      "air time": "May 2013 - May 2013"
+   },
+   "id: 700": {
+      "name": "Lupin III (2015)",
+      "type": "TV (24 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2015 - Mar 2016"
+   },
+   "id: 701": {
+      "name": "Marine Shukkou!!",
+      "type": "Music (1 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2022 - Apr 2022"
+   },
+   "id: 702": {
+      "name": "One Piece Film: Gold",
+      "type": "Movie (1 eps)",
+      "rating": "7.91",
+      "air time": "Jul 2016 - Jul 2016"
+   },
+   "id: 703": {
+      "name": "Ore Monogatari!!",
+      "type": "TV (24 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2015 - Sep 2015"
+   },
+   "id: 704": {
+      "name": "Quanzhi Gaoshou",
+      "type": "ONA (12 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2017 - Jun 2017"
+   },
+   "id: 705": {
+      "name": "Sakigake!! Cromartie Koukou",
+      "type": "TV (26 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2003 - Mar 2004"
+   },
+   "id: 706": {
+      "name": "Shirokuma Cafe",
+      "type": "TV (50 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2012 - Mar 2013"
+   },
+   "id: 707": {
+      "name": "Tonikaku Kawaii",
+      "type": "TV (12 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2020 - Dec 2020"
+   },
+   "id: 708": {
+      "name": "Ushio to Tora (TV) 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "7.91",
+      "air time": "Apr 2016 - Jun 2016"
+   },
+   "id: 709": {
+      "name": "Vanitas no Karte",
+      "type": "TV (12 eps)",
+      "rating": "7.91",
+      "air time": "Jul 2021 - Sep 2021"
+   },
+   "id: 710": {
+      "name": "Yagate Kimi ni Naru",
+      "type": "TV (13 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2018 - Dec 2018"
+   },
+   "id: 711": {
+      "name": "Yuri!!! on Ice",
+      "type": "TV (12 eps)",
+      "rating": "7.91",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 712": {
+      "name": "Zoku Sayonara Zetsubou Sensei",
+      "type": "TV (13 eps)",
+      "rating": "7.91",
+      "air time": "Jan 2008 - Mar 2008"
+   },
+   "id: 713": {
+      "name": "Ookiku Furikabutte",
+      "type": "TV (25 eps)",
+      "rating": "7.90",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 714": {
+      "name": "Saiunkoku Monogatari",
+      "type": "TV (39 eps)",
+      "rating": "7.90",
+      "air time": "Apr 2006 - Feb 2007"
+   },
+   "id: 715": {
+      "name": "School Rumble",
+      "type": "TV (26 eps)",
+      "rating": "7.90",
+      "air time": "Oct 2004 - Mar 2005"
+   },
+   "id: 716": {
+      "name": "Shijou Saikyou no Deshi Kenichi OVA",
+      "type": "OVA (11 eps)",
+      "rating": "7.90",
+      "air time": "Mar 2012 - May 2014"
+   },
+   "id: 717": {
+      "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+      "type": "OVA (13 eps)",
+      "rating": "7.90",
+      "air time": "Mar 2006 - Mar 2007"
+   },
+   "id: 718": {
+      "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal",
+      "type": "OVA (6 eps)",
+      "rating": "7.90",
+      "air time": "Jun 2007 - Jan 2008"
+   },
+   "id: 719": {
+      "name": "Vampire Hunter D (2000)",
+      "type": "Movie (1 eps)",
+      "rating": "7.90",
+      "air time": "Aug 2000 - Aug 2000"
+   },
+   "id: 720": {
+      "name": "Aria the Avvenire",
+      "type": "Special (3 eps)",
+      "rating": "7.90",
+      "air time": "Sep 2015 - Sep 2015"
+   },
+   "id: 721": {
+      "name": "Death Billiards",
+      "type": "Movie (1 eps)",
+      "rating": "7.90",
+      "air time": "Mar 2013 - Mar 2013"
+   },
+   "id: 722": {
+      "name": "Drifters",
+      "type": "TV (12 eps)",
+      "rating": "7.90",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 723": {
+      "name": "ef: A Tale of Memories.",
+      "type": "TV (12 eps)",
+      "rating": "7.90",
+      "air time": "Oct 2007 - Dec 2007"
+   },
+   "id: 724": {
+      "name": "Free! Eternal Summer: Kindan no All Hard!",
+      "type": "Special (1 eps)",
+      "rating": "7.90",
+      "air time": "Mar 2015 - Mar 2015"
+   },
+   "id: 725": {
+      "name": "Gakuen Babysitters",
+      "type": "TV (12 eps)",
+      "rating": "7.90",
+      "air time": "Jan 2018 - Mar 2018"
+   },
+   "id: 726": {
+      "name": "Hidamari Sketch x ☆☆☆",
+      "type": "TV (12 eps)",
+      "rating": "7.90",
+      "air time": "Jan 2010 - Mar 2010"
+   },
+   "id: 727": {
+      "name": "Higurashi no Naku Koro ni",
+      "type": "TV (26 eps)",
+      "rating": "7.90",
+      "air time": "Apr 2006 - Sep 2006"
+   },
+   "id: 728": {
+      "name": "Jigoku Shoujo Futakomori",
+      "type": "TV (26 eps)",
+      "rating": "7.90",
+      "air time": "Oct 2006 - Apr 2007"
+   },
+   "id: 729": {
+      "name": "Machikado Mazoku: 2-choume",
+      "type": "TV (12 eps)",
+      "rating": "7.90",
+      "air time": "Apr 2022 - Jul 2022"
+   },
+   "id: 730": {
+      "name": "Macross F",
+      "type": "TV (25 eps)",
+      "rating": "7.90",
+      "air time": "Apr 2008 - Sep 2008"
+   },
+   "id: 731": {
+      "name": "Carole &amp; Tuesday",
+      "type": "TV (24 eps)",
+      "rating": "7.89",
+      "air time": "Apr 2019 - Oct 2019"
+   },
+   "id: 732": {
+      "name": "Code Geass: Hangyaku no Lelouch I - Koudou",
+      "type": "Movie (1 eps)",
+      "rating": "7.89",
+      "air time": "Oct 2017 - Oct 2017"
+   },
+   "id: 733": {
+      "name": "Fate/Grand Carnival",
+      "type": "OVA (4 eps)",
+      "rating": "7.89",
+      "air time": "Dec 2020 - Oct 2021"
+   },
+   "id: 734": {
+      "name": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+      "type": "Movie (1 eps)",
+      "rating": "7.89",
+      "air time": "Feb 1988 - Feb 1988"
+   },
+   "id: 735": {
+      "name": "Ginga Sengoku Gunyuuden Rai",
+      "type": "TV (52 eps)",
+      "rating": "7.89",
+      "air time": "Apr 1994 - Mar 1995"
+   },
+   "id: 736": {
+      "name": "Initial D Third Stage",
+      "type": "Movie (1 eps)",
+      "rating": "7.89",
+      "air time": "Jan 2001 - Jan 2001"
+   },
+   "id: 737": {
+      "name": "Kami nomi zo Shiru Sekai II",
+      "type": "TV (12 eps)",
+      "rating": "7.89",
+      "air time": "Apr 2011 - Jun 2011"
+   },
+   "id: 738": {
+      "name": "Karigurashi no Arrietty",
+      "type": "Movie (1 eps)",
+      "rating": "7.89",
+      "air time": "Jul 2010 - Jul 2010"
+   },
+   "id: 739": {
+      "name": "Megalo Box",
+      "type": "TV (13 eps)",
+      "rating": "7.89",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 740": {
+      "name": "Mobile Suit Zeta Gundam",
+      "type": "TV (50 eps)",
+      "rating": "7.89",
+      "air time": "Mar 1985 - Feb 1986"
+   },
+   "id: 741": {
+      "name": "Sekaiichi Hatsukoi OVA",
+      "type": "OVA (2 eps)",
+      "rating": "7.89",
+      "air time": "Mar 2011 - Sep 2011"
+   },
+   "id: 742": {
+      "name": "Terra e... (TV)",
+      "type": "TV (24 eps)",
+      "rating": "7.89",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 743": {
+      "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+      "type": "Movie (1 eps)",
+      "rating": "7.88",
+      "air time": "Jan 2010 - Jan 2010"
+   },
+   "id: 744": {
+      "name": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+      "type": "Special (1 eps)",
+      "rating": "7.88",
+      "air time": "Aug 2017 - Aug 2017"
+   },
+   "id: 745": {
+      "name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+      "type": "OVA (1 eps)",
+      "rating": "7.88",
+      "air time": "Apr 2009 - Apr 2009"
+   },
+   "id: 746": {
+      "name": "Osomatsu-san Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.88",
+      "air time": "Mar 2019 - Mar 2019"
+   },
+   "id: 747": {
+      "name": "Space☆Dandy",
+      "type": "TV (13 eps)",
+      "rating": "7.88",
+      "air time": "Jan 2014 - Mar 2014"
+   },
+   "id: 748": {
+      "name": "Wu Shan Wu Xing (2020)",
+      "type": "ONA (3 eps)",
+      "rating": "7.88",
+      "air time": "Jul 2020 - Aug 2020"
+   },
+   "id: 749": {
+      "name": "Zan Sayonara Zetsubou Sensei",
+      "type": "TV (13 eps)",
+      "rating": "7.88",
+      "air time": "Jul 2009 - Sep 2009"
+   },
+   "id: 750": {
+      "name": "Carnival Phantasm",
+      "type": "OVA (12 eps)",
+      "rating": "7.88",
+      "air time": "Aug 2011 - Dec 2011"
+   },
+   "id: 751": {
+      "name": "Detective Conan Movie 02: The Fourteenth Target",
+      "type": "Movie (1 eps)",
+      "rating": "7.88",
+      "air time": "Apr 1998 - Apr 1998"
+   },
+   "id: 752": {
+      "name": "Hoozuki no Reitetsu 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "7.88",
+      "air time": "Oct 2017 - Dec 2017"
+   },
+   "id: 753": {
+      "name": "Inochi no Tabekata",
+      "type": "Music (1 eps)",
+      "rating": "7.88",
+      "air time": "May 2020 - May 2020"
+   },
+   "id: 754": {
+      "name": "Les Misérables: Shoujo Cosette",
+      "type": "TV (52 eps)",
+      "rating": "7.88",
+      "air time": "Jan 2007 - Dec 2007"
+   },
+   "id: 755": {
+      "name": "Beastars",
+      "type": "TV (12 eps)",
+      "rating": "7.87",
+      "air time": "Oct 2019 - Dec 2019"
+   },
+   "id: 756": {
+      "name": "Beelzebub",
+      "type": "TV (60 eps)",
+      "rating": "7.87",
+      "air time": "Jan 2011 - Mar 2012"
+   },
+   "id: 757": {
+      "name": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+      "type": "Movie (1 eps)",
+      "rating": "7.87",
+      "air time": "Jun 2012 - Jun 2012"
+   },
+   "id: 758": {
+      "name": "Bishoujo Senshi Sailor Moon S",
+      "type": "TV (38 eps)",
+      "rating": "7.87",
+      "air time": "Mar 1994 - Feb 1995"
+   },
+   "id: 759": {
+      "name": "Bleach",
+      "type": "TV (366 eps)",
+      "rating": "7.87",
+      "air time": "Oct 2004 - Mar 2012"
+   },
+   "id: 760": {
+      "name": "Densetsu Kyojin Ideon: Hatsudou-hen",
+      "type": "Movie (1 eps)",
+      "rating": "7.87",
+      "air time": "Jul 1982 - Jul 1982"
+   },
+   "id: 761": {
+      "name": "Dramaturgy",
+      "type": "Music (1 eps)",
+      "rating": "7.87",
+      "air time": "Oct 2017 - Oct 2017"
+   },
+   "id: 762": {
+      "name": "High☆Speed! Movie: Free! Starting Days",
+      "type": "Movie (1 eps)",
+      "rating": "7.87",
+      "air time": "Dec 2015 - Dec 2015"
+   },
+   "id: 763": {
+      "name": "Lupin III vs. Detective Conan: The Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.87",
+      "air time": "Dec 2013 - Dec 2013"
+   },
+   "id: 764": {
+      "name": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+      "type": "Special (1 eps)",
+      "rating": "7.87",
+      "air time": "Aug 2014 - Aug 2014"
+   },
+   "id: 765": {
+      "name": "Princess Connect! Re:Dive Season 2",
+      "type": "TV (12 eps)",
+      "rating": "7.87",
+      "air time": "Jan 2022 - Mar 2022"
+   },
+   "id: 766": {
+      "name": "Sayonara Zetsubou Sensei",
+      "type": "TV (12 eps)",
+      "rating": "7.87",
+      "air time": "Jul 2007 - Sep 2007"
+   },
+   "id: 767": {
+      "name": "Seitokai Yakuindomo* OVA",
+      "type": "OVA (10 eps)",
+      "rating": "7.87",
+      "air time": "May 2014 - Sep 2020"
+   },
+   "id: 768": {
+      "name": "Sekaiichi Hatsukoi 2",
+      "type": "TV (12 eps)",
+      "rating": "7.87",
+      "air time": "Oct 2011 - Dec 2011"
+   },
+   "id: 769": {
+      "name": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+      "type": "Movie (1 eps)",
+      "rating": "7.87",
+      "air time": "Mar 2014 - Mar 2014"
+   },
+   "id: 770": {
+      "name": "Summer Ghost",
+      "type": "Movie (1 eps)",
+      "rating": "7.87",
+      "air time": "Nov 2021 - Nov 2021"
+   },
+   "id: 771": {
+      "name": "Tennis no Ouji-sama",
+      "type": "TV (178 eps)",
+      "rating": "7.87",
+      "air time": "Oct 2001 - Mar 2005"
+   },
+   "id: 772": {
+      "name": "Tiger &amp; Bunny",
+      "type": "TV (25 eps)",
+      "rating": "7.87",
+      "air time": "Apr 2011 - Sep 2011"
+   },
+   "id: 773": {
+      "name": "Top wo Nerae! Gunbuster",
+      "type": "OVA (6 eps)",
+      "rating": "7.87",
+      "air time": "Oct 1988 - Jul 1989"
+   },
+   "id: 774": {
+      "name": "Magic Kaito 1412",
+      "type": "TV (24 eps)",
+      "rating": "7.86",
+      "air time": "Oct 2014 - Mar 2015"
+   },
+   "id: 775": {
+      "name": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+      "type": "OVA (3 eps)",
+      "rating": "7.86",
+      "air time": "Sep 2021 - Sep 2022"
+   },
+   "id: 776": {
+      "name": "Musekinin Kanchou Tylor",
+      "type": "TV (26 eps)",
+      "rating": "7.86",
+      "air time": "Jan 1993 - Jul 1993"
+   },
+   "id: 777": {
+      "name": "Noragami Aragoto OVA",
+      "type": "OVA (2 eps)",
+      "rating": "7.86",
+      "air time": "Nov 2015 - Mar 2016"
+   },
+   "id: 778": {
+      "name": "Shingeki no Kyojin OVA",
+      "type": "OVA (3 eps)",
+      "rating": "7.86",
+      "air time": "Dec 2013 - Aug 2014"
+   },
+   "id: 779": {
+      "name": "Tentai Senshi Sunred 2nd Season",
+      "type": "TV (26 eps)",
+      "rating": "7.86",
+      "air time": "Oct 2009 - Mar 2010"
+   },
+   "id: 780": {
+      "name": "There She Is!!",
+      "type": "ONA (5 eps)",
+      "rating": "7.86",
+      "air time": "Apr 2003 - Dec 2008"
+   },
+   "id: 781": {
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+      "type": "TV (12 eps)",
+      "rating": "7.86",
+      "air time": "Jul 2017 - Sep 2017"
+   },
+   "id: 782": {
+      "name": "Yuru Yuri Nachuyachumi!",
+      "type": "OVA (1 eps)",
+      "rating": "7.86",
+      "air time": "Feb 2015 - Feb 2015"
+   },
+   "id: 783": {
+      "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.86",
+      "air time": "Aug 2013 - Aug 2013"
+   },
+   "id: 784": {
+      "name": "Douluo Dalu",
+      "type": "ONA (26 eps)",
+      "rating": "7.86",
+      "air time": "Jan 2018 - Jul 2018"
+   },
+   "id: 785": {
+      "name": "Durarara!! Specials",
+      "type": "Special (2 eps)",
+      "rating": "7.86",
+      "air time": "Aug 2010 - Feb 2011"
+   },
+   "id: 786": {
+      "name": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+      "type": "Movie (1 eps)",
+      "rating": "7.86",
+      "air time": "Jul 2021 - Jul 2021"
+   },
+   "id: 787": {
+      "name": "Golden Kamuy",
+      "type": "TV (12 eps)",
+      "rating": "7.86",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 788": {
+      "name": "Hanasaku Iroha Movie: Home Sweet Home",
+      "type": "Movie (1 eps)",
+      "rating": "7.86",
+      "air time": "Mar 2013 - Mar 2013"
+   },
+   "id: 789": {
+      "name": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+      "type": "OVA (1 eps)",
+      "rating": "7.85",
+      "air time": "Dec 2005 - Dec 2005"
+   },
+   "id: 790": {
+      "name": "Kyoukai no Kanata Movie: I&#039;ll Be Here - Kako-hen - Yakusoku no Kizuna",
+      "type": "Special (1 eps)",
+      "rating": "7.86",
+      "air time": "Mar 2015 - Mar 2015"
+   },
+   "id: 791": {
+      "name": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
+      "type": "Movie (1 eps)",
+      "rating": "7.86",
+      "air time": "Feb 2017 - Feb 2017"
+   },
+   "id: 792": {
+      "name": "Blue Period",
+      "type": "TV (12 eps)",
+      "rating": "7.85",
+      "air time": "Oct 2021 - Dec 2021"
+   },
+   "id: 793": {
+      "name": "Detective Conan Movie 01: The Timed Skyscraper",
+      "type": "Movie (1 eps)",
+      "rating": "7.85",
+      "air time": "Apr 1997 - Apr 1997"
+   },
+   "id: 794": {
+      "name": "Detective Conan Movie 23: The Fist of Blue Sapphire",
+      "type": "Movie (1 eps)",
+      "rating": "7.85",
+      "air time": "Apr 2019 - Apr 2019"
+   },
+   "id: 795": {
+      "name": "Flanders no Inu (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "7.85",
+      "air time": "Mar 1997 - Mar 1997"
+   },
+   "id: 796": {
+      "name": "Gekkan Shoujo Nozaki-kun",
+      "type": "TV (12 eps)",
+      "rating": "7.85",
+      "air time": "Jul 2014 - Sep 2014"
+   },
+   "id: 797": {
+      "name": "Grisaia no Meikyuu: Caprice no Mayu 0",
+      "type": "Special (1 eps)",
+      "rating": "7.85",
+      "air time": "Apr 2015 - Apr 2015"
+   },
+   "id: 798": {
+      "name": "Hoozuki no Reitetsu 2nd Season: Sono Ni",
+      "type": "TV (13 eps)",
+      "rating": "7.85",
+      "air time": "Apr 2018 - Jul 2018"
+   },
+   "id: 799": {
+      "name": "Hoozuki no Reitetsu OVA",
+      "type": "OVA (4 eps)",
+      "rating": "7.85",
+      "air time": "Feb 2015 - Mar 2017"
+   },
+   "id: 800": {
+      "name": "Id:Invaded",
+      "type": "TV (13 eps)",
+      "rating": "7.85",
+      "air time": "Jan 2020 - Mar 2020"
+   },
+   "id: 801": {
+      "name": "InuYasha",
+      "type": "TV (167 eps)",
+      "rating": "7.85",
+      "air time": "Oct 2000 - Sep 2004"
+   },
+   "id: 802": {
+      "name": "Jibaku Shounen Hanako-kun",
+      "type": "TV (12 eps)",
+      "rating": "7.85",
+      "air time": "Jan 2020 - Mar 2020"
+   },
+   "id: 803": {
+      "name": "K-On!",
+      "type": "TV (13 eps)",
+      "rating": "7.85",
+      "air time": "Apr 2009 - Jun 2009"
+   },
+   "id: 804": {
+      "name": "K-On!!: Keikaku!",
+      "type": "Special (1 eps)",
+      "rating": "7.85",
+      "air time": "Mar 2011 - Mar 2011"
+   },
+   "id: 805": {
+      "name": "Kara no Kyoukai Movie 4: Garan no Dou",
+      "type": "Movie (1 eps)",
+      "rating": "7.85",
+      "air time": "May 2008 - May 2008"
+   },
+   "id: 806": {
+      "name": "Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon Desu",
+      "type": "Special (1 eps)",
+      "rating": "7.85",
+      "air time": "Jan 2022 - Jan 2022"
+   },
+   "id: 807": {
+      "name": "Kokoro ga Sakebitagatterunda.",
+      "type": "Movie (1 eps)",
+      "rating": "7.85",
+      "air time": "Sep 2015 - Sep 2015"
+   },
+   "id: 808": {
+      "name": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+      "type": "OVA (1 eps)",
+      "rating": "7.85",
+      "air time": "Jun 2016 - Jun 2016"
+   },
+   "id: 809": {
+      "name": "Magi: Sinbad no Bouken (TV)",
+      "type": "TV (13 eps)",
+      "rating": "7.85",
+      "air time": "Apr 2016 - Jul 2016"
+   },
+   "id: 810": {
+      "name": "Mobile Suit Gundam: Hathaway&#039;s Flash",
+      "type": "Movie (1 eps)",
+      "rating": "7.85",
+      "air time": "Jun 2021 - Jun 2021"
+   },
+   "id: 811": {
+      "name": "Non Non Biyori Repeat: Hotaru ga Tanoshinda",
+      "type": "OVA (1 eps)",
+      "rating": "7.85",
+      "air time": "Sep 2016 - Sep 2016"
+   },
+   "id: 812": {
+      "name": "Paradise Kiss",
+      "type": "TV (12 eps)",
+      "rating": "7.85",
+      "air time": "Oct 2005 - Dec 2005"
+   },
+   "id: 813": {
+      "name": "Seihou Bukyou Outlaw Star",
+      "type": "TV (24 eps)",
+      "rating": "7.85",
+      "air time": "Jan 1998 - Jun 1998"
+   },
+   "id: 814": {
+      "name": "Tanaka-kun wa Itsumo Kedaruge",
+      "type": "TV (12 eps)",
+      "rating": "7.85",
+      "air time": "Apr 2016 - Jun 2016"
+   },
+   "id: 815": {
+      "name": "Tunshi Xingkong 2nd Season",
+      "type": "ONA (52 eps)",
+      "rating": "7.85",
+      "air time": "Dec 2021 -"
+   },
+   "id: 816": {
+      "name": "Uchouten Kazoku",
+      "type": "TV (13 eps)",
+      "rating": "7.85",
+      "air time": "Jul 2013 - Sep 2013"
+   },
+   "id: 817": {
+      "name": "Yi Nian Yong Heng",
+      "type": "ONA (52 eps)",
+      "rating": "7.85",
+      "air time": "Aug 2020 - Jul 2021"
+   },
+   "id: 818": {
+      "name": "Michiko to Hatchin",
+      "type": "TV (22 eps)",
+      "rating": "7.84",
+      "air time": "Oct 2008 - Mar 2009"
+   },
+   "id: 819": {
+      "name": "New Initial D Movie: Legend 3 - Mugen",
+      "type": "Movie (1 eps)",
+      "rating": "7.84",
+      "air time": "Feb 2016 - Feb 2016"
+   },
+   "id: 820": {
+      "name": "Seitokai Yakuindomo Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.84",
+      "air time": "Jul 2017 - Jul 2017"
+   },
+   "id: 821": {
+      "name": "Seto no Hanayome OVA",
+      "type": "OVA (2 eps)",
+      "rating": "7.84",
+      "air time": "Nov 2008 - Jan 2009"
+   },
+   "id: 822": {
+      "name": "Soul Eater",
+      "type": "TV (51 eps)",
+      "rating": "7.84",
+      "air time": "Apr 2008 - Mar 2009"
+   },
+   "id: 823": {
+      "name": "Suzumiya Haruhi no Yuuutsu",
+      "type": "TV (14 eps)",
+      "rating": "7.84",
+      "air time": "Apr 2006 - Jul 2006"
+   },
+   "id: 824": {
+      "name": "Urusei Yatsura 2: Beautiful Dreamer",
+      "type": "Movie (1 eps)",
+      "rating": "7.84",
+      "air time": "Feb 1984 - Feb 1984"
+   },
+   "id: 825": {
+      "name": "Wan Sheng Jie 3",
+      "type": "ONA (12 eps)",
+      "rating": "7.84",
+      "air time": "Jan 2022 - Apr 2022"
+   },
+   "id: 826": {
+      "name": "Yume-iro Pâtissière",
+      "type": "TV (50 eps)",
+      "rating": "7.84",
+      "air time": "Oct 2009 - Sep 2010"
+   },
+   "id: 827": {
+      "name": "Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza",
+      "type": "Movie (1 eps)",
+      "rating": "7.84",
+      "air time": "Oct 2015 - Oct 2015"
+   },
+   "id: 828": {
+      "name": "Beastars 2nd Season",
+      "type": "TV (12 eps)",
+      "rating": "7.84",
+      "air time": "Jan 2021 - Mar 2021"
+   },
+   "id: 829": {
+      "name": "Break Blade Movie 4: Sanka no Chi",
+      "type": "Movie (1 eps)",
+      "rating": "7.84",
+      "air time": "Oct 2010 - Oct 2010"
+   },
+   "id: 830": {
+      "name": "Date A Live IV",
+      "type": "TV (12 eps)",
+      "rating": "7.84",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 831": {
+      "name": "Detective Conan Movie 22: Zero the Enforcer",
+      "type": "Movie (1 eps)",
+      "rating": "7.84",
+      "air time": "Apr 2018 - Apr 2018"
+   },
+   "id: 832": {
+      "name": "Douluo Dalu: Xiaowu Fuhuo",
+      "type": "ONA (13 eps)",
+      "rating": "7.84",
+      "air time": "Nov 2021 - Feb 2022"
+   },
+   "id: 833": {
+      "name": "Gungrave",
+      "type": "TV (26 eps)",
+      "rating": "7.84",
+      "air time": "Oct 2003 - Mar 2004"
+   },
+   "id: 834": {
+      "name": "Ie Naki Ko",
+      "type": "TV (51 eps)",
+      "rating": "7.84",
+      "air time": "Oct 1977 - Oct 1978"
+   },
+   "id: 835": {
+      "name": "K-On!: Live House!",
+      "type": "Special (1 eps)",
+      "rating": "7.84",
+      "air time": "Jan 2010 - Jan 2010"
+   },
+   "id: 836": {
+      "name": "91 Days",
+      "type": "TV (12 eps)",
+      "rating": "7.83",
+      "air time": "Jul 2016 - Oct 2016"
+   },
+   "id: 837": {
+      "name": "Aggressive Retsuko (ONA) 3rd Season",
+      "type": "ONA (10 eps)",
+      "rating": "7.83",
+      "air time": "Aug 2020 - Aug 2020"
+   },
+   "id: 838": {
+      "name": "Capeta",
+      "type": "TV (52 eps)",
+      "rating": "7.83",
+      "air time": "Oct 2005 - Sep 2006"
+   },
+   "id: 839": {
+      "name": "Danshi Koukousei no Nichijou Specials",
+      "type": "Special (6 eps)",
+      "rating": "7.83",
+      "air time": "Apr 2012 - Sep 2012"
+   },
+   "id: 840": {
+      "name": "Eikoku Koi Monogatari Emma: Molders-hen",
+      "type": "TV (12 eps)",
+      "rating": "7.83",
+      "air time": "Apr 2007 - Jul 2007"
+   },
+   "id: 841": {
+      "name": "Haikyuu!! (OVA)",
+      "type": "OVA (10 eps)",
+      "rating": "7.83",
+      "air time": "Mar 2020 - Mar 2020"
+   },
+   "id: 842": {
+      "name": "Igano Kabamaru",
+      "type": "TV (24 eps)",
+      "rating": "7.83",
+      "air time": "Oct 1983 - Mar 1984"
+   },
+   "id: 843": {
+      "name": "Mahoujin Guruguru (2017)",
+      "type": "TV (24 eps)",
+      "rating": "7.83",
+      "air time": "Jul 2017 - Dec 2017"
+   },
+   "id: 844": {
+      "name": "Oniisama e...",
+      "type": "TV (39 eps)",
+      "rating": "7.83",
+      "air time": "Jul 1991 - May 1992"
+   },
+   "id: 845": {
+      "name": "Planetarian: Hoshi no Hito",
+      "type": "Movie (1 eps)",
+      "rating": "7.83",
+      "air time": "Sep 2016 - Sep 2016"
+   },
+   "id: 846": {
+      "name": "Somali to Mori no Kamisama",
+      "type": "TV (12 eps)",
+      "rating": "7.83",
+      "air time": "Jan 2020 - Mar 2020"
+   },
+   "id: 847": {
+      "name": "Tasogare Otome x Amnesia",
+      "type": "TV (12 eps)",
+      "rating": "7.83",
+      "air time": "Apr 2012 - Jun 2012"
+   },
+   "id: 848": {
+      "name": "Working&#039;!!",
+      "type": "TV (13 eps)",
+      "rating": "7.83",
+      "air time": "Oct 2011 - Dec 2011"
+   },
+   "id: 849": {
+      "name": "Yuru Yuri♪♪",
+      "type": "TV (12 eps)",
+      "rating": "7.83",
+      "air time": "Jul 2012 - Sep 2012"
+   },
+   "id: 850": {
+      "name": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+      "type": "Movie (1 eps)",
+      "rating": "7.82",
+      "air time": "Jun 2015 - Jun 2015"
+   },
+   "id: 851": {
+      "name": "Yuusha-Ou GaoGaiGar",
+      "type": "TV (49 eps)",
+      "rating": "7.82",
+      "air time": "Feb 1997 - Jan 1998"
+   },
+   "id: 852": {
+      "name": "Akachan to Boku",
+      "type": "TV (35 eps)",
+      "rating": "7.82",
+      "air time": "Jul 1996 - Mar 1997"
+   },
+   "id: 853": {
+      "name": "Break Blade Movie 5: Shisen no Hate",
+      "type": "Movie (1 eps)",
+      "rating": "7.82",
+      "air time": "Jan 2011 - Jan 2011"
+   },
+   "id: 854": {
+      "name": "Bungou Stray Dogs",
+      "type": "TV (12 eps)",
+      "rating": "7.82",
+      "air time": "Apr 2016 - Jun 2016"
+   },
+   "id: 855": {
+      "name": "Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu",
+      "type": "Movie (1 eps)",
+      "rating": "7.82",
+      "air time": "Apr 2001 - Apr 2001"
+   },
+   "id: 856": {
+      "name": "Goku Sayonara Zetsubou Sensei",
+      "type": "OVA (3 eps)",
+      "rating": "7.82",
+      "air time": "Oct 2008 - Feb 2009"
+   },
+   "id: 857": {
+      "name": "Haikyuu!! Riku vs. Kuu",
+      "type": "OVA (2 eps)",
+      "rating": "7.82",
+      "air time": "Jan 2020 - Jan 2020"
+   },
+   "id: 858": {
+      "name": "Heartcatch Precure!",
+      "type": "TV (49 eps)",
+      "rating": "7.82",
+      "air time": "Feb 2010 - Jan 2011"
+   },
+   "id: 859": {
+      "name": "Hidamari Sketch x 365",
+      "type": "TV (13 eps)",
+      "rating": "7.82",
+      "air time": "Jul 2008 - Sep 2008"
+   },
+   "id: 860": {
+      "name": "Jungle wa Itsumo Hare nochi Guu",
+      "type": "TV (26 eps)",
+      "rating": "7.82",
+      "air time": "Apr 2001 - Sep 2001"
+   },
+   "id: 861": {
+      "name": "Kuroko no Basket: Tip Off",
+      "type": "Special (1 eps)",
+      "rating": "7.82",
+      "air time": "Feb 2013 - Feb 2013"
+   },
+   "id: 862": {
+      "name": "Little Witch Academia (TV)",
+      "type": "TV (25 eps)",
+      "rating": "7.82",
+      "air time": "Jan 2017 - Jun 2017"
+   },
+   "id: 863": {
+      "name": "Lupin III: The First",
+      "type": "Movie (1 eps)",
+      "rating": "7.82",
+      "air time": "Dec 2019 - Dec 2019"
+   },
+   "id: 864": {
+      "name": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
+      "type": "Movie (1 eps)",
+      "rating": "7.82",
+      "air time": "Jun 2014 - Jun 2014"
+   },
+   "id: 865": {
+      "name": "Ai no Utagoe wo Kikasete",
+      "type": "Movie (1 eps)",
+      "rating": "7.81",
+      "air time": "Oct 2021 - Oct 2021"
+   },
+   "id: 866": {
+      "name": "Baby Steps",
+      "type": "TV (25 eps)",
+      "rating": "7.81",
+      "air time": "Apr 2014 - Sep 2014"
+   },
+   "id: 867": {
+      "name": "Chuan Shu Zijiu Zhinan",
+      "type": "ONA (10 eps)",
+      "rating": "7.81",
+      "air time": "Sep 2020 - Oct 2020"
+   },
+   "id: 868": {
+      "name": "City Hunter 3",
+      "type": "TV (13 eps)",
+      "rating": "7.81",
+      "air time": "Oct 1989 - Jan 1990"
+   },
+   "id: 869": {
+      "name": "Detective Conan Movie 07: Crossroad in the Ancient Capital",
+      "type": "Movie (1 eps)",
+      "rating": "7.81",
+      "air time": "Apr 2003 - Apr 2003"
+   },
+   "id: 870": {
+      "name": "Detective Conan Movie 08: Time Travel of the Silver Sky",
+      "type": "Special (1 eps)",
+      "rating": "7.81",
+      "air time": "Apr 2004 - Apr 2004"
+   },
+   "id: 871": {
+      "name": "Douluo Dalu: Feng Qi Tang Men",
+      "type": "ONA (13 eps)",
+      "rating": "7.81",
+      "air time": "Feb 2022 - May 2022"
+   },
+   "id: 872": {
+      "name": "Hidamari Sketch x ☆☆☆ Specials",
+      "type": "Special (2 eps)",
+      "rating": "7.81",
+      "air time": "Oct 2010 - Oct 2010"
+   },
+   "id: 873": {
+      "name": "Jormungand",
+      "type": "TV (12 eps)",
+      "rating": "7.81",
+      "air time": "Apr 2012 - Jun 2012"
+   },
+   "id: 874": {
+      "name": "Kekkai Sensen &amp; Beyond",
+      "type": "TV (12 eps)",
+      "rating": "7.81",
+      "air time": "Oct 2017 - Dec 2017"
+   },
+   "id: 875": {
+      "name": "Little Witch Academia",
+      "type": "Movie (1 eps)",
+      "rating": "7.81",
+      "air time": "Mar 2013 - Mar 2013"
+   },
+   "id: 876": {
+      "name": "Magi: Sinbad no Bouken",
+      "type": "OVA (5 eps)",
+      "rating": "7.81",
+      "air time": "May 2014 - Jul 2015"
+   },
+   "id: 877": {
+      "name": "Maria-sama ga Miteru 3rd",
+      "type": "OVA (5 eps)",
+      "rating": "7.81",
+      "air time": "Dec 2006 - Jul 2007"
+   },
+   "id: 878": {
+      "name": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+      "type": "Special (1 eps)",
+      "rating": "7.81",
+      "air time": "Apr 2010 - Apr 2010"
+   },
+   "id: 879": {
+      "name": "Owarimonogatari 2nd Season Recaps",
+      "type": "Special (2 eps)",
+      "rating": "7.81",
+      "air time": "Aug 2017 - Aug 2017"
+   },
+   "id: 880": {
+      "name": "Psycho-Pass 3: First Inspector",
+      "type": "Movie (3 eps)",
+      "rating": "7.81",
+      "air time": "Mar 2020 - Mar 2020"
+   },
+   "id: 881": {
+      "name": "Saint☆Oniisan (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "7.81",
+      "air time": "May 2013 - May 2013"
+   },
+   "id: 882": {
+      "name": "Saiyuuki Gaiden",
+      "type": "OVA (3 eps)",
+      "rating": "7.81",
+      "air time": "Mar 2011 - Nov 2011"
+   },
+   "id: 883": {
+      "name": "Seikai no Senki II",
+      "type": "TV (10 eps)",
+      "rating": "7.81",
+      "air time": "Jul 2001 - Sep 2001"
+   },
+   "id: 884": {
+      "name": "Slayers Try",
+      "type": "TV (26 eps)",
+      "rating": "7.81",
+      "air time": "Apr 1997 - Sep 1997"
+   },
+   "id: 885": {
+      "name": "Tamayura: Sotsugyou Shashin Part 3 - Akogare",
+      "type": "Movie (1 eps)",
+      "rating": "7.81",
+      "air time": "Nov 2015 - Nov 2015"
+   },
+   "id: 886": {
+      "name": "Wolf&#039;s Rain",
+      "type": "TV (26 eps)",
+      "rating": "7.81",
+      "air time": "Jan 2003 - Jul 2003"
+   },
+   "id: 887": {
+      "name": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii",
+      "type": "Movie (1 eps)",
+      "rating": "7.81",
+      "air time": "Apr 2017 - Apr 2017"
+   },
+   "id: 888": {
+      "name": "Shingeki no Kyojin: Lost Girls",
+      "type": "OVA (3 eps)",
+      "rating": "7.80",
+      "air time": "Dec 2017 - Aug 2018"
+   },
+   "id: 889": {
+      "name": "Aria the Crepuscolo",
+      "type": "Movie (1 eps)",
+      "rating": "7.80",
+      "air time": "Mar 2021 - Mar 2021"
+   },
+   "id: 890": {
+      "name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+      "type": "Special (1 eps)",
+      "rating": "7.80",
+      "air time": "Jul 2009 - Jul 2009"
+   },
+   "id: 891": {
+      "name": "Coquelicot-zaka kara",
+      "type": "Movie (1 eps)",
+      "rating": "7.80",
+      "air time": "Jul 2011 - Jul 2011"
+   },
+   "id: 892": {
+      "name": "Emiya-san Chi no Kyou no Gohan",
+      "type": "ONA (13 eps)",
+      "rating": "7.80",
+      "air time": "Jan 2018 - Jan 2019"
+   },
+   "id: 893": {
+      "name": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
+      "type": "OVA (7 eps)",
+      "rating": "7.80",
+      "air time": "Jul 1992 - Jan 1998"
+   },
+   "id: 894": {
+      "name": "Ginga Tetsudou 999",
+      "type": "TV (113 eps)",
+      "rating": "7.80",
+      "air time": "Sep 1978 - Mar 1981"
+   },
+   "id: 895": {
+      "name": "Hug tto! Precure",
+      "type": "TV (49 eps)",
+      "rating": "7.80",
+      "air time": "Feb 2018 - Jan 2019"
+   },
+   "id: 896": {
+      "name": "InuYasha Movie 3: Tenka Hadou no Ken",
+      "type": "Movie (1 eps)",
+      "rating": "7.80",
+      "air time": "Dec 2003 - Dec 2003"
+   },
+   "id: 897": {
+      "name": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+      "type": "OVA (6 eps)",
+      "rating": "7.80",
+      "air time": "Aug 2002 - Jan 2003"
+   },
+   "id: 898": {
+      "name": "Kumichou Musume to Sewagakari",
+      "type": "TV (12 eps)",
+      "rating": "7.80",
+      "air time": "Jul 2022 -"
+   },
+   "id: 899": {
+      "name": "Last Exile",
+      "type": "TV (26 eps)",
+      "rating": "7.80",
+      "air time": "Apr 2003 - Sep 2003"
+   },
+   "id: 900": {
+      "name": "Lucky☆Star: Original na Visual to Animation",
+      "type": "OVA (1 eps)",
+      "rating": "7.80",
+      "air time": "Sep 2008 - Sep 2008"
+   },
+   "id: 901": {
+      "name": "Macross F Movie 1: Itsuwari no Utahime",
+      "type": "Movie (1 eps)",
+      "rating": "7.80",
+      "air time": "Nov 2009 - Nov 2009"
+   },
+   "id: 902": {
+      "name": "Ame wo Matsu,",
+      "type": "Music (1 eps)",
+      "rating": "7.79",
+      "air time": "Jun 2020 - Jun 2020"
+   },
+   "id: 903": {
+      "name": "Break Blade Movie 3: Kyoujin no Ato",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Sep 2010 - Sep 2010"
+   },
+   "id: 904": {
+      "name": "Detective Conan Movie 09: Strategy Above the Depths",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Apr 2005 - Apr 2005"
+   },
+   "id: 905": {
+      "name": "Detective Conan Movie 12: Full Score of Fear",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Apr 2008 - Apr 2008"
+   },
+   "id: 906": {
+      "name": "Enen no Shouboutai: Ni no Shou",
+      "type": "TV (24 eps)",
+      "rating": "7.79",
+      "air time": "Jul 2020 - Dec 2020"
+   },
+   "id: 907": {
+      "name": "Gochuumon wa Usagi Desu ka??",
+      "type": "TV (12 eps)",
+      "rating": "7.79",
+      "air time": "Oct 2015 - Dec 2015"
+   },
+   "id: 908": {
+      "name": "Gochuumon wa Usagi Desu ka??: Dear My Sister",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Nov 2017 - Nov 2017"
+   },
+   "id: 909": {
+      "name": "Hibike! Euphonium Movie 2: Todoketai Melody",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Sep 2017 - Sep 2017"
+   },
+   "id: 910": {
+      "name": "High Score Girl",
+      "type": "TV (12 eps)",
+      "rating": "7.79",
+      "air time": "Jul 2018 - Sep 2018"
+   },
+   "id: 911": {
+      "name": "Innocence",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Mar 2004 - Mar 2004"
+   },
+   "id: 912": {
+      "name": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Dec 2007 - Dec 2007"
+   },
+   "id: 913": {
+      "name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+      "type": "OVA (8 eps)",
+      "rating": "7.79",
+      "air time": "Oct 2016 - Sep 2017"
+   },
+   "id: 914": {
+      "name": "Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Dec 2016 - Dec 2016"
+   },
+   "id: 915": {
+      "name": "Mobile Suit Gundam Wing: Endless Waltz Special",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Aug 1998 - Aug 1998"
+   },
+   "id: 916": {
+      "name": "Saiyuuki Reload: Burial",
+      "type": "OVA (3 eps)",
+      "rating": "7.79",
+      "air time": "Apr 2007 - Mar 2008"
+   },
+   "id: 917": {
+      "name": "Saraiya Goyou",
+      "type": "TV (12 eps)",
+      "rating": "7.79",
+      "air time": "Apr 2010 - Jul 2010"
+   },
+   "id: 918": {
+      "name": "Sekaiichi Hatsukoi: Valentine-hen",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Mar 2014 - Mar 2014"
+   },
+   "id: 919": {
+      "name": "Shiguang Dailiren Fan Wai Pian: Biwu Zhaoqin",
+      "type": "ONA (1 eps)",
+      "rating": "7.79",
+      "air time": "May 2021 - May 2021"
+   },
+   "id: 920": {
+      "name": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
+      "type": "Movie (1 eps)",
+      "rating": "7.79",
+      "air time": "Jan 2018 - Jan 2018"
+   },
+   "id: 921": {
+      "name": "Tokyo Ghoul",
+      "type": "TV (12 eps)",
+      "rating": "7.79",
+      "air time": "Jul 2014 - Sep 2014"
+   },
+   "id: 922": {
+      "name": "Tunshi Xingkong",
+      "type": "ONA (26 eps)",
+      "rating": "7.79",
+      "air time": "Nov 2020 - May 2021"
+   },
+   "id: 923": {
+      "name": "Magic Kaito",
+      "type": "Special (12 eps)",
+      "rating": "7.78",
+      "air time": "Apr 2010 - Dec 2012"
+   },
+   "id: 924": {
+      "name": "Mind Game",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "Aug 2004 - Aug 2004"
+   },
+   "id: 925": {
+      "name": "New Initial D Movie: Legend 2 - Tousou",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "May 2015 - May 2015"
+   },
+   "id: 926": {
+      "name": "Saenai Heroine no Sodatekata ♭",
+      "type": "TV (11 eps)",
+      "rating": "7.78",
+      "air time": "Apr 2017 - Jun 2017"
+   },
+   "id: 927": {
+      "name": "Seitokai Yakuindomo Movie 2",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "Jan 2021 - Jan 2021"
+   },
+   "id: 928": {
+      "name": "Taishou Otome Otogibanashi",
+      "type": "TV (12 eps)",
+      "rating": "7.78",
+      "air time": "Oct 2021 - Dec 2021"
+   },
+   "id: 929": {
+      "name": "The Last: Naruto the Movie",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "Dec 2014 - Dec 2014"
+   },
+   "id: 930": {
+      "name": "Yuru Yuri Nachuyachumi!+",
+      "type": "Special (2 eps)",
+      "rating": "7.78",
+      "air time": "Aug 2015 - Sep 2015"
+   },
+   "id: 931": {
+      "name": "Zan Sayonara Zetsubou Sensei Bangaichi",
+      "type": "OVA (2 eps)",
+      "rating": "7.78",
+      "air time": "Nov 2009 - Feb 2010"
+   },
+   "id: 932": {
+      "name": "Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem",
+      "type": "OVA (1 eps)",
+      "rating": "7.78",
+      "air time": "Jul 2009 - Jul 2009"
+   },
+   "id: 933": {
+      "name": "Digimon Adventure: Bokura no War Game!",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "Mar 2000 - Mar 2000"
+   },
+   "id: 934": {
+      "name": "Grisaia no Rakuen",
+      "type": "TV (10 eps)",
+      "rating": "7.78",
+      "air time": "Apr 2015 - Jun 2015"
+   },
+   "id: 935": {
+      "name": "Hadashi no Gen",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "Jul 1983 - Jul 1983"
+   },
+   "id: 936": {
+      "name": "Hataraku Maou-sama!",
+      "type": "TV (13 eps)",
+      "rating": "7.78",
+      "air time": "Apr 2013 - Jun 2013"
+   },
+   "id: 937": {
+      "name": "Hoozuki no Reitetsu",
+      "type": "TV (13 eps)",
+      "rating": "7.78",
+      "air time": "Jan 2014 - Apr 2014"
+   },
+   "id: 938": {
+      "name": "Jin-Rou",
+      "type": "Movie (1 eps)",
+      "rating": "7.78",
+      "air time": "Jun 2000 - Jun 2000"
+   },
+   "id: 939": {
+      "name": "Kageki Shoujo!!",
+      "type": "TV (13 eps)",
+      "rating": "7.78",
+      "air time": "Jul 2021 - Sep 2021"
+   },
+   "id: 940": {
+      "name": "Lupin III vs. Detective Conan",
+      "type": "Special (1 eps)",
+      "rating": "7.78",
+      "air time": "Mar 2009 - Mar 2009"
+   },
+   "id: 941": {
+      "name": "Lupin III: Part II",
+      "type": "TV (155 eps)",
+      "rating": "7.78",
+      "air time": "Oct 1977 - Oct 1980"
+   },
+   "id: 942": {
+      "name": "BanG Dream! Garupa☆Pico",
+      "type": "ONA (26 eps)",
+      "rating": "7.77",
+      "air time": "Jul 2018 - Dec 2018"
+   },
+   "id: 943": {
+      "name": "Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma",
+      "type": "OVA (1 eps)",
+      "rating": "7.77",
+      "air time": "Sep 2017 - Sep 2017"
+   },
+   "id: 944": {
+      "name": "Colorful (Movie)",
+      "type": "Movie (1 eps)",
+      "rating": "7.77",
+      "air time": "Aug 2010 - Aug 2010"
+   },
+   "id: 945": {
+      "name": "Devilman: Crybaby",
+      "type": "ONA (10 eps)",
+      "rating": "7.77",
+      "air time": "Jan 2018 - Jan 2018"
+   },
+   "id: 946": {
+      "name": "Digimon Adventure",
+      "type": "TV (54 eps)",
+      "rating": "7.77",
+      "air time": "Mar 1999 - Mar 2000"
+   },
+   "id: 947": {
+      "name": "Ghost Hunt",
+      "type": "TV (25 eps)",
+      "rating": "7.77",
+      "air time": "Oct 2006 - Mar 2007"
+   },
+   "id: 948": {
+      "name": "Haikyuu!! vs. &quot;Akaten&quot;",
+      "type": "OVA (1 eps)",
+      "rating": "7.77",
+      "air time": "May 2016 - May 2016"
+   },
+   "id: 949": {
+      "name": "Heike Monogatari",
+      "type": "TV (11 eps)",
+      "rating": "7.77",
+      "air time": "Sep 2021 - Nov 2021"
+   },
+   "id: 950": {
+      "name": "Hidamari Sketch x SP",
+      "type": "Special (2 eps)",
+      "rating": "7.77",
+      "air time": "Oct 2011 - Nov 2011"
+   },
+   "id: 951": {
+      "name": "Higashi no Eden",
+      "type": "TV (11 eps)",
+      "rating": "7.77",
+      "air time": "Apr 2009 - Jun 2009"
+   },
+   "id: 952": {
+      "name": "Isekai no Seikishi Monogatari",
+      "type": "OVA (13 eps)",
+      "rating": "7.77",
+      "air time": "May 2009 - May 2010"
+   },
+   "id: 953": {
+      "name": "Love Live! School Idol Project 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "7.77",
+      "air time": "Apr 2014 - Jun 2014"
+   },
+   "id: 954": {
+      "name": "Lupin the Third: Mine Fujiko to Iu Onna",
+      "type": "TV (13 eps)",
+      "rating": "7.77",
+      "air time": "Apr 2012 - Jun 2012"
+   },
+   "id: 955": {
+      "name": "Maria-sama ga Miteru 4th",
+      "type": "TV (13 eps)",
+      "rating": "7.77",
+      "air time": "Jan 2009 - Mar 2009"
+   },
+   "id: 956": {
+      "name": "New Initial D Movie: Legend 1 - Kakusei",
+      "type": "Movie (1 eps)",
+      "rating": "7.77",
+      "air time": "Aug 2014 - Aug 2014"
+   },
+   "id: 957": {
+      "name": "Ojamajo Doremi Na-i-sho",
+      "type": "OVA (13 eps)",
+      "rating": "7.77",
+      "air time": "Jun 2004 - Dec 2004"
+   },
+   "id: 958": {
+      "name": "Seitokai Yakuindomo OVA",
+      "type": "OVA (8 eps)",
+      "rating": "7.77",
+      "air time": "Apr 2011 - Oct 2013"
+   },
+   "id: 959": {
+      "name": "Shadows House",
+      "type": "TV (13 eps)",
+      "rating": "7.77",
+      "air time": "Apr 2021 - Jul 2021"
+   },
+   "id: 960": {
+      "name": "Shiki Specials",
+      "type": "Special (2 eps)",
+      "rating": "7.77",
+      "air time": "May 2011 - Jun 2011"
+   },
+   "id: 961": {
+      "name": "Tentai Senshi Sunred",
+      "type": "TV (26 eps)",
+      "rating": "7.77",
+      "air time": "Oct 2008 - Mar 2009"
+   },
+   "id: 962": {
+      "name": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+      "type": "Special (1 eps)",
+      "rating": "7.77",
+      "air time": "Dec 2014 - Dec 2014"
+   },
+   "id: 963": {
+      "name": "The Everlasting Guilty Crown",
+      "type": "Music (1 eps)",
+      "rating": "7.77",
+      "air time": "Mar 2012 - Mar 2012"
+   },
+   "id: 964": {
+      "name": "Mobile Suit Gundam",
+      "type": "TV (43 eps)",
+      "rating": "7.76",
+      "air time": "Apr 1979 - Jan 1980"
+   },
+   "id: 965": {
+      "name": "Overlord II",
+      "type": "TV (13 eps)",
+      "rating": "7.76",
+      "air time": "Jan 2018 - Apr 2018"
+   },
+   "id: 966": {
+      "name": "Ranma ½",
+      "type": "TV (161 eps)",
+      "rating": "7.76",
+      "air time": "Apr 1989 - Sep 1992"
+   },
+   "id: 967": {
+      "name": "Shaman King",
+      "type": "TV (64 eps)",
+      "rating": "7.76",
+      "air time": "Jul 2001 - Sep 2002"
+   },
+   "id: 968": {
+      "name": "Snow Halation",
+      "type": "Music (1 eps)",
+      "rating": "7.76",
+      "air time": "Dec 2010 - Dec 2010"
+   },
+   "id: 969": {
+      "name": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+      "type": "Movie (1 eps)",
+      "rating": "7.76",
+      "air time": "Aug 2015 - Aug 2015"
+   },
+   "id: 970": {
+      "name": "Texhnolyze",
+      "type": "TV (22 eps)",
+      "rating": "7.76",
+      "air time": "Apr 2003 - Sep 2003"
+   },
+   "id: 971": {
+      "name": "Toshokan Sensou: Kakumei no Tsubasa",
+      "type": "Movie (1 eps)",
+      "rating": "7.76",
+      "air time": "Jun 2012 - Jun 2012"
+   },
+   "id: 972": {
+      "name": "Akagami no Shirayuki-hime",
+      "type": "TV (12 eps)",
+      "rating": "7.76",
+      "air time": "Jul 2015 - Sep 2015"
+   },
+   "id: 973": {
+      "name": "BanG Dream! Garupa☆Pico: Oomori",
+      "type": "ONA (26 eps)",
+      "rating": "7.76",
+      "air time": "May 2020 - Oct 2020"
+   },
+   "id: 974": {
+      "name": "City Hunter &#039;91",
+      "type": "TV (13 eps)",
+      "rating": "7.76",
+      "air time": "Apr 1991 - Oct 1991"
+   },
+   "id: 975": {
+      "name": "Detective Conan OVA 10: Kid in Trap Island",
+      "type": "OVA (1 eps)",
+      "rating": "7.76",
+      "air time": "Apr 2010 - Apr 2010"
+   },
+   "id: 976": {
+      "name": "Doraemon (1979)",
+      "type": "TV (1787 eps)",
+      "rating": "7.76",
+      "air time": "Apr 1979 - Mar 2005"
+   },
+   "id: 977": {
+      "name": "Genshiken 2",
+      "type": "TV (12 eps)",
+      "rating": "7.76",
+      "air time": "Oct 2007 - Dec 2007"
+   },
+   "id: 978": {
+      "name": "Go! Princess Precure",
+      "type": "TV (50 eps)",
+      "rating": "7.76",
+      "air time": "Feb 2015 - Jan 2016"
+   },
+   "id: 979": {
+      "name": "Gochuumon wa Usagi Desu ka??: Sing for You",
+      "type": "OVA (1 eps)",
+      "rating": "7.76",
+      "air time": "Sep 2019 - Sep 2019"
+   },
+   "id: 980": {
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+      "type": "TV (373 eps)",
+      "rating": "7.76",
+      "air time": "Jun 1996 - Dec 2004"
+   },
+   "id: 981": {
+      "name": "Kokoro Connect",
+      "type": "TV (13 eps)",
+      "rating": "7.76",
+      "air time": "Jul 2012 - Sep 2012"
+   },
+   "id: 982": {
+      "name": "Kyou kara Maou! 3rd Series",
+      "type": "TV (39 eps)",
+      "rating": "7.76",
+      "air time": "Apr 2008 - Feb 2009"
+   },
+   "id: 983": {
+      "name": "Little Witch Academia: Mahoujikake no Parade",
+      "type": "Movie (1 eps)",
+      "rating": "7.76",
+      "air time": "Oct 2015 - Oct 2015"
+   },
+   "id: 984": {
+      "name": "Aggressive Retsuko (ONA) 2nd Season",
+      "type": "ONA (10 eps)",
+      "rating": "7.75",
+      "air time": "Jun 2019 - Jun 2019"
+   },
+   "id: 985": {
+      "name": "Akebi-chan no Sailor-fuku",
+      "type": "TV (12 eps)",
+      "rating": "7.75",
+      "air time": "Jan 2022 - Mar 2022"
+   },
+   "id: 986": {
+      "name": "BanG Dream! 5th Anniversary Animation: CiRCLE Thanks Party!",
+      "type": "ONA (2 eps)",
+      "rating": "7.75",
+      "air time": "Mar 2022 - Mar 2022"
+   },
+   "id: 987": {
+      "name": "Charlotte",
+      "type": "TV (13 eps)",
+      "rating": "7.75",
+      "air time": "Jul 2015 - Sep 2015"
+   },
+   "id: 988": {
+      "name": "Claymore",
+      "type": "TV (26 eps)",
+      "rating": "7.75",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 989": {
+      "name": "Crayon Shin-chan",
+      "type": "TV (? eps)",
+      "rating": "7.75",
+      "air time": "Apr 1992 -"
+   },
+   "id: 990": {
+      "name": "Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks",
+      "type": "Special (1 eps)",
+      "rating": "7.75",
+      "air time": "Feb 1993 - Feb 1993"
+   },
+   "id: 991": {
+      "name": "Free! Movie 4: The Final Stroke - Zenpen",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Sep 2021 - Sep 2021"
+   },
+   "id: 992": {
+      "name": "Free! Take Your Marks",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Oct 2017 - Oct 2017"
+   },
+   "id: 993": {
+      "name": "Gakuen Babysitters Special",
+      "type": "Special (1 eps)",
+      "rating": "7.75",
+      "air time": "Sep 2018 - Sep 2018"
+   },
+   "id: 994": {
+      "name": "Golden Time",
+      "type": "TV (24 eps)",
+      "rating": "7.75",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 995": {
+      "name": "Hibike! Euphonium Movie 3: Chikai no Finale",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Apr 2019 - Apr 2019"
+   },
+   "id: 996": {
+      "name": "Jinrui wa Suitai Shimashita",
+      "type": "TV (12 eps)",
+      "rating": "7.75",
+      "air time": "Jul 2012 - Sep 2012"
+   },
+   "id: 997": {
+      "name": "Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Feb 2005 - Feb 2005"
+   },
+   "id: 998": {
+      "name": "Kuroko no Basket: Last Game NG-shuu",
+      "type": "Special (1 eps)",
+      "rating": "7.75",
+      "air time": "Sep 2017 - Sep 2017"
+   },
+   "id: 999": {
+      "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
+      "type": "TV (13 eps)",
+      "rating": "7.75",
+      "air time": "Apr 2022 - Jun 2022"
+   },
+   "id: 1000": {
+      "name": "Mobile Suit Gundam III: Encounters in Space",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Mar 1982 - Mar 1982"
+   },
+   "id: 1001": {
+      "name": "Mobile Suit Gundam SEED",
+      "type": "TV (50 eps)",
+      "rating": "7.75",
+      "air time": "Oct 2002 - Sep 2003"
+   },
+   "id: 1002": {
+      "name": "Mobile Suit Gundam Wing: Endless Waltz",
+      "type": "OVA (3 eps)",
+      "rating": "7.75",
+      "air time": "Jan 1997 - Jul 1997"
+   },
+   "id: 1003": {
+      "name": "Shanhe Jian Xin",
+      "type": "ONA (16 eps)",
+      "rating": "7.75",
+      "air time": "Feb 2021 - Mar 2021"
+   },
+   "id: 1004": {
+      "name": "Shokugeki no Souma: Shin no Sara",
+      "type": "TV (12 eps)",
+      "rating": "7.75",
+      "air time": "Oct 2019 - Dec 2019"
+   },
+   "id: 1005": {
+      "name": "Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Oct 2019 - Oct 2019"
+   },
+   "id: 1006": {
+      "name": "Tantei Gakuen Q",
+      "type": "TV (45 eps)",
+      "rating": "7.75",
+      "air time": "Apr 2003 - Mar 2004"
+   },
+   "id: 1007": {
+      "name": "Udon no Kuni no Kiniro Kemari",
+      "type": "TV (12 eps)",
+      "rating": "7.75",
+      "air time": "Oct 2016 - Dec 2016"
+   },
+   "id: 1008": {
+      "name": "Ushiro no Shoumen Daare",
+      "type": "Movie (1 eps)",
+      "rating": "7.75",
+      "air time": "Mar 1991 - Mar 1991"
+   },
+   "id: 1009": {
+      "name": "Mairimashita! Iruma-kun",
+      "type": "TV (23 eps)",
+      "rating": "7.74",
+      "air time": "Oct 2019 - Mar 2020"
+   },
+   "id: 1010": {
+      "name": "Ranma ½ OVA",
+      "type": "OVA (6 eps)",
+      "rating": "7.74",
+      "air time": "Oct 1993 - Aug 1994"
+   },
+   "id: 1011": {
+      "name": "Saint Seiya",
+      "type": "TV (114 eps)",
+      "rating": "7.74",
+      "air time": "Oct 1986 - Apr 1989"
+   },
+   "id: 1012": {
+      "name": "Saint Seiya: Meiou Hades Meikai-hen",
+      "type": "OVA (12 eps)",
+      "rating": "7.74",
+      "air time": "Dec 2005 - Feb 2007"
+   },
+   "id: 1013": {
+      "name": "Shiki",
+      "type": "TV (22 eps)",
+      "rating": "7.74",
+      "air time": "Jul 2010 - Dec 2010"
+   },
+   "id: 1014": {
+      "name": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+      "type": "TV (12 eps)",
+      "rating": "7.74",
+      "air time": "Apr 2015 - Jun 2015"
+   },
+   "id: 1015": {
+      "name": "Sonny Boy",
+      "type": "TV (12 eps)",
+      "rating": "7.74",
+      "air time": "Jul 2021 - Oct 2021"
+   },
+   "id: 1016": {
+      "name": "Tegamibachi Reverse",
+      "type": "TV (25 eps)",
+      "rating": "7.74",
+      "air time": "Oct 2010 - Mar 2011"
+   },
+   "id: 1017": {
+      "name": "Tiger &amp; Bunny Movie 2: The Rising",
+      "type": "Movie (1 eps)",
+      "rating": "7.74",
+      "air time": "Feb 2014 - Feb 2014"
+   },
+   "id: 1018": {
+      "name": "Ani ni Tsukeru Kusuri wa Nai! 2",
+      "type": "TV (24 eps)",
+      "rating": "7.74",
+      "air time": "Jul 2018 - Dec 2018"
+   },
+   "id: 1019": {
+      "name": "Bishoujo Senshi Sailor Moon Crystal Season III",
+      "type": "TV (13 eps)",
+      "rating": "7.74",
+      "air time": "Apr 2016 - Jun 2016"
+   },
+   "id: 1020": {
+      "name": "Black Jack",
+      "type": "OVA (12 eps)",
+      "rating": "7.74",
+      "air time": "Dec 1993 - Dec 2011"
+   },
+   "id: 1021": {
+      "name": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+      "type": "TV (12 eps)",
+      "rating": "7.74",
+      "air time": "Jan 2019 - Mar 2019"
+   },
+   "id: 1022": {
+      "name": "Doupo Cangqiong 3rd Season",
+      "type": "ONA (12 eps)",
+      "rating": "7.74",
+      "air time": "Jul 2019 - Sep 2019"
+   },
+   "id: 1023": {
+      "name": "Ghost (Music)",
+      "type": "Music (1 eps)",
+      "rating": "7.74",
+      "air time": "Apr 2021 - Apr 2021"
+   },
+   "id: 1024": {
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+      "type": "TV (12 eps)",
+      "rating": "7.74",
+      "air time": "Apr 2018 - Jun 2018"
+   },
+   "id: 1025": {
+      "name": "Gundam Build Fighters",
+      "type": "TV (25 eps)",
+      "rating": "7.74",
+      "air time": "Oct 2013 - Mar 2014"
+   },
+   "id: 1026": {
+      "name": "InuYasha: Kuroi Tessaiga",
+      "type": "Special (1 eps)",
+      "rating": "7.74",
+      "air time": "Jul 2008 - Jul 2008"
+   },
+   "id: 1027": {
+      "name": "Junjou Romantica 2",
+      "type": "TV (12 eps)",
+      "rating": "7.74",
+      "air time": "Oct 2008 - Dec 2008"
+   },
+   "id: 1028": {
+      "name": "Kyoukai no Kanata",
+      "type": "TV (12 eps)",
+      "rating": "7.74",
+      "air time": "Oct 2013 - Dec 2013"
+   },
+   "id: 1029": {
+      "name": "Lucky☆Star",
+      "type": "TV (24 eps)",
+      "rating": "7.74",
+      "air time": "Apr 2007 - Sep 2007"
+   },
+   "id: 1030": {
+      "name": "Akage no Anne",
+      "type": "TV (50 eps)",
+      "rating": "7.73",
+      "air time": "Jan 1979 - Dec 1979"
+   },
+   "id: 1031": {
+      "name": "Asagao to Kase-san.",
+      "type": "OVA (1 eps)",
+      "rating": "7.73",
+      "air time": "Jun 2018 - Jun 2018"
+   },
+   "id: 1032": {
+      "name": "Detective Conan Movie 24: The Scarlet Bullet",
+      "type": "Movie (1 eps)",
+      "rating": "7.73",
+      "air time": "Apr 2021 - Apr 2021"
+   },
+   "id: 1033": {
+      "name": "Final Fantasy VII: Advent Children",
+      "type": "Movie (1 eps)",
+      "rating": "7.73",
+      "air time": "Sep 2005 - Sep 2005"
+   },
+   "id: 1034": {
+      "name": "Free! Movie 3: Road to the World - Yume",
+      "type": "Movie (1 eps)",
+      "rating": "7.73",
+      "air time": "Jul 2019 - Jul 2019"
+   },
+   "id: 1035": {
+      "name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
+      "type": "TV (12 eps)",
+      "rating": "7.73",
+      "air time": "Jan 2016 - Mar 2016"
+   },
+   "id: 1036": {
+      "name": "Hidamari Sketch x 365 Specials",
+      "type": "Special (3 eps)",
+      "rating": "7.73",
+      "air time": "Mar 2009 - Oct 2009"
+   },
+   "id: 1037": {
+      "name": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+      "type": "Special (1 eps)",
+      "rating": "7.73",
+      "air time": "Sep 2017 - Sep 2017"
+   },
+   "id: 1038": {
+      "name": "Kyousou Giga (TV)",
+      "type": "TV (10 eps)",
+      "rating": "7.73",
+      "air time": "Oct 2013 - Dec 2013"
+   },
+   "id: 1039": {
+      "name": "Master Keaton OVA",
+      "type": "OVA (15 eps)",
+      "rating": "7.73",
+      "air time": "Dec 1999 - Jun 2000"
+   },
+   "id: 1040": {
+      "name": "Mujin Wakusei Survive",
+      "type": "TV (52 eps)",
+      "rating": "7.73",
+      "air time": "Oct 2003 - Oct 2004"
+   },
+   "id: 1041": {
+      "name": "Neko no Ongaeshi",
+      "type": "Movie (1 eps)",
+      "rating": "7.73",
+      "air time": "Jul 2002 - Jul 2002"
+   },
+   "id: 1042": {
+      "name": "Noragami OVA",
+      "type": "OVA (2 eps)",
+      "rating": "7.73",
+      "air time": "Feb 2014 - Jul 2014"
+   },
+   "id: 1043": {
+      "name": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
+      "type": "Movie (1 eps)",
+      "rating": "7.73",
+      "air time": "Mar 2005 - Mar 2005"
+   },
+   "id: 1044": {
+      "name": "Pokemon: The Origin",
+      "type": "Special (4 eps)",
+      "rating": "7.73",
+      "air time": "Oct 2013 - Oct 2013"
+   },
+   "id: 1045": {
+      "name": "Slayers",
+      "type": "TV (26 eps)",
+      "rating": "7.73",
+      "air time": "Apr 1995 - Sep 1995"
+   },
+   "id: 1046": {
+      "name": "Taiyou no Ko Esteban",
+      "type": "TV (39 eps)",
+      "rating": "7.73",
+      "air time": "May 1982 - Feb 1983"
+   },
+   "id: 1047": {
+      "name": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune",
+      "type": "Movie (1 eps)",
+      "rating": "7.73",
+      "air time": "Dec 2014 - Dec 2014"
+   },
+   "id: 1048": {
+      "name": "Ueki no Housoku",
+      "type": "TV (51 eps)",
+      "rating": "7.73",
+      "air time": "Apr 2005 - Mar 2006"
+   },
+   "id: 1049": {
+      "name": "Watashi no Ashinaga Ojisan",
+      "type": "TV (40 eps)",
+      "rating": "7.73",
+      "air time": "Jan 1990 - Dec 1990"
+   },
+   "id: 1050": {
+      "name": "Yamato Nadeshiko Shichihenge♥",
+      "type": "TV (25 eps)",
+      "rating": "7.73",
+      "air time": "Oct 2006 - Mar 2007"
+   }
+}
