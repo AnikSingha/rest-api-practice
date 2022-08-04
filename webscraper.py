@@ -36,7 +36,7 @@ def get_show_info(info):
     return show_type, air_time
 
 
-for i in range(0, 1050, 50):
+for i in range(0, 1000, 50):
 
     html_doc = requests.get(f'https://myanimelist.net/topanime.php?limit={i}').text
 
