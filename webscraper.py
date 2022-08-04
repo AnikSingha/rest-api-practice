@@ -2,7 +2,6 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
-url = 'https://myanimelist.net/topanime.php?limit='
 
 data = {}
 
@@ -15,7 +14,13 @@ def get_shows(show):
     try:
         rating = show.find(class_='text on score-label score-8').text #Anime rating
     except:
-        rating = "unknown"
+        try:
+            rating = show.find(class_='text on score-label score-7').text #Anime rating
+        except:
+            try:
+                rating = show.find(class_='text on score-label score-9').text #Anime rating
+            except:
+                rating = "unknown"
 
     info = show.find(class_='information di-ib mt4').text
 
