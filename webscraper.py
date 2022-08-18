@@ -15,10 +15,10 @@ def get_shows(show):
         rating = show.find(class_='text on score-label score-8').text #Anime rating
     except:
         try:
-            rating = show.find(class_='text on score-label score-7').text #Anime rating
+            rating = show.find(class_='text on score-label score-7').text 
         except:
             try:
-                rating = show.find(class_='text on score-label score-9').text #Anime rating
+                rating = show.find(class_='text on score-label score-9').text
             except:
                 rating = "unknown"
 
@@ -52,6 +52,6 @@ for i in range(0, 1000, 50):
 
 
 with open('data.json','w') as jsonFile:
-    json.dump(data, jsonFile)
+    json.dump(data, jsonFile, indent=3)
 
 

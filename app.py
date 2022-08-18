@@ -5,6 +5,7 @@ data = json.load(open('data.json', 'r'))
 
 app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
+app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
 
 @app.route('/', methods = ['GET'])
 def home():
