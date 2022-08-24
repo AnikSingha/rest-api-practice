@@ -9,12 +9,25 @@ app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
 
 @app.route('/', methods = ['GET'])
 def home():
+    return data
+
+@app.route('/anime', methods = ['GET'])
+def anime():
     id = request.args.get('id')
     if id == None:
-        return data
+        return data["anime"]
     elif int(id) > 1000:
         return "<h1>404 Not Found</h1>"
-    return data[f"id: {id}"]
+    return data["anime"][f"id: {id}"]
+
+@app.route('/manga', methods = ['GET'])
+def manga():
+    id = request.args.get('id')
+    if id == None:
+        return data["manga"]
+    elif int(id) > 1000:
+        return "<h1>404 Not Found</h1>"
+    return data["manga"][f"id: {id}"]
 
 if __name__ == '__main__':
     app.run()
