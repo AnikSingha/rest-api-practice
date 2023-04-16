@@ -16,7 +16,7 @@ def anime():
     id = request.args.get('id')
     if id == None:
         return data["anime"]
-    elif int(id) > 1000:
+    elif int(id) > 4999:
         return "<h1>404 Not Found</h1>"
     return data["anime"][f"id: {id}"]
 
@@ -25,7 +25,7 @@ def manga():
     id = request.args.get('id')
     if id == None:
         return data["manga"]
-    elif int(id) > 1000:
+    elif int(id) > 2550:
         return "<h1>404 Not Found</h1>"
     return data["manga"][f"id: {id}"]
 
