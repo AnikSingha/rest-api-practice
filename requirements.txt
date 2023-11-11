@@ -1,4 +1,4 @@
 #beautifulsoup4==4.11.1 for webscraper.py
-requests==2.26.0 for webscraper.py
+requests==2.26.0
 Flask==2.1.2
 
